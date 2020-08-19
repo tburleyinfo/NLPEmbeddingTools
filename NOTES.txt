@@ -1,0 +1,51 @@
+
+The goal of this new workflow is to give insight on two unsupervised 
+learning algorithms as solutions to the potential "noisy trigger" problem. 
+
+
+Definitions
+    Noisy vs Sharp Events: 
+        Noisy:
+            An event is sharp when the words used to characterize it are unique to the event. 
+            High Accuracy in a model using term frequency vectorization indicates the event is a sharp event. 
+        Sharp:
+            An event is noisy when the words used to characterize it cannot be distiguished from the characterization of another potential event. 
+            Low Accuracy in a model using term frequency vectorization indicates the event is a noisy event.
+    Vectorization:
+        TF-IDF: 
+            In information retrieval, tf–idf or TFIDF, short for term frequency–inverse document frequency, is a numerical statistic that is intended 
+            to reflect how important a word is to a document in a collection or corpus.[1] It is often used as a weighting factor in searches of 
+            information retrieval, text mining, and user modeling. The tf–idf value increases proportionally to the number of times a word appears in 
+            the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some 
+            words appear more frequently in general. tf–idf is one of the most popular term-weighting schemes today. A survey conducted in 2015 showed 
+            that 83% of text-based recommender systems in digital libraries use tf–idf.
+                Term Frequency vectorization is only useful for recommender systems and Sharp Event Extraction. 
+        Word2Vec: 
+            Word2vec is a two-layer neural net that processes text by “vectorizing” words. Its input is a text corpus and its output is a set of vectors: 
+            feature vectors that represent words in that corpus. While Word2vec is not a deep neural network, it turns text into a numerical form that 
+            deep neural networks can understand.
+                Word2Vec is useful for creating word context using cosine similarity but still not enough to address the Noisy event extraction problem. 
+        POSpair: 
+            POSPair model works on a basic principle. Sentence consists of a set of words. Each word is categorized into different part-of-speech based 
+            on their function. Each part-of-speech explain how a word is used in a sentence. On the basis of the above, words in a sentence are only 
+            associated to specific words. Such as Adjective describes Noun, Verb describes action or state of Noun; but Adjective doesn’t describe about 
+            Verb or vice-versa(such relation provides wrong values).
+                POSpair creates a word embedding that takes into account the structure of the sentence which mimics human readers. This vectorization method 
+                is ideal for the noisy trigger problem because the embedding is Neurally generated, cosine similarity accounts (to some degree) for synonmyization, 
+                and part of speech gives an extra layer of structure that can potentially handle the nuances of noisy events. 
+    Unsupervised Learning Methods: 
+        DBSCAN: 
+            given a set of points in some space, it groups together points that are closely packed together (points with many nearby neighbors), marking as outliers 
+            points that lie alone in low-density regions (whose nearest neighbors are too far away). DBSCAN is one of the most common clustering algorithms and also 
+            most cited in scientific literature.[2]
+                DBSCAN is a potential solution for noisy triggers primarily because its an adaptive clustering algorithm. 
+        Agglomerative/Divisive Hierarchial clustering: 
+            Clustering algorithm that builds a Hierarchy of clusters. Usually represented by a dendrograph. 
+                Hierarchial Clustering is a potential solution because it adaptively creates clusters for every data point in the set. 
+
+
+Solution One (Current one): 
+    Train a small amount of labeled articles vectorized with TFIDF in an SVM and test the kernel on untouched articles. 
+
+Solution Two (POSVect + Clustering): 
+    Vectorize with POSpair and use Divisive Clustering to group the articles and pick the cluster with yes in them. 
