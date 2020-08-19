@@ -8,6 +8,7 @@ import json
 from bs4 import BeautifulSoup
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 import os
+import pandas as pd
 
 #ELMo is a TensorFlow Algorithm. 
 import tensorflow_hub as hub
@@ -75,6 +76,92 @@ class PreProcess:
         os.chdir(home)
         return textlist
 
+    def metaDataFrame(directory, to_csv=True):
+
+        def jsonReader(filename):
+            with open(filename) as f_in:
+                return(json.load(f_in))
+
+        textlist = []
+        home = os.getcwd()
+        os.chdir(directory)
+        now = os.getcwd()
+        data = []
+        os.listdir(os.getcwd())
+        for filename in os.listdir(os.getcwd()):
+            name, file_extension = os.path.splitext(filename)
+            if '.json' in file_extension:
+                my_data = jsonReader(filename)
+                data.append(my_data)
+               
+
+        from cleantext import clean
+        
+        for article in data:
+            soup = json.dumps(article["Document"]["Content"], indent=4, sort_keys=True)
+            soup = BeautifulSoup(soup, features="lxml")
+            #print(soup.prettify())
+            doc = []
+            clean_doc = []
+            for line in soup.find("bodytext").findAll("p", recursive=False): 
+                doc.append(line.getText())
+            for text in doc:
+                cleaned = clean(text,
+                            fix_unicode=True,               # fix various unicode errors
+                            to_ascii=True,                  # transliterate to closest ASCII representation
+                            lower=False,                    # lowercase text
+                            no_line_breaks=False,           # fully strip line breaks as opposed to only normalizing them
+                            no_urls=False,                  # replace all URLs with a special token
+                            no_emails=False,                # replace all email addresses with a special token
+                            no_phone_numbers=False,         # replace all phone numbers with a special token
+                            no_numbers=False,               # replace all numbers with a special token
+                            no_digits=False,                # replace all digits with a special token
+                            no_currency_symbols=False,      # replace all currency symbols with a special token
+                            no_punct=False,                 # fully remove punctuation
+                            replace_with_url="<URL>",
+                            replace_with_email="<EMAIL>",
+                            replace_with_phone_number="<PHONE>",
+                            replace_with_number="<NUMBER>",
+                            replace_with_digit="0",
+                            replace_with_currency_symbol="<CUR>",
+                            lang="en"                       # set to 'de' for German special handling
+                        )
+                clean_doc.append(cleaned)
+            clean_doc = TreebankWordDetokenizer().detokenize(clean_doc)
+            textlist.append(clean_doc)
+
+        dates = []
+        for article in data:
+            soup = json.dumps(article["Date"], indent=4, sort_keys=True)
+            soup = BeautifulSoup(soup, features="lxml")
+            dates.append(soup.getText())
+
+        doc_ids = []
+        for article in data:
+            soup = json.dumps(article["ResultId"], indent=4, sort_keys=True)
+            soup = BeautifulSoup(soup, features="lxml")
+            doc_ids.append(str(soup.getText()).replace("urn:contentItem:", ""))
+
+        name = str(directory).split("-")[0]
+        #.replace("_", " ")
+        country = [name] * len(dates)
+
+        #Write DATAFRAME
+        table = [country, textlist, dates, doc_ids]
+
+        df = pd.DataFrame(table)
+        df = df.transpose()
+        os.chdir(home)
+
+        if to_csv==True:
+            import csv
+            rows = zip(country, textlist, dates, doc_ids)
+            with open("output.csv", "w") as f:
+                writer = csv.writer(f)
+                for row in rows:
+                    writer.writerow(row)
+
+        return df
 
 class Reshape: 
     #Tutorial: https://www.youtube.com/watch?v=fCVuiW9AFzY

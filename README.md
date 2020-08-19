@@ -1,5 +1,6 @@
 INSTALL PYTHON DEPENDENCIES
 `python3 -m pip install -r requirements.txt`
+`Insight: https://medium.com/@boscacci/why-and-how-to-make-a-requirements-txt-f329c685181e`
 
 DO NOT USE THIS COMMAND: 
 `pip freeze > requirements.txt`
