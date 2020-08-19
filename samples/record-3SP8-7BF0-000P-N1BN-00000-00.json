@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3SP8-7BF0-000P-N1BN-00000-00",
+  "Jurisdiction": "New York",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Reuters ",
+  "WordLength": 111,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Section A; ; Section A; Page 5; Column 1; Foreign Desk ; Column 1; ",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "World News Briefs;Congolese Plans to Serve Without Prime Minister",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP8-7BF0-000P-N1BN-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "The New York Times, Section A; Section A; Page 5; Column 1; Foreign Desk ; Column 1; , 111words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  who has proclaimed himself President of the former  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> , will not appoint a prime minister, one of his chief lieutenants said today. \"There will be no prime minister,\" the aide, Gaetan Kakudji, said at a news conference just after midnight. \"It is a presidential regime.\" Mr. Kabila and his rebel troops, the Alliance of Democratic Forces, ousted President Mobutu Sese Seko on Saturday. Just before midnight on Thursday, the state radio broadcast a list of 13 ministers in a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional Government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the state radio broadcast a list of 13 ministers in a <xhtml:span class=\"hit\">transitional Government</xhtml:span> . There was no mention of a prime minister, the post ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 23 Laurent Kabila, who has proclaimed himself President of the former <xhtml:span class=\"hit\">Zaire</xhtml:span> , will not appoint a prime minister, one of his chief ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP8-7BF0-000P-N1BN-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP8-7BF0-000P-N1BN-00000-00</id><title>World News Briefs;Congolese Plans to Serve Without Prime Minister</title><published>1997-05-23T00:00:00Z</published><updated>2020-08-04T18:50:44Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Section A; </positionSection></sourceSectionInfo><sourceSectionInfo><positionSection>Section A; Page 5; Column 1; Foreign Desk </positionSection></sourceSectionInfo><nitf:fixture xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\">Column 1; </nitf:fixture><distribution>Foreign Desk </distribution></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>World News Briefs;<br/>Congolese Plans to Serve Without Prime Minister</nitf:hl1></nitf:hedline><nitf:byline>Reuters </nitf:byline><nitf:dateline>KINSHASA, Congo, Friday, May 23</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Laurent Kabila, who has proclaimed himself President of the former Zaire, will not appoint a prime minister, one of his chief lieutenants said today.</p><p nitf:lede=\"true\">\"There will be no prime minister,\" the aide, Gaetan Kakudji, said at a news conference just after midnight. \"It is a presidential regime.\" Mr. Kabila and his rebel troops, the Alliance of Democratic Forces, ousted President Mobutu Sese Seko on Saturday.</p><p>Just before midnight on Thursday, the state radio broadcast a list of 13 ministers in a transitional Government.</p><p>There was no mention of a prime minister, the post which Mr. Kabila was under pressure to give to Etienne Tshisekedi, a longtime opponent of Mr. Mobutu.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">NYT1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP8-7BF0-000P-N1BN-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">6742</dc:source><dc:date dateType=\"last-updated\">2019-10-28</dc:date></dc:metadata><pagination><pageSequence><page/></pageSequence></pagination><wordCount number=\"111\"/><publicationInfo><publicationName>The New York Times</publicationName><copyright>Copyright 1997 The New York Times Company</copyright><publicationDate day=\"23\" month=\"05\" year=\"1997\"><dateText>May 23, 1997, Friday, Late Edition - Final</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newspapers</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000D17D</classCode><className>NEWS BRIEFS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST00096SZ</classCode><className>PRESS CONFERENCES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"56\"><classCode>STX001432</classCode><className>PUBLIC RADIO</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The New York Times",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

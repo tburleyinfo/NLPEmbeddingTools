@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3SP2-9CC0-006F-X1VP-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 140,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; NEW PRIME MINISTER; AL/D2890/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-11T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zairean radio gives brief biography of new Prime Minister Likulia Bolongo",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-9CC0-006F-X1VP-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; NEW PRIME MINISTER; AL/D2890/A, 140words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  consensus of the confidence the political class had placed in Mr Tshisekedi wa Mulumba by naming him prime minister. Source: Voix du <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>,  Kinshasa , in French 1800 gmt 9 Apr 97 Who is General Likulia? General Likulia has a doctorate degree in law and is a university professor. He was a major-general in the Zairean Armed Forces [ZAF] and a one-time auditor-general of the FAZ. He was a deputy prime minister in charge of national defence and veterans' affairs in the last <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in charge of national defence and veterans' affairs in the last <xhtml:span class=\"hit\">transitional government</xhtml:span>…...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-9CC0-006F-X1VP-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-9CC0-006F-X1VP-00000-00</id><title>Zairean radio gives brief biography of new Prime Minister Likulia Bolongo</title><published>1997-04-11T00:00:00Z</published><updated>2020-08-04T18:53:10Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; NEW PRIME MINISTER; AL/D2890/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zairean radio gives brief biography of new Prime Minister Likulia Bolongo</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[9]</p><p nitf:lede=\"true\">Ecerpt from report by Zairean radio on 9th April</p><p nitf:lede=\"true\">The president of the republic has just signed Decree 97/060 of 9th April 1997, appointing Maj-Gen Likulia Bolongo prime minister and head of government.</p><p nitf:lede=\"true\">This decree is the consequence of Decree 97/058 of 8th April 1997, extending the state of emergency throughout the country, and the withdrawal by consensus of the confidence the political class had placed in Mr Tshisekedi wa Mulumba by naming him prime minister.</p><section sectionType=\"source\"><bodyText><p>Source: Voix du Zaire, Kinshasa, in French 1800 gmt 9 Apr 97</p></bodyText></section><p>Who is General Likulia? General Likulia has a doctorate degree in law and is a university professor. He was a major-general in the Zairean Armed Forces [ZAF] and a one-time auditor-general of the FAZ. He was a deputy prime minister in charge of national defence and veterans' affairs in the last transitional government…</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-9CC0-006F-X1VP-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"140\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1997 British Broadcasting Corporation</copyright><publicationDate day=\"11\" month=\"04\" year=\"1997\"><dateText>April 11, 1997, Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"94\"><className>ZAIREAN ARMED FORCES </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"94\"><className>ZAIREAN ARMED FORCES </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>ST0009JYC</classCode><className>CERTIFICATES, DEGREES &amp; DIPLOMAS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N921130JM</classCode><className>GOVERNMENT CONTROLLERS &amp; AUDITORS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX000181</classCode><className>PROFILES &amp; BIOGRAPHIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N923140CC</classCode><className>VETERANS AFFAIRS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001797</classCode><className>VETERANS</className><classCode>Z3VpZD11cm46dG9waWM6RTNGOTI0NDFEMTIwNDIwRDhCMkM0MTE4NDVFMEE2QzE7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Veterans</className></classificationItem><classificationItem score=\"54\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N921130JM</classCode><className>GOVERNMENT CONTROLLERS &amp; AUDITORS</className><classCode/><className/></classificationItem><classificationItem score=\"54\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

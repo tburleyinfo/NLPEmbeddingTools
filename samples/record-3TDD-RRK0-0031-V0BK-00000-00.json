@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TDD-RRK0-0031-V0BK-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 235,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-01-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "Great Lakes summit postponed, says Mandela's office",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-RRK0-0031-V0BK-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse, International news, 235words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> between ethnic Tutsis and the Zairean army. In Nairobi in December, Mandela attended a summit on a ceasefire and political settlement in  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  as well as a review of policy on  Burundi , where 150,000 Hutus and Tutsis have died in fighting since 1993. Mandela remains committed to the spirit of the summit and hopes an alternative date could be set speedily, Mankahlana said. Mankahlana said that Mandela will instead, on Monday, meet with Angolan opposition leader Jonas Savimbi at the president's ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Africa 's east coast to discuss the establishment of a national <xhtml:span class=\"hit\">unity government</xhtml:span> in Angola , SAPA news agency said. Mandela is scheduled to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... for the summit which is to discuss the fighting in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> between ethnic Tutsis and the Zairean army. In Nairobi in December, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-RRK0-0031-V0BK-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-RRK0-0031-V0BK-00000-00</id><title>Great Lakes summit postponed, says Mandela's office</title><published>1997-01-03T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Great Lakes summit postponed, says Mandela's office</nitf:hl1></nitf:hedline><nitf:dateline>PRETORIA, Jan 3</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">An African leaders' summit on the conflicts in the Great Lakes region that was scheduled Monday for the Zairean capital, Kinshasa, has been postponed, President Nelson Mandela's office said Friday.</p><p nitf:lede=\"true\">\"It was a collective decision taken by the different governments today.</p><p>It will allow for more thorough preparation for the next summit,\" Mandela's media spokesman, Parks Mankahlana, said.</p><p>Mankahlana said a delegation of foreign ministers would meet in Kinshasa soon to set another date for the summit which is to discuss the fighting in eastern Zaire between ethnic Tutsis and the Zairean army.</p><p>In Nairobi in December, Mandela attended a summit on a ceasefire and political settlement in Zaire as well as a review of policy on Burundi, where 150,000 Hutus and Tutsis have died in fighting since 1993.</p><p>Mandela remains committed to the spirit of the summit and hopes an alternative date could be set speedily, Mankahlana said.</p><p>Mankahlana said that Mandela will instead, on Monday, meet with Angolan opposition leader Jonas Savimbi at the president's home in Qunu on South Africa's east coast to discuss the establishment of a national unity government in Angola, SAPA news agency said.</p><p>Mandela is scheduled to attend the inauguration of the new Angolan government, made up of President Eduardo dos Santos' majority MPLA and Savimbi's UNITA group, in Luanda on January 20.</p><p>sbm/gk</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-RRK0-0031-V0BK-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"235\"/><timeReceived>03:16 GMT</timeReceived><publicationInfo><publicationName>Agence France Presse</publicationName><copyright>Copyright 1997 Agence France Presse</copyright><publicationDate month=\"01\" day=\"03\" year=\"1997\"><dateText>January 03, 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"88\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>PE000DL7A</classCode><className>JOSE EDUARDO DOS SANTOS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"88\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX006</classCode><className>LUANDA, ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

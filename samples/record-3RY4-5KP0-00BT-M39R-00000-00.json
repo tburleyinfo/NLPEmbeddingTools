@@ -1,0 +1,73 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5KP0-00BT-M39R-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "The Associated Press ",
+  "WordLength": 420,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "Nations hope for peaceful transition in Zaire With BC-Zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5KP0-00BT-M39R-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 420words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  With BC-<xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> The Associated Press  U.N.  Secretary General Kofi Annan said Saturday he hoped <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>'s capital could be spared a bloody conflict now that Laurent Kabila's rebels have moved in. Annan said the  United Nations , in close cooperation with the countries of the region, is hoping to persuade the warring parties to form a coalition government of all forces involved in the conflict. ''We have not given up hope of getting the parties to accept some sort of a transitional arrangement ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... .'' The 56-year-old rebel leader whose troops entered the capital of <xhtml:span class=\"hit\">Zaire</xhtml:span> after an eight-month westward sweep across the country, pledged to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> by Tuesday and issue a new constitution within 60 days. But ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... expressed its displeasure that a negotiated solution did not prevail in <xhtml:span class=\"hit\">Zaire</xhtml:span> . France was waiting for the ''new leaders'' quickly to establish ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... With BC- <xhtml:span class=\"hit\">Zaire</xhtml:span> The Associated Press  U.N.  Secretary General Kofi Annan said Saturday he hoped <xhtml:span class=\"hit\">Zaire</xhtml:span> 's capital could be spared a bloody conflict now that Laurent ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... opportunity for change and a new start for the people of <xhtml:span class=\"hit\">Zaire</xhtml:span> ,'' a Foreign Ministry spokesman said anonymously. ''We hope it signals ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... a ''comprehensive and inclusive process to for all the people of <xhtml:span class=\"hit\">Zaire</xhtml:span>.''...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... reported. There are no plans to evacuate the 390 Spanards in <xhtml:span class=\"hit\">Zaire</xhtml:span> , including 160 in Kinshasa , the foreign ministry said. (buros-acw) ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5KP0-00BT-M39R-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5KP0-00BT-M39R-00000-00</id><title>Nations hope for peaceful transition in Zaire With BC-Zaire</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Nations hope for peaceful transition in Zaire With BC-Zaire</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>The Associated Press </nameText></person></author></nitf:byline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">U.N. Secretary General Kofi Annan said Saturday he hoped Zaire's capital could be spared a bloody conflict now that Laurent Kabila's rebels have moved in.</p><p nitf:lede=\"true\">Annan said the United Nations, in close cooperation with the countries of the region, is hoping to persuade the warring parties to form a coalition government of all forces involved in the conflict.</p><p nitf:lede=\"true\">''We have not given up hope of getting the parties to accept some sort of a transitional arrangement and therefore avoid bloody conflict in the capital city,'' Annan said at a news conference in Moscow. ''I'm quite hopeful that we will be able to avoid bloodshed in Kinshasa.''</p><p>The 56-year-old rebel leader whose troops entered the capital of Zaire after an eight-month westward sweep across the country, pledged to form a transitional government by Tuesday and issue a new constitution within 60 days. But he made no mention of elections that the United States has pressed him to organize.</p><p>France, which for decades helped prop up the regime of President Mobutu Sese Seko, who left the capital on Friday, expressed its displeasure that a negotiated solution did not prevail in Zaire.</p><p>France was waiting for the ''new leaders'' quickly to establish a transition, involving all political forces, to ''democratic and transparent'' elections, a Foreign Ministry statement said.</p><p>''We will be very attentive to the actions of the new authorities. … ''We consider the new authorities responsible from now on for security in Kinshasa as in the rest of the country, as well as for the protection of foreign communities,'' the ministry said.</p><p>France, Spain and Britain said they had no immediate plans to evacuate their nationals from the country.</p><p>Britain said the situation in Kinshasa was very far from settled, but hoped there would not be a breakdown in law and order.</p><p>''We see it as an opportunity for change and a new start for the people of Zaire,'' a Foreign Ministry spokesman said anonymously.  ''We hope it signals an early end to the violence of the past month and restoration of stability in the country as a whole.''</p><p>He said Britain was looking for a ''comprehensive and inclusive process to for all the people of Zaire.''</p><p>Spain, too, said it hoped the entry of rebel troops into Kinshasa and the rebel proclamation signified ''peace and stability with the installation of a government of full national consensus,'' the state news agency EFE reported.</p><p>There are no plans to evacuate the 390 Spanards in Zaire, including 160 in Kinshasa, the foreign ministry said.</p><p>(buros-acw)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5KP0-00BT-M39R-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"420\"/><timeReceived>17:58 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"17\" month=\"05\" year=\"1997\"><dateText>May 17, 1997; Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"94\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"94\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"94\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"94\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"92\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00096SZ</classCode><className>PRESS CONFERENCES</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"98\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC325</classCode><className>SPAIN</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

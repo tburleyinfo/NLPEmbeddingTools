@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F400-009B-H1V5-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 186,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "mobutu's son flees zaire to congo",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F400-009B-H1V5-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 186words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  and other sources in the city said that members of mobutu's armed forces were fleeing westards on the road out of the city to lower <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>.  his father stepped aside on friday and left  kinshasa  for his jungle palace at gbodolite in northern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>. diplomats say he was on his way to exile.  rebel leader laurent kabila announed earlier today he had taken over power as head of state and promised to form a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> of public salvation within 72 hours and a constitutent assembly within  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... fleeing westards on the road out of the city to lower <xhtml:span class=\"hit\">zaire</xhtml:span>.  his father stepped aside on friday and left  kinshasa  for his jungle palace at gbodolite in northern <xhtml:span class=\"hit\">zaire</xhtml:span> . diplomats say he was on his way to exile. rebel ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... over power as head of state and promised to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> of public salvation within 72 hours and a constitutent assembly within ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... mobutu's son flees <xhtml:span class=\"hit\">zaire</xhtml:span> to congo nairobi, may 17; ITEM NO: 0517142 zairean president mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... fleeing westards on the road out of the city to lower <xhtml:span class=\"hit\">zaire</xhtml:span>.  his father stepped aside on friday and left  kinshasa  for his jungle palace at gbodolite in northern <xhtml:span class=\"hit\">zaire</xhtml:span> . diplomats say he was on his way to exile. rebel ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... over power as head of state and promised to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> of public salvation within 72 hours and a constitutent assembly within ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F400-009B-H1V5-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F400-009B-H1V5-00000-00</id><title>mobutu's son flees zaire to congo</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>mobutu's son flees zaire to congo</nitf:hl1></nitf:hedline><nitf:dateline>nairobi, may 17; ITEM NO: 0517142</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">zairean president mobutu sese seko's soldier son captain kongolo mobutu arrived in congol today after fleeing the zairean capital on board a speedboat with about 20 men.  a report reaching here this afternoon quoted witnesses as saying the congolese security forces closely checked kongolo and the other new arrivals. those on board the boat handed weapons to congolese police in riot gear who surrounded them.  the report quoted sources at the presidency in kinshasa and other sources in the city said that members of mobutu's armed forces were fleeing westards on the road out of the city to lower zaire.  his father stepped aside on friday and left kinshasa for his jungle palace at gbodolite in northern zaire. diplomats say he was on his way to exile.  rebel leader laurent kabila announed earlier today he had taken over power as head of state and promised to form a transitional government of public salvation within 72 hours and a constitutent assembly within 60 days.  the rebel forces are entering the capital and kabila said his forces would seize the city in hours.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F400-009B-H1V5-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"186\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"17\" year=\"1997\"><dateText>MAY 17, 1997, SATURDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Criminal Law &amp; Procedure</className><classCode>Z3VpZD11cm46dG9waWM6NEU0RkE1OUQwNUQwNDgxODhEODZCMjkzOTg3NThBNzk7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>General Overview</className><classCode>Z3VpZD11cm46dG9waWM6Qzc1Q0RCQzU5OUE3NDlFMjhFNUQ0Q0ZERTdGRDU3NTc7cGFyZW50Z3VpZD11cm46dG9waWM6MTQ1RDlFQ0RGMjE3NDE2Q0I1NDFDNDgzNzBBNjQ0MTU</classCode></classificationItem></classificationItem><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Administrative Boards</className><classCode>Z3VpZD11cm46dG9waWM6QTYwRUFCMDc5MzQ5NDEyREFEQkU2NkE2MjRGQTlCNzY7cGFyZW50Z3VpZD11cm46dG9waWM6Njg1MkM3RkYyNzIxNEVFRkJFMTI2NUM4NUU1ODdEM0Q</classCode></classificationItem></classificationItem><classificationItem><className>Military &amp; Veterans Law</className><classCode>Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>US Congress</className><classCode>Z3VpZD11cm46dG9waWM6NEI1MkNDQzJDMjk1NDUwNUJDQkM4RDU1QTFDM0E0Rjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DPJS</classCode><className>CROWD CONTROL</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>N922120QM</classCode><className>POLICE FORCES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

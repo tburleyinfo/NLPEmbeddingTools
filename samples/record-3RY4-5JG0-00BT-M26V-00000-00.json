@@ -1,0 +1,58 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5JG0-00BT-M26V-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "BARRY SCHWEID ",
+  "WordLength": 322,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-14T00:00:00Z",
+  "Keyword": null,
+  "Title": "Albright says Mobutu looking for way to transfer power",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5JG0-00BT-M26V-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 322words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> to a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>. She also expressed disappointment in the latest collapse of peace talks. ''It is a very tough situation,'' Albright said as the State Department again urged the approximately 300 Americans in the Central African country to leave. Spokesman Nicholas Burns said those who remained ''are going to be in harm's way'' and it was ''common sense'' that they get out. The millions of residents of  Kinshasa  hunkered down as peace talks designed to avert a bloody battle for ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Sese Seko is looking for a way to yield power in <xhtml:span class=\"hit\">Zaire</xhtml:span> to a <xhtml:span class=\"hit\">transitional government</xhtml:span> . She also expressed disappointment in the latest collapse of peace ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... two did not meet,'' she said. ''It is very important for <xhtml:span class=\"hit\">Zaire</xhtml:span> to have a process toward an elected government.'' And, she said, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "SimilarDocuments@odata.navigationLink": "News?$search=pid=%22urn:contentItem:3T8G-87G0-000Y-K0FG-00000-00%22%20OR%20pid=%22urn:contentItem:3RY4-5JG0-00BT-M26V-00000-00%22",
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5JG0-00BT-M26V-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5JG0-00BT-M26V-00000-00</id><title>Albright says Mobutu looking for way to transfer power</title><published>1997-05-14T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Albright says Mobutu looking for way to transfer power</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>BARRY SCHWEID </nameText></person></author></nitf:byline><nitf:dateline>WASHINGTON</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Secretary of State Madeleine Albright said Wednesday that President Mobutu Sese Seko is looking for a way to yield power in Zaire to a transitional government. She also expressed disappointment in the latest collapse of peace talks.</p><p nitf:lede=\"true\">''It is a very tough situation,'' Albright said as the State Department again urged the approximately 300 Americans in the Central African country to leave.</p><p>Spokesman Nicholas Burns said those who remained ''are going to be in harm's way'' and it was ''common sense'' that they get out.</p><p>The millions of residents of Kinshasa hunkered down as peace talks designed to avert a bloody battle for control of the capital broke down Wednesday.</p><p>Albright, interviewed by the PBS-TV ''News Hour'' program, said she hoped the talks could be held on Thursday.</p><p>''We are very disappointed the two did not meet,'' she said.  ''It is very important for Zaire to have a process toward an elected government.'' And, she said, ''we have to do something about the tragic situation of the refugees.''</p><p>Albright said it was essential that Mobutu and rebel leader Laurent Kabila get together ''and we have some sort of peaceful transition.''</p><p>With Kabila's forces near the capital and some advance troops already infiltrating Albright said Mobutu ''is looking for ways to have a transition.''</p><p>She said she could not ''get into the details.''</p><p>South Africa has tried to shepherd peace talks, with the United States playing a major supporting role.</p><p>Mobutu long enjoyed U.S. support. Succeeding administrations helped keep him in power, often portraying him as a bulwark against communism. But as the country sank into poverty and his vast fortunes increased, the United States distanced itself from Mobutu.</p><p>U.S. officials are leery of Kabila, however. They have criticized him for not permitting an open investigation of mistreatment of refugees. And they are not sure he is committed to either democracy or a free-market economic system.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5JG0-00BT-M26V-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"322\"/><timeReceived>18:49 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"14\" month=\"05\" year=\"1997\"><dateText>May 14, 1997; Wednesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DNVT</classCode><className>ABUSE &amp; NEGLECT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"78\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"66\"><classCode>ST000DKU8</classCode><className>MIGRATION ISSUES</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>ST000CA2H</classCode><className>POVERTY &amp; HOMELESSNESS</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX000969</classCode><className>INVESTIGATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"74\"><classCode>STX001437</classCode><className>PUBLIC TELEVISION</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

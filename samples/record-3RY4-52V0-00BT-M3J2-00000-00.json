@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3RY4-52V0-00BT-M3J2-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "ALEXANDRA ZAVIS ",
+  "WordLength": 385,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-18T00:00:00Z",
+  "Keyword": null,
+  "Title": "UN Secretary General's first African tour to focus on peace",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-52V0-00BT-M3J2-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 385words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  the government tried to expel ethnic Tutsis from eastern parts of the country. Led by Laurent Kabila, the rebels aim to topple Mobutu, whose 31-year dictatorship has left mineral-rich <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> among the world's poorest countries. Mandela was involved in last month's South African-based efforts to bring about peace talks between Kabila and <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>'s President Mobutu Sese Seko's government. Deputy President Thabo Mbeki will represent South Africa at a two-day African heads of state meeting on the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... sides signed a peace treaty in 1994. The installation of a <xhtml:span class=\"hit\">unity government</xhtml:span> , the final stage in the U.N.-sponsored peace process, has been ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... rebels aim to topple Mobutu, whose 31-year dictatorship has left mineral-rich <xhtml:span class=\"hit\">Zaire</xhtml:span> among the world's poorest countries. Mandela was involved in last month's ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... South African-based efforts to bring about peace talks between Kabila and <xhtml:span class=\"hit\">Zaire</xhtml:span> 's President Mobutu Sese Seko's government. Deputy President Thabo Mbeki will ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Africa at a two-day African heads of state meeting on the <xhtml:span class=\"hit\">Zaire</xhtml:span> conflict in Nairobi, ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> , where rebels took up arms after the government tried to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... rebels aim to topple Mobutu, whose 31-year dictatorship has left mineral-rich <xhtml:span class=\"hit\">Zaire</xhtml:span> among the world's poorest countries....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... South African-based efforts to bring about peace talks between Kabila and <xhtml:span class=\"hit\">Zaire</xhtml:span> 's President Mobutu Sese Seko's government. Deputy President Thabo Mbeki will ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-52V0-00BT-M3J2-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-52V0-00BT-M3J2-00000-00</id><title>UN Secretary General's first African tour to focus on peace</title><published>1997-03-18T00:00:00Z</published><updated>2020-08-04T18:50:06Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>UN Secretary General's first African tour to focus on peace</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>ALEXANDRA ZAVIS </nameText></person></author></nitf:byline><nitf:dateline>CAPE TOWN, South Africa</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">U.N. Secretary General Kofi Annan arrives in Cape Town Wednesday on his first trip to Africa since assuming office.</p><p nitf:lede=\"true\">South Africa is the first stop on a tour that also takes him to Namibia and Angola. Annan will focus on African peace intiatives, development strategies and attempts to establish a human rights culture, U.N. spokesman Yobert Shamapane said Tuesday in a telephone interview from Pretoria.</p><p>''I think the timing is significant,'' Shamapane said. ''That he is making this trip within three months of his appointment as secretary general shows the importance he attaches to increasing his understanding of the facts on the ground in Africa.''</p><p>Annan, who comes from Ghana, is the first UN secretary general from sub-Saharan Africa.</p><p>His three-day visit to Cape Town and Johannesburg will include meetings with senior officials such as President Nelson Mandela and Chairman of the Truth and Reconciliation Commission Desmond Tutu.</p><p>Shamapande said Annan's discussions with Mandela would focus on South African peace initiatives in Zaire, where rebels took up arms after the government tried to expel ethnic Tutsis from eastern parts of the country. Led by Laurent Kabila, the rebels aim to topple Mobutu, whose 31-year dictatorship has left mineral-rich Zaire among the world's poorest countries.</p><p>Mandela was involved in last month's South African-based efforts to bring about peace talks between Kabila and Zaire's President Mobutu Sese Seko's government.</p><p>Deputy President Thabo Mbeki will represent South Africa at a two-day African heads of state meeting on the Zaire conflict in Nairobi, Kenya, starting Wednesday.</p><p>Annan and Mandela were also likely to discuss the establishment of a power-sharing government in Angola between the government and UNITA rebels, Shamapande said. Annan is scheduled to attend the planned inauguration of Angola's new government on March 24.</p><p>After a two-decade civil war, the two sides signed a peace treaty in 1994. The installation of a unity government, the final stage in the U.N.-sponsored peace process, has been postponed three times.</p><p>Shamapande said Annan's visit to the Truth Commission, which is investigating political crimes committed on all sides under apartheid, would re-inforce the UN's support of reconciliation in South Africa after decades of racial conflict.</p><p>(az-tl)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-52V0-00BT-M3J2-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"385\"/><timeReceived>08:02 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"18\" month=\"03\" year=\"1997\"><dateText>March 18, 1997; Tuesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"93\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"93\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"93\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"90\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001444</classCode><className>RACE &amp; ETHNICITY</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"87\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"71\"><classCode>ST000D9R3</classCode><className>ETHNIC CONFLICTS</className><classCode/><className/></classificationItem><classificationItem score=\"64\"><classCode>STX001758</classCode><className>TREATIES &amp; AGREEMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"60\"><classCode>STX000969</classCode><className>INVESTIGATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"60\"><classCode>STX001932</classCode><className>CRIME, LAW ENFORCEMENT &amp; CORRECTIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX297</classCode><className>CAPE TOWN, SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX296</classCode><className>PRETORIA, SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"95\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC377</classCode><className>NAMIBIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC506</classCode><className>GHANA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

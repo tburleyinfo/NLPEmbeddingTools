@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3550-0025-F029-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 720,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Domestic, non-Washington, general news item item",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "US welcomes \"minimal disorder and unrest\" in Zaire zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3550-0025-F029-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, Domestic, non-Washington, general news item item, 720words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  after a seventh-month insurgency aimed at toppling Mobutu Sese Seko as ruler of this giant central African nation for over 30 years. Burns said the  US  government urges the rebel alliance \"to establish an inclusive <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> leading to full elections, and to ensure full respect for human rights throughout the country.\" hh/rl WASHINGTON, May 17 (AFP) - The  US  government Saturday gave guarded approval to rebel leader Laurent Kabila's takeover of  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> , welcoming the \"minimal ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the US government urges the rebel alliance \"to establish an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> leading to full elections, and to ensure full respect for human ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the US government urges the rebel alliance \"to establish an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> leading to full elections, and to ensure full respect for human rights throughout the country.\" He called the transition in  <xhtml:span class=\"hit\">Zaire</xhtml:span>  a \"historic opportunity to shape the future of the country.\"...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span>\r\n  <xhtml:span class=\"hit\">zaire</xhtml:span> WASHINGTON, May 17 17 The  US  government Saturday gave guarded approval to rebel leader Laurent Kabila's takeover of  <xhtml:span class=\"hit\">Zaire</xhtml:span> ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... she was not aware of plans to send an envoy to <xhtml:span class=\"hit\">Zaire</xhtml:span> in the wake of Mobutu's departure. On Friday, Secretary of State ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3550-0025-F029-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3550-0025-F029-00000-00</id><title>US welcomes \"minimal disorder and unrest\" in Zaire zaire</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Domestic, non-Washington, general news item item</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>US welcomes \"minimal disorder and unrest\" in Zairezaire</nitf:hl1></nitf:hedline><nitf:dateline>WASHINGTON, May 17 17</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The US government Saturday gave guarded approval to rebel leader Laurent Kabila's takeover of Zaire, welcoming the \"minimal disorder and unrest\" it incurred.</p><p nitf:lede=\"true\">\"We urge all parties to refrain from further violence during this final stage in the change of government,\" said State Department spokesman Nicholas Burns in a statement.</p><p nitf:lede=\"true\">\"We particularly welcome … Kabila's positive statement appealing for calm and warning that any acts of retribution will be severely punished,\" the statement said.  said.</p><p>Kabila Saturday proclaimed himself president of Zaire after a seventh-month insurgency aimed at toppling Mobutu Sese Seko as ruler of this giant central African nation for over 30 years.</p><p>Burns said the US government urges the rebel alliance \"to establish an inclusive transitional government leading to full elections, and to ensure full respect for human rights throughout the country.\"</p><p>hh/rl</p><p>WASHINGTON, May 17 (AFP) - The US government Saturday gave guarded approval to rebel leader Laurent Kabila's takeover of Zaire, welcoming the \"minimal disorder and unrest\" it incurred.</p><p>\"We urge all parties to refrain from further violence during this final stage in the change of government,\" said State Department spokesman Nicholas Burns in a statement.</p><p>\"We particularly welcome … Kabila's positive statement appealing for calm and warning that any acts of retribution will be severely punished,\" the statement said.</p><p>Kabila Saturday proclaimed himself president of Zaire, ending a seventh-month insurgency that succeeded in toppling Mobutu Sese Seko as ruler of this giant central African nation for 32 years.</p><p>Burns said the US government urges the rebel alliance \"to establish an inclusive transitional government leading to full elections, and to ensure full respect for human rights throughout the country.\"</p><p>He called the transition in Zaire a \"historic opportunity to shape the future of the country.\"</p><p>The first rebel troops were reported Saturday in the Zairean capital Kinshasa, as a column of some 200 soldiers marched into the heart of the city.</p><p>Burns' statement made no reference to the execution of Zairean armed forces chief of staff General Mahele Liyoko by presidential troops hours after the government announced Friday that Mobutu was stepping aside.</p><p>Speaking from the southern city of Lubumbashi, Kabila said he would establish a government of national salvation within three days, and travel to Kinshasa \"very soon.\"</p><p>A US state department spokeswoman told AFP she was not aware of plans to send an envoy to Zaire in the wake of Mobutu's departure.</p><p>On Friday, Secretary of State Madeleine Albright said Mobutu's departure \"opens the way to a peaceful resolution of this military conflict\" and said Washington was working with \"all parties to avoid bloodshed and contribute to a process that is peaceful and results in free and fair elections.\"</p><p>hh/rl rl</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-02-28</dc:date></dc:metadata><wordCount number=\"720\"/><timeReceived>1717 1717</timeReceived><timeReceived>17:17 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"17\" year=\"1997\"><dateText>May 17, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>STATE DEPARTMENT FEDERAL CREDIT UNION INC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>STATE DEPARTMENT FEDERAL CREDIT UNION INC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"89\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>STX000873</classCode><className>HUMAN RIGHTS</className><classCode>Z3VpZD11cm46dG9waWM6NTYzQjQyOTBDNzNDNEI2QUIyOTE2MEYyMTdBQTlDMzI7cGFyZW50Z3VpZD11cm46dG9waWM6MTZCMUU5OEUyREYzNDM4MjkzMkFCQzA0MTM3QUY1NjQ</classCode><className>Human Rights</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"67\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"96\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

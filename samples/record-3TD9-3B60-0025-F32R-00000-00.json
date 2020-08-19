@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3B60-0025-F32R-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 867,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zaire premier says army can defend capital against rebels rebels",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3B60-0025-F32R-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 867words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> \" is through such dialogue, Burns said. Washington will give \"all necessary support\" to the efforts of the South African government and the UN special envoy Mohamed Sahnoun to arrange the direct talks, he said. The question was raised during a meeting early Monday between Secretary of State Madeleine Albright and South African Vice President Thabo Mbeki. Sahnoun said Monday that there is \"still a small hope to concretize the meeting.\" He told AFP that both parties \"continue to say they're ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the past 32 years. bbos/nb/ns AFP France wants to see a <xhtml:span class=\"hit\">transitional government</xhtml:span> set up in  <xhtml:span class=\"hit\">Zaire</xhtml:span> leading to national reconciliation, said foreign ministry spokesman Jacques Rummelhardt on ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... dollar, but the biggest note in circulation is the 50,000 new <xhtml:span class=\"hit\">zaire</xhtml:span> bill, because Zaireans refuse to take other notes arguing that they ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... alliance, claiming that Kabila was dependent on help from these forces. <xhtml:span class=\"hit\">Zaire</xhtml:span>  has previously accused  Uganda ,  Rwanda  and  Burundi...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... is going to be made in the current civil war in <xhtml:span class=\"hit\">Zaire</xhtml:span> \" is through such dialogue, Burns said. Washington will give \"all ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news news <xhtml:span class=\"hit\">Zaire</xhtml:span>  premier says army can defend capital against rebels rebels KINSHASA , April 22 22 <xhtml:span class=\"hit\">Zaire</xhtml:span> 's Prime Minister Likulia Bolongo has called on residents of Kinshasa ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3B60-0025-F32R-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3B60-0025-F32R-00000-00</id><title>Zaire premier says army can defend capital against rebels rebels</title><published>1997-04-22T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zaire premier says army can defend capital against rebels rebels</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, April 22 22</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zaire's Prime Minister Likulia Bolongo has called on residents of Kinshasa to denounce all suspect people, saying the army can defend the city against rebels but needs public support.</p><p nitf:lede=\"true\">In a television interview late Monday, General Likulia declared that the Zairean armed forces, the FAZ, was able to hold the city against rebels who have swept across the eastern half of the country, but needed \"the support of the people\".</p><p nitf:lede=\"true\">He claimed that inhabitants of all the towns conquered by Laurent Kabila's guerrillas since October were putting up \"strong resistance to the rebels\", but denounced wide divisions among Zairean politicians which had weakened the strength of the armed forces.</p><p nitf:lede=\"true\">Likulia also renewed Zairean charges that \"certain neighbouring countries\" had sent regular troops to fight for the mainly Tutsi rebel alliance, claiming that Kabila was dependent on help from these forces. Zaire has previously accused Uganda, Rwanda and Burundi of involvement, charges denied by all these countries.  countries.</p><p>On peace talks which have been under way in South Africa, Likulia said he was \"confident\" they would achieve a settlement.</p><p>\"But if they collapse, the FAZ is ready to end a truce and resume fighting,\" he said.</p><p>Frequently, Zaire's rag-tag army has looted and fled towns ahead of rebel advances and Kabila's men now control more than half the country, including the mineral-rich southeastern provinces crucial to the economy.</p><p>Likulia said he would talk to the transitional parliament, the High Council of the Republic, on the situation in the country, where \"the state coffers are empty\", but for notes with a face value of between 100,000 and one million new zaires.</p><p>180,000 new zaires are worth one dollar, but the biggest note in circulation is the 50,000 new zaire bill, because Zaireans refuse to take other notes arguing that they will worsen inflation.</p><p>On Monday, the United States urged Zairean President Mobutu Sese Seko and Kabila to hold talks in South Africa, lamenting the difficulty in arranging the meeting.</p><p>It is \"important for the rebels and the government to respond favorably to the South African proposal\" for a summit, said State Department spokesman Nicholas Burns.</p><p>Obstacles to holding the meeting were \"quite disappointing, because we think the only way that any progress is going to be made in the current civil war in Zaire\" is through such dialogue, Burns said.</p><p>Washington will give \"all necessary support\" to the efforts of the South African government and the UN special envoy Mohamed Sahnoun to arrange the direct talks, he said.</p><p>The question was raised during a meeting early Monday between Secretary of State Madeleine Albright and South African Vice President Thabo Mbeki.</p><p>Sahnoun said Monday that there is \"still a small hope to concretize the meeting.\" He told AFP that both parties \"continue to say they're ready\" to meet.</p><p>Last Thursday, Sahnoun and South African Vice Minister of Foreign Affairs Aziz Pahad, peace mediators in the ongoing conflict, announced in Cape Town that the two foes had agreed to meet.</p><p>But Saturday, Kabila toughened his position, saying he only would meet Mobutu to discuss the conditions for the president's departure, while the head of state refuses to stand down.</p><p>The rebels have seized all key cities apart from the capital Kinshasa and are seeking to oust Mobutu, ruler for the past 32 years.</p><p>bbos/nb/ns</p><p>AFP</p><p>France wants to see a transitional government set up in Zaire leading to national reconciliation, said foreign ministry spokesman Jacques Rummelhardt on Tuesday.</p><p>The call comes as ailing President Mobutu Sese Seko's regime is increasingly threatened by a rebellion, led by Laurent Kabila, which has already taken control of more than half the country.</p><p>soh/hm/ml/ccr</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3B60-0025-F32R-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"867\"/><timeReceived>2210 2210</timeReceived><timeReceived>22:10 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"04\" day=\"22\" year=\"1997\"><dateText>April 22, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem><classificationItem score=\"67\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"51\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3S4Y-DC70-0017-G25B-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 347,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2809/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-01-06T00:00:00Z",
+  "Keyword": null,
+  "Title": "Nationalist United Front reportedly leaves presidential group",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S4Y-DC70-0017-G25B-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2809/A, 347words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">ZAIRE</xhtml:span>; AL/D2809/A Nationalist United Front reportedly leaves presidential group [6] Text of report by Gabonese Africa No 1 radio on 3rd January In  Kinshasa , there are talks about division within the [Political] Forces of the Conclave. All is not well within the ranks of the presidential group. The Nationalist United Front, one of the components of Marshal Mobutu's political family, has decided to leave this coalition. From  Kinshasa , Kamanda wa Kamanda Mouzembe reports: [Mouzembe - recording] ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the reappointment of Leon Kengo wa Dondo as head of the <xhtml:span class=\"hit\">transitional government</xhtml:span> , with the complicity of the Popular Movement of the Revolution ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; <xhtml:span class=\"hit\">ZAIRE</xhtml:span>; AL/D2809/A Nationalist United Front reportedly leaves presidential group [6]...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S4Y-DC70-0017-G25B-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S4Y-DC70-0017-G25B-00000-00</id><title>Nationalist United Front reportedly leaves presidential group</title><published>1997-01-06T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2809/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Nationalist United Front reportedly leaves presidential group</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[6]</p><p nitf:lede=\"true\">Text of report by Gabonese Africa No 1 radio on 3rd January</p><p nitf:lede=\"true\">In Kinshasa, there are talks about division within the [Political] Forces of the Conclave. All is not well within the ranks of the presidential group. The Nationalist United Front, one of the components of Marshal Mobutu's political family, has decided to leave this coalition. From Kinshasa, Kamanda wa Kamanda Mouzembe reports:</p><p nitf:lede=\"true\">[Mouzembe - recording] The Zairean Nationalist United Front [Funa] wants to be an autonomous and independent political party during the elections. According to its officials, this new grouping is part of the new Zairean opposition, which will stress the defence of national independence, territorial integrity, sovereignty, legality and love for the fatherland.</p><section sectionType=\"source\"><bodyText><p>Source: Africa No 1 radio, Libreville, in French 1215 gmt 3 Jan 97</p></bodyText></section><p>The members of Funa denounce the lack of sincerity and transparency in the Political Forces of the Conclave, the other name for the presidential group, which is also accused of not respecting the rules of the democratic game.</p><p>In a press communique, Funa said it had also withdrawn its confidence in and cooperation with the Political Forces of the Conclave. It also announced the forming of its own parliamentary group within the High Council of the Republic - Transitional Parliament. According to unconfirmed sources, this group will be made up of at least 100 councillors of the republic.</p><p>The straw that broke the camel's back was, and I quote, the press communique, the reappointment of Leon Kengo wa Dondo as head of the transitional government, with the complicity of the Popular Movement of the Revolution [MPR - former sole ruling party] and the Union for the Republic and Democracy, in defiance of the unanimous will of the sovereign Zairean people and of politicians whose expectations have been completely shattered.</p><p>The formation of Funa is being seen as a piece of defiance to the bipolarization described and certainly as a contribution on the part of Zairean politicians, but also as an action liable to destabilize President Mobutu's political family.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S4Y-DC70-0017-G25B-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"347\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"06\" month=\"01\" year=\"1997\"><dateText>January 6, 1997, Monday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N813940MM</classCode><className>POLITICAL PARTIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST0009TDQ</classCode><className>US POLITICAL PARTIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N813940GM</classCode><className>POLITICAL ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>STX001551</classCode><className>SEPARATISM &amp; SECESSION</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

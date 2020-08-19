@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3T8G-8DK0-000Y-K4HV-00000-00",
+  "Jurisdiction": "U.S. Federal; New York",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "By DIANNA CAHN, Associated Press Writer",
+  "WordLength": 531,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International News",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-29T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zairian president and rebel leader agree to meet",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3T8G-8DK0-000Y-K4HV-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "International News, 531words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  is pushing strongly for a cease-fire and negotiations leading to an inclusive <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, Richardson said. Then, the United States would like to see Zairians hold elections, he said. During the talks in  Lubumbashi , Richardson sat next to Kabila at a large circular table, flanked by Karaha; the U.S. ambassador to <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, Daniel Simpson; and other Washington delegates. About eight reporters waited outside the talks, held in a back room of the rebel leader's Spanish colonial-style villa.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... pushing strongly for a cease-fire and negotiations leading to an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> , Richardson said. Then, the United States would like to see ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... a large circular table, flanked by Karaha; the U.S. ambassador to <xhtml:span class=\"hit\">Zaire</xhtml:span> , Daniel Simpson; and other Washington delegates. About eight reporters waited ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... pushing strongly for a cease-fire and negotiations leading to an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> , Richardson said. Then, the United States would like to see ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... a large circular table, flanked by Karaha; the U.S. ambassador to <xhtml:span class=\"hit\">Zaire</xhtml:span> , Daniel Simpson; and other Washington delegates. About eight reporters waited ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... day, he had been in the capital, Kinshasa , in western <xhtml:span class=\"hit\">Zaire</xhtml:span> , to talk with Mobutu. The blunt-talking ambassador to the United ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... have urged him to give up, and the political opposition within <xhtml:span class=\"hit\">Zaire</xhtml:span> is gaining momentum with each rebel victory. In Kinshasa , Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... agree to meet By DIANNA CAHN, Associated Press Writer LUBUMBASHI , <xhtml:span class=\"hit\">Zaire</xhtml:span> Rebel leader Laurent Kabila and President Mobutu Sese Seko agree they ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3T8G-8DK0-000Y-K4HV-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3T8G-8DK0-000Y-K4HV-00000-00</id><title>Zairian president and rebel leader agree to meet</title><published>1997-04-29T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International News</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zairian president and rebel leader agree to meet</nitf:hl1></nitf:hedline><nitf:byline>By DIANNA CAHN, Associated Press Writer</nitf:byline><nitf:dateline>LUBUMBASHI, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Rebel leader Laurent Kabila and President Mobutu Sese Seko agree they will meet one another, but the rebels said Tuesday there is only one thing to discuss: Mobutu's departure from power.</p><p nitf:lede=\"true\">U.S. envoy Bill Richardson talked with Kabila for three hours Tuesday night in this southeastern city. Both parties have agreed to meet, he said, but details about the venue and date remain unresolved.</p><p>\"As you heard Kabila say, he's agreed to face-to-face talks. Mobutu has agreed to face-to-face talks. They are ready to proceed as soon as possible, this weekend or earlier,\" Richardson said.</p><p>South Africa has offered to have the talks held on one of its naval supply ships, which would be anchored in international waters off the coast of Zaire and Angola.</p><p>Richardson appeared tired as he spoke with reporters on the steps of the Karavia Hotel, on the outskirts of Lubumbashi. Earlier in the day, he had been in the capital, Kinshasa, in western Zaire, to talk with Mobutu.</p><p>The blunt-talking ambassador to the United Nations pressed Mobutu to accept that he cannot stop the rebels and urged him to agree to immediate peace talks.</p><p>\"There can be no military solution to this crisis,\" Richardson said.</p><p>The ambassador was to return to Kinshasa on Wednesday for further talks with Mobutu.</p><p>Before meeting with Richardson, Kabila's foreign affairs minister said there would be one chance at talks - and that they would be brief because the only topic would be the end of Mobutu's 32-year dictatorship.</p><p>\"We are not going there to discuss a cease-fire,\" Bizima Karaha told reporters. \"We are going there to discuss the end of the war, a complete end of the war. And a complete end of the war can only come about when the man who brought the war is no longer there.\"</p><p>Furthermore, the rebels - who have seized more than half of Africa's third-largest nation in seven months - will not stop their offensive while waiting for a settlement, he said.</p><p>Tuesday morning, the rebels easily captured Kikwit, a city on a major highway only 250 miles east of the capital, Karaha said.</p><p>\"The next stop is Kinshasa,\" he said.</p><p>The United States is pushing strongly for a cease-fire and negotiations leading to an inclusive transitional government, Richardson said. Then, the United States would like to see Zairians hold elections, he said.</p><p>During the talks in Lubumbashi, Richardson sat next to Kabila at a large circular table, flanked by Karaha; the U.S. ambassador to Zaire, Daniel Simpson; and other Washington delegates. About eight reporters waited outside the talks, held in a back room of the rebel leader's Spanish colonial-style villa.</p><p>Kabila declined to speak with reporters after the session.</p><p>Mobutu, 66, has insisted he would never bow to Kabila's demand he resign, but he is under increasing pressure. He is ill with prostate cancer, Western powers have urged him to give up, and the political opposition within Zaire is gaining momentum with each rebel victory.</p><p>In Kinshasa, Mobutu appeared briefly with Richardson on the veranda of his residence and shook the U.S. envoy's hand but made no statement.</p><p>Richardson refused to discuss his conversation with Mobutu, saying only: \"We were both very frank. I carried a strong message.\"</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3T8G-8DK0-000Y-K4HV-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">304478</dc:source><dc:date dateType=\"last-updated\">2020-03-24</dc:date></dc:metadata><wordCount number=\"531\"/><publicationInfo><copyright>Copyright 1997 Associated Press  All Rights Reserved  Associated Press</copyright><publicationDate day=\"29\" month=\"04\" year=\"1997\"><dateText>April 29, 1997, Tuesday, AM cycle</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"96\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00098A0</classCode><className>FOREIGN RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"69\"><classCode>STX002273</classCode><className>NAVAL VESSELS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>N721110GM</classCode><className>HOTELS &amp; MOTELS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"87\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Associated Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

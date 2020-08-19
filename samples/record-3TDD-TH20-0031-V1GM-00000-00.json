@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3TDD-TH20-0031-V1GM-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Mario Fiorito",
+  "WordLength": 679,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-12-16T00:00:00Z",
+  "Keyword": null,
+  "Title": "Kinshasa leaders place hope in Mobutu's return",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-TH20-0031-V1GM-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse, International news, 679words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's long-absent leader, President Mobutu Sese Seko, who is due in the capital Tuesday to tackle the mounting political and military crisis sparked by a rebellion in eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. Marshal Mobutu, 66, was due to return after four months in Europe, where he has been convalescing after an operation for prostate cancer in  Switzerland  in August, state television announced Sunday. The governor of Kinshasa has already issued a long list of prominent civilians and soldiers convened to meet Mobutu ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... former premier to take back the helm and form a \"national <xhtml:span class=\"hit\">unity government</xhtml:span> .\" However, the current government headed by Kengo Wa Dondo was ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... was elected by the interim parliament and has the confidence of <xhtml:span class=\"hit\">Zaire</xhtml:span>'s western partners....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Mainly Tutsi rebels have captured a large swathe of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> since October and stated that their eventual goal is to overthrew ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... South Kivu provinces, including the capitals, Goma and Bukavu. Kinshasa accuses <xhtml:span class=\"hit\">Zaire</xhtml:span> ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... back,\" one journalist said, pointing out that the currency, the new <xhtml:span class=\"hit\">zaire</xhtml:span> (NZ), was collapsing. In recent days, the exchange rate has slipped ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> 's long-absent leader, President Mobutu Sese Seko, who is due in ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... mounting political and military crisis sparked by a rebellion in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>....</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-TH20-0031-V1GM-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-TH20-0031-V1GM-00000-00</id><title>Kinshasa leaders place hope in Mobutu's return</title><published>1996-12-16T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Kinshasa leaders place hope in Mobutu's return</nitf:hl1></nitf:hedline><nitf:byline>Mario Fiorito</nitf:byline><nitf:dateline>KINSHASA, Dec 16</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Politicians and troops are eagerly awaiting the return of Zaire's long-absent leader, President Mobutu Sese Seko, who is due in the capital Tuesday to tackle the mounting political and military crisis sparked by a rebellion in eastern Zaire.</p><p nitf:lede=\"true\">Marshal Mobutu, 66, was due to return after four months in Europe, where he has been convalescing after an operation for prostate cancer in Switzerland in August, state television announced Sunday.</p><p nitf:lede=\"true\">The governor of Kinshasa has already issued a long list of prominent civilians and soldiers convened to meet Mobutu on Tuesday afternoon at the international airport here.</p><p nitf:lede=\"true\">The head of state is due to go on to the Tshatshi military base of the elite special presidential division (DSP), whence he will broadcast an address to the nation, facing a rebellion in the east and political chaos in Kinshasa.</p><p>The nature of his speech and its possible impact on the crises in Zaire were the subject of intense press speculation here on Monday.</p><p>Mainly Tutsi rebels have captured a large swathe of eastern Zaire since October and stated that their eventual goal is to overthrew the Mobutu regime.  Government troops have been routed from towns in North and South Kivu provinces, including the capitals, Goma and Bukavu.</p><p>Kinshasa accuses Zaire's neighbours, particularly Tutsi-dominated Rwanda but also Uganda and Burundi, of \"aggression\" against Zairean territory in support of the rebels.</p><p>Some analysts want the head of state, in power for more than three decades, to take the army back in hand as its supreme commander.</p><p>The severe defeats it has sustained have concerned the onetime Lieutenant-Colonel Joseph-Desire Mobutu, who put down a major secessionist rebellion in what is now Shaba province, south of the current battle zone, in the 1960s, before taking power.</p><p>Mobutu's supporters believe he may be able to lead a counter-offensive in the east to \"boot the enemy across the borders,\" as officials have put it, though the uprising began some 1,500 kilometres (900 miles) from Kinshasa.</p><p>Under a nationalist programme, he became Mobutu Sese Seko Kuku Ngbendu Wa Za Banda, which officially means: \"The all-powerful warrior who, because of his endurance and inflexible will to win, will go from conquest to conquest leaving fire in his wake.\"</p><p>On the political front, newspapers close to Mobutu's main rival in the past, Etienne Tshisekedi, are being much quieter than usual in denouncing the \"dictator\" and looking for a reconciliation between their leader and the head of state.</p><p>Tshisekedi's aides argue that the only \"legal\" way out of a political impasse is for the former premier to take back the helm and form a \"national unity government.\"</p><p>However, the current government headed by Kengo Wa Dondo was set up according to the terms of a bumpy and oft-stalled transition to democracy and the premier was elected by the interim parliament and has the confidence of Zaire's western partners.</p><p>They consider that he will be able to take the country into general elections due to be held before July next year, according to the timetable laid down by the international community.</p><p>Without ruling out a possible cabinet reshuffle, foreign diplomats agree that any major political change will cause further chaos. The government would have to confront the parliament and hold consultations to get a new premier elected.</p><p>In Kinshasa, this could take months and would only lead to further delays in the democratic transition, already in its seventh year.</p><p>The working-class population and traders in the capital appeared to have no illusions about what the return of Mobutu will do for their own harsh living standards.</p><p>\"Let's not expect manna from heaven because he's coming back,\" one journalist said, pointing out that the currency, the new zaire (NZ), was collapsing.</p><p>In recent days, the exchange rate has slipped from 90,000 NZ to the US dollar to 130,000, but there has been no change in the derisory salaries and traders calculate food prices in dollars.</p><p>mf-jg/nb/job</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-TH20-0031-V1GM-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"679\"/><timeReceived>16:14 GMT</timeReceived><publicationInfo><publicationName>Agence France Presse</publicationName><copyright>Copyright 1996 Agence France Presse</copyright><publicationDate month=\"12\" day=\"16\" year=\"1996\"><dateText>December 16, 1996</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000420</classCode><className>COUPS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001551</classCode><className>SEPARATISM &amp; SECESSION</className><classCode/><className/></classificationItem><classificationItem score=\"57\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"71\"><classCode>STX001437</classCode><className>PUBLIC TELEVISION</className><classCode/><className/></classificationItem><classificationItem score=\"55\"><classCode>N488100CC</classCode><className>AIRPORTS</className><classCode>Z3VpZD11cm46dG9waWM6QzdDOUIxNEQzQzA5NEM0Q0E5RjlERDVFNzIzNEQyQzA7cGFyZW50Z3VpZD11cm46dG9waWM6NkEyRTREQTdBRjkzNDE5OTk4ODAzMEY5MDkzRjlGRTE</classCode><className>Airports</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC327</classCode><className>SWITZERLAND</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

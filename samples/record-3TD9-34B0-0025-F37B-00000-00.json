@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-34B0-0025-F37B-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 854,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-21T00:00:00Z",
+  "Keyword": null,
+  "Title": "South Africa will assist Kabila's government: Mbeki mbeki",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-34B0-0025-F37B-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 854words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> by Tuesday but, according to press reports in Kinshasa on Wednesday, delayed the announcement until after a meeting with former prime minister Etienne Tshisekedi. Mbeki blamed the delay on the fact \"the process of consultation has proved more complicated than was calculated.\" He sketched the background of  South Africa 's attempts to mediate a peaceful transfer of power in former  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> , but said former President Mobutu Sese Seko, who fled Kinshasa on Friday, had scuttled ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... country,\" he added. Kabila had been expected to announce a multi-party <xhtml:span class=\"hit\">transitional government</xhtml:span> by Tuesday but, according to press reports in Kinshasa on Wednesday, ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... attempts to mediate a peaceful transfer of power in former <xhtml:span class=\"hit\">Zaire</xhtml:span> , but said former President Mobutu Sese Seko, who fled Kinshasa ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Kabila after he took power on Saturday in the DRC, formerly <xhtml:span class=\"hit\">Zaire</xhtml:span> , said it was clear much hard work would be needed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... South African company which used to produce flags for the former <xhtml:span class=\"hit\">Zaire</xhtml:span> has begun making new ones in the colours of the renamed ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-34B0-0025-F37B-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-34B0-0025-F37B-00000-00</id><title>South Africa will assist Kabila's government: Mbeki mbeki</title><published>1997-05-21T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>South Africa will assist Kabila's government: Mbeki mbeki</nitf:hl1></nitf:hedline><nitf:dateline>CAPE TOWN, May 21 21</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Deputy President Thabo Mbeki pledged Wednesday that South Africa would assist the government of the new Democratic Republic of Congo (DRC) once it is announced by self-appointed president Laurent Kabila.</p><p nitf:lede=\"true\">Mbeki, the first foreign government official to hold talks with Kabila after he took power on Saturday in the DRC, formerly Zaire, said it was clear much hard work would be needed to rebuild the central African country.</p><p nitf:lede=\"true\">\"There has been a collapse of the state administration, a collapse of the public finances, a collapse in the productive capacity of a whole range of enterprises, there is endemic corruption in the country, there is a refugeee problem as well as a problem of displaced nationals,\" Mbeki told parliament.  parliament.</p><p>Kabila's rebel Alliance had asked for \"continuing assistance from South Africa with regard to these issues,\" he added.</p><p>\"As soon as the new government has been formed, they will be in contact with us to … see what assistance -- even if merely in the form of advice -- we can give.\"</p><p>\"We are also in contact with the World Bank, who clearly must play an important role with regard to helping to resuscitate this country,\" he added.</p><p>Kabila had been expected to announce a multi-party transitional government by Tuesday but, according to press reports in Kinshasa on Wednesday, delayed the announcement until after a meeting with former prime minister Etienne Tshisekedi.</p><p>Mbeki blamed the delay on the fact \"the process of consultation has proved more complicated than was calculated.\"</p><p>He sketched the background of South Africa's attempts to mediate a peaceful transfer of power in former Zaire, but said former President Mobutu Sese Seko, who fled Kinshasa on Friday, had scuttled the plan.</p><p>Although Kabila had given assurances his troops would not enter Kinshasa until the agreement had been fulfilled, he was urged \"by Western ambassadors\", after Mobutu fled, to enter the capital to maintain law and order and prevent looting.</p><p>Still to be resolved, he said, was the question of peace, non-aggression, and the inviolability of borders, especially in regard to the Great Lakes region as a whole.</p><p>\"I imagine that it would be expected that South Africa should continue to make whatever contribution it can to resolve these matters,\" Mbeki said.</p><p>mh/br/lc</p><p>A South African company which used to produce flags for the former Zaire has begun making new ones in the colours of the renamed Democratic Republic of Congo (DRC), a company official said Wednesday.</p><p>Financial director of the National Flag Company, Estel Clingman, said the company was hoping to obtain orders for the flags from the new authorities, headed by Laurent Kabila.</p><p>\"The chances are they will purchase them from us because we supplied the former Zairean government,\" Clingman said. \"We hope next week we will start to sell them to the new government.\"</p><p>She said the National Flag Company began producing the flags on Tuesday and had already sold 50 to various parties, which she did not identify. None had yet been bought by the new authorities.</p><p>\"There is a lot of confusion around the pattern of the flag,\" she said, \"but when we know for sure that this is the correct one, we will produce it in big quantities.\"</p><p>The company, which began in 1981, produces by hand flags of all sizes from around the world.</p><p>Employing around 100 workers, it regularly sends flags ordered by governments in Africa as well as Hong Kong, which is due to revert to Chinese rule on July 1.</p><p>bmk/br/lc lc</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-02-28</dc:date></dc:metadata><wordCount number=\"854\"/><timeReceived>2118 2118</timeReceived><timeReceived>21:18 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"21\" year=\"1997\"><dateText>May 21, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"88\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"89\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009G89</classCode><className>REGIONAL &amp; LOCAL GOVERNMENTS</className><classCode>Z3VpZD11cm46dG9waWM6Njg1MkM3RkYyNzIxNEVFRkJFMTI2NUM4NUU1ODdEM0Q7cGFyZW50Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA</classCode><className>Local Governments</className></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DH0Q</classCode><className>AGREEMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000484</classCode><className>DEVELOPMENT BANKS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"55\"><classCode>ST000D5SG</classCode><className>CORRUPTION</className><classCode/><className/></classificationItem><classificationItem score=\"52\"><classCode>STX000949</classCode><className>INTERNATIONAL ECONOMIC ORGANIZATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"73\"><classCode>STX000484</classCode><className>DEVELOPMENT BANKS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"98\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

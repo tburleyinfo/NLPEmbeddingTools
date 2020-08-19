@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5KF0-00BT-M369-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 595,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT KINSHASA: of anonymity.",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5KF0-00BT-M369-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 595words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> within 72 hours and within 60 days there would be a new constitution. Current government officials should remain in the posts and await orders from the alliance, he said. He made no mention of elections that the west has pressed him to call and has offered to fund. In recent weeks, Kabila has shied away from calling elections, saying <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> was not ready. Mobutu's exact whereabouts and plans remained unclear. Aides said Friday he flew to his northern hometown of  Gbadolite ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... now the functions of head of state.'' He would form a <xhtml:span class=\"hit\">transitional government</xhtml:span> within 72 hours and within 60 days there would be a ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... In recent weeks, Kabila has shied away from calling elections, saying <xhtml:span class=\"hit\">Zaire</xhtml:span> was not ready....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... been accused of atrocities against refugees during their eight-month march across <xhtml:span class=\"hit\">Zaire</xhtml:span> . (pvs/rk)...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... He would form a <xhtml:span class=\"hit\">transitional government</xhtml:span> within 72 hours and within 60 days there would be a ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... In recent weeks, Kabila has shied away from calling elections, saying <xhtml:span class=\"hit\">Zaire</xhtml:span> was not ready. Mobutu's exact whereabouts and plans remained unclear. Aides ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5KF0-00BT-M369-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5KF0-00BT-M369-00000-00</id><title>URGENT KINSHASA: of anonymity.</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT KINSHASA: of anonymity.</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Rebels were walking down the streets toward the center of Kinshasa in large numbers.</p><p nitf:lede=\"true\">Outside the radio station, in Lingwala about two kilometers (1 mile) from downtown Kinshasa hundreds of people wore white headbands that showed they support the rebels.</p><p nitf:lede=\"true\">''Mobutu has gone crazy,'' the crowd chanted. ''We want Kabila.''</p><p>Gunfire flared around the capital and people took to the streets throughout the city.</p><p>''Don't call them rebels, call them liberators!'' one Kinshasan cried in a crowd marching downtown.</p><p>A crowd of several hundred civilians ran through the streets, waving tree branches and flashing victory signs.</p><p>Miguel Kamputu, 18, rolled on his back on a filthy sidewalk, shouting, ''Oh Kabila! Oh Kabila!'' then shaking with laughter.</p><p>''Too much suffering. Too much suffering. He is finally here,'' he said.</p><p>As troops closed in on the city, there were few immediate signs of resistance by government troops.</p><p>A crowd of about 300 youths faced down government troops who tried to block their way into the central market. The troops opened fire and then dispersed; there were two dead. It was unclear if the dead were civilians or troops.</p><p>Some civilians, toting automatic weapons, were patrolling Mobutu's patrols in order to ensure they did not loot or attack foreigners characteristics of previous unrest in this country.</p><p>''We want to keep this area safe to guard the businesses and protect foreigners, stop looting so everything is normal,'' John Makwala, wearing jeans and a purple t-shirt and toting an AK-47, told The Associated Press.</p><p>Kabila urged calm in Kinshasa, and warned that anyone who harms Zairians or foreigners would be ''severely sanctioned.''</p><p>An American evacuation team was on alert across the river in Brazzaville, Congo as it had been for a week but had not received an order to evacuate over 300 Americans in Kinshasa, said its spokesman, Cmdr. Bob Anderson.</p><p>Excited Zairians lined the road to the airport to welcome the rebel advance.</p><p>Kabila rejected Mobutu's ceding of power to his government, saying that was not enough to stop the civil war. But in a victory speech, he said Mobutu no longer concerned him, and could remain in the home village to which he had fled on Friday.</p><p>''He can stay in his village, but I think it is not very important at all,'' Kabila said.</p><p>He said there were few pockets of resistance and that Zairian army generals in Kinshasa had told him they were ''ready to receive orders from me.''</p><p>He referred to himself in the third person, saying: ''President Laurent Kabila will assume from now the functions of head of state.''</p><p>He would form a transitional government within 72 hours and within 60 days there would be a new constitution. Current government officials should remain in the posts and await orders from the alliance, he said.</p><p>He made no mention of elections that the west has pressed him to call and has offered to fund. In recent weeks, Kabila has shied away from calling elections, saying Zaire was not ready.</p><p>Mobutu's exact whereabouts and plans remained unclear. Aides said Friday he flew to his northern hometown of Gbadolite, 700 miles (1,125 kilometers) away, for a few days ''rest'' and refused to say he had left Kinshasa for good. But diplomatic sources said they expected the 66-year-old Mobutu, who is dying from prostate cancer, to continue on to Morocco to begin life in exile.</p><p>Kabila has promised to undo the damage wrought by Mobutu's nearly 32 years in power. But he has been short on specifics, and his troops have been accused of atrocities against refugees during their eight-month march across Zaire.</p><p>(pvs/rk)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5KF0-00BT-M369-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"595\"/><timeReceived>11:15 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"17\" month=\"05\" year=\"1997\"><dateText>May 17, 1997; Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"53\"><className>ASSOCIATED PRESS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"53\"><className>ASSOCIATED PRESS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"86\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001421</classCode><className>PROTESTS &amp; DEMONSTRATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"89\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"75\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"92\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>GX087</classCode><className>BRAZZAVILLE, CONGO</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC528</classCode><className>CONGO</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

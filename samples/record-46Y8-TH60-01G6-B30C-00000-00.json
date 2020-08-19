@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:46Y8-TH60-01G6-B30C-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 293,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "GENERAL AND NATIONAL NEWS",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-09T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zaire-Digest",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a46Y8-TH60-01G6-B30C-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Broadcast News (BN), GENERAL AND NATIONAL NEWS, 293words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>'s defence ministry said he was taken to his home \"for his own safety\" but said he's not under house arrest. Marchers were also protesting Mobutu's announcement yesterday that a national state of emergency was in place and political rallies would be banned. ( AP ) ((U-S-Mobutu)) The U-S says Zairian President Mobutu Sese Seko Mobutu (moh-BOO'-too SEH'-seh SEH'-koh) should resign. It says support for him is insufficient to lead <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> \"into the next chapter of its history.\" White House spokesman ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... It says support for him is insufficient to lead <xhtml:span class=\"hit\">Zaire</xhtml:span> \"into the next chapter of its history.\" White House spokesman Mike McCurry says a negotiated solution to <xhtml:span class=\"hit\">Zaire</xhtml:span>'s civil war will have to include agreements on interim <xhtml:span class=\"hit\">transitional government</xhtml:span> arrangements, leading ultimately to elections. But he wouldn't say if the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Meanwhile, there are reports rebels have entered <xhtml:span class=\"hit\">Zaire</xhtml:span>'s second-largest city. Rebels have captured the eastern third of <xhtml:span class=\"hit\">Zaire</xhtml:span> in a seven-month campaign to end Mobutu's nearly 32-year dictatorship. ( AP ) ((<xhtml:span class=\"hit\">Zaire</xhtml:span> Protest))...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... tried to lead his supporters to his office in Kinshasa . <xhtml:span class=\"hit\">Zaire</xhtml:span> 's defence ministry said he was taken to his home \"for ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... GENERAL AND NATIONAL NEWS <xhtml:span class=\"hit\">Zaire</xhtml:span> -Digest ((Mobutu-Prime Minister)) Zairian President Mobutu Sese Seko (moh-BOO'-too SEH'-seh SEH'-koh) ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... week to replace a prime minister ousted by parliament for mishandling <xhtml:span class=\"hit\">Zaire</xhtml:span> 's rebellion. Tshisekedi tried to undermine Mobutu by ordering Parliament dissolved, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:46Y8-TH60-01G6-B30C-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:46Y8-TH60-01G6-B30C-00000-00</id><title>Zaire-Digest</title><published>1997-04-09T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>GENERAL AND NATIONAL NEWS</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zaire-Digest</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">((Mobutu-Prime Minister))</p><p nitf:lede=\"true\">Zairian President Mobutu Sese Seko (moh-BOO'-too SEH'-seh SEH'-koh) has fired his prime minister.</p><p nitf:lede=\"true\">Etienne Tshisekedi's firing came after soldiers seized him trying to enter his new office for the first time.</p><p>He was appointed only last week to replace a prime minister ousted by parliament for mishandling Zaire's rebellion.</p><p>Tshisekedi tried to undermine Mobutu by ordering Parliament dissolved, annulling the constitution and offering cabinet posts to army representatives.</p><p>The army's chief of staff (General Likulia Bolongo) has been named prime minister.</p><p>Meanwhile, there are reports rebels have entered Zaire's second-largest city.</p><p>Rebels have captured the eastern third of Zaire in a seven-month campaign to end Mobutu's nearly 32-year dictatorship. (AP) ((Zaire Protest))</p><p>Hundreds of soldiers fired tear gas today to break up a march by thousands of supporters of Prime Minister Etienne Tshisekedi.</p><p>He had tried to lead his supporters to his office in Kinshasa.</p><p>Zaire's defence ministry said he was taken to his home \"for his own safety\" but said he's not under house arrest.</p><p>Marchers were also protesting Mobutu's announcement yesterday that a national state of emergency was in place and political rallies would be banned. (AP) ((U-S-Mobutu))</p><p>The U-S says Zairian President Mobutu Sese Seko Mobutu (moh-BOO'-too SEH'-seh SEH'-koh) should resign.</p><p>It says support for him is insufficient to lead Zaire \"into the next chapter of its history.\"</p><p>White House spokesman Mike McCurry says a negotiated solution to Zaire's civil war will have to include agreements on interim transitional government arrangements, leading ultimately to elections.</p><p>But he wouldn't say if the U-S is actively involved in finding an exile home for Mobutu. (Reuter) --- PTH</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:identifier identifierScheme=\"DOC-ID\">CAPRSS-199704090204</dc:identifier><dc:source sourceScheme=\"royaltyReportingKey\">BRCSTN1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:46Y8-TH60-01G6-B30C-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">253760</dc:source><dc:date dateType=\"last-updated\">2020-06-24</dc:date></dc:metadata><wordCount number=\"293\"/><publicationInfo><publicationName>Broadcast News (BN)</publicationName><copyright>Copyright 1997 Press News Limited, All Rights Reserved</copyright><publicationDate day=\"09\" month=\"04\" year=\"1997\"><dateText>April 9, 1997 Wednesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000D17D</classCode><className>NEWS BRIEFS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001421</classCode><className>PROTESTS &amp; DEMONSTRATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DH0Q</classCode><className>AGREEMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CP</classCode><className>DEFENSE DEPARTMENTS</className><classCode>Z3VpZD11cm46dG9waWM6MTFBQjNDMzE0RjU1NEVDREJERTlFQUU2OTkzN0VCMjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode><className>US Department of Defense</className></classificationItem><classificationItem score=\"78\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"77\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001996</classCode><className>NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX000112</classCode><className>ARRESTS</className><classCode>Z3VpZD11cm46dG9waWM6ODVCRjhDNURBRDYzNDAzNjlFMDA3ODgyMUQ0ODhDRjE7cGFyZW50Z3VpZD11cm46dG9waWM6MzkzMEJFRkNCRUQwNEIyOEE3QTBDOEFFM0ZDRDg0NzU</classCode><className>Arrests</className></classificationItem><classificationItem score=\"68\"><classCode>ST000DFTB</classCode><className>STATES OF EMERGENCY</className><classCode/><className/></classificationItem><classificationItem score=\"51\"><classCode>ST000A4DV</classCode><className>HOUSE ARREST</className><classCode>Z3VpZD11cm46dG9waWM6RTJDRDU4RTlCOTM3NDlFQ0JEQ0Q3RDMyQzRGODQxNUQ7cGFyZW50Z3VpZD11cm46dG9waWM6QUM4NjRENzc2NUY4NEQwMUEyQTdBNkM4MDhEQURCQjU</classCode><className>Home Detention</className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"90\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CP</classCode><className>DEFENSE DEPARTMENTS</className><classCode>Z3VpZD11cm46dG9waWM6MTFBQjNDMzE0RjU1NEVDREJERTlFQUU2OTkzN0VCMjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode><className>US Department of Defense</className></classificationItem><classificationItem score=\"77\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"77\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Canadian Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

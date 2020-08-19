@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3TD9-37V0-0025-F25C-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 294,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "Mobutu ready to stand down: S.African television television",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-37V0-0025-F25C-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 294words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... An SABC reporter on board the South African naval vessel SAS Outeniqua, meanwhile reported that South African and other international diplomats are preparing a three-pronged plan to end  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's seven-month old civil war. Mediators hope to bring about a ceasefire, while installing a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> prior to democratic elections in the central African country, the SABC journalist said without adding details. \"What is apparent is that the peace process has been …  bedevilled by bad faith  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... and other international diplomats are preparing a three-pronged plan to end <xhtml:span class=\"hit\">Zaire</xhtml:span> 's seven-month old civil war. Mediators hope to bring about a ceasefire, while installing a <xhtml:span class=\"hit\">transitional government</xhtml:span> prior to democratic elections in the central African country, the SABC ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-37V0-0025-F25C-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-37V0-0025-F25C-00000-00</id><title>Mobutu ready to stand down: S.African television television</title><published>1997-05-03T00:00:00Z</published><updated>2020-08-04T18:50:43Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Mobutu ready to stand down: S.African television television</nitf:hl1></nitf:hedline><nitf:dateline>JOHANNESBURG, May 3 3</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zairean President Mobutu Sese Seko is ready to step down following talks with rebel leader Laurent Kabila, South Africa's public SABC television reported here Saturday.</p><p nitf:lede=\"true\">The television station's English-language news anchor, who did not cite any sources, said Mobutu, who was to meet with Zairean rebel chief Laurent Kabila later Saturday, \"is said to be ready to leave power.\" power.\"</p><p>An SABC reporter on board the South African naval vessel SAS Outeniqua, meanwhile reported that South African and other international diplomats are preparing a three-pronged plan to end Zaire's seven-month old civil war.</p><p>Mediators hope to bring about a ceasefire, while installing a transitional government prior to democratic elections in the central African country, the SABC journalist said without adding details.</p><p>\"What is apparent is that the peace process has been …  bedevilled by bad faith and brinkmanship … and there is always more that can still go wrong,\" the reporter commented.</p><p>Kabila was expected to board the Outeniqua later Saturday, after unexpectedly refusing Friday on the grounds of security risks among other concerns.</p><p>gam/bl bl</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-02-28</dc:date></dc:metadata><wordCount number=\"294\"/><timeReceived>0318 0318</timeReceived><timeReceived>03:18 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"03\" year=\"1997\"><dateText>May 03, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001905</classCode><className>JOURNALISM</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001865</classCode><className>WRITERS</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>N928120JC</classCode><className>DIPLOMATIC SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"78\"><classCode>N515120CC</classCode><className>TELEVISION INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001865</classCode><className>WRITERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

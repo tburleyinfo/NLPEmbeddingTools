@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F950-009B-H1GC-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 195,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-29T00:00:00Z",
+  "Keyword": null,
+  "Title": "zairean govt, rebels begin talks in s. africa next week",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F950-009B-H1GC-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 195words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... -congo (adfl) led by laurent kabila, as saying at the rebel headquarters in the eastern zairean city of goma on friday that the essential issue for the talks would be to negotiate the transfer of power from zairean president mobutu sese seko to a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> led by the adfl.  the rebels have seized a quarter of the third largest african country since last october when they rose in rebellion against the mobutu government.  the rebels stated repeatedly that a ceasefire can only be declared  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the rebel alliance of democratic forces for the liberation of <xhtml:span class=\"hit\">zaire</xhtml:span> -congo (adfl) led by laurent kabila, as saying at the rebel ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... transfer of power from zairean president mobutu sese seko to a <xhtml:span class=\"hit\">transitional government</xhtml:span> led by the adfl. the rebels have seized a quarter of ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F950-009B-H1GC-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F950-009B-H1GC-00000-00</id><title>zairean govt, rebels begin talks in s. africa next week</title><published>1997-03-29T00:00:00Z</published><updated>2020-08-04T18:50:44Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>zairean govt, rebels begin talks in s. africa next week</nitf:hl1></nitf:hedline><nitf:dateline>nairobi, march 29; ITEM NO: 0329072</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">the zairean government and the rebels will begin talks in south africa early next week, a report reaching here this morning said.  the report quoted an unidentified s. african government official as saying \"senior foreign ministry officials began preparations today (friday) to host peace talks in south africa\" which were likely to take place on monday or tuesday.  the official said cape town and gauteng are likely to be the venues for the talks.  the report quoted moise nyarugabo, secretary-general of the rebel alliance of democratic forces for the liberation of zaire-congo (adfl) led by laurent kabila, as saying at the rebel headquarters in the eastern zairean city of goma on friday that the essential issue for the talks would be to negotiate the transfer of power from zairean president mobutu sese seko to a transitional government led by the adfl.  the rebels have seized a quarter of the third largest african country since last october when they rose in rebellion against the mobutu government.  the rebels stated repeatedly that a ceasefire can only be declared after negotiations between the two warring sides begin.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F950-009B-H1GC-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"195\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"03\" day=\"29\" year=\"1997\"><dateText>MARCH 29, 1997, SATURDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Criminal Law &amp; Procedure</className><classCode>Z3VpZD11cm46dG9waWM6NEU0RkE1OUQwNUQwNDgxODhEODZCMjkzOTg3NThBNzk7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Venue</className><classCode>Z3VpZD11cm46dG9waWM6MUYxMDM5M0RCNDgyNDUyRUI0Q0YxQUUxNkNCMkNGRTk7cGFyZW50Z3VpZD11cm46dG9waWM6RkJBQkZFMjg4NzBGNDI3NUI4N0FENzBDMTdCNkYyREE</classCode></classificationItem></classificationItem><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem><classificationItem><className>Military &amp; Veterans Law</className><classCode>Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>US Congress</className><classCode>Z3VpZD11cm46dG9waWM6NEI1MkNDQzJDMjk1NDUwNUJDQkM4RDU1QTFDM0E0Rjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"90\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DN6R</classCode><className>PUBLIC OFFICIALS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"74\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GX297</classCode><className>CAPE TOWN, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3S51-HW70-0017-G2B4-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 269,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; EE/D2670/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-07-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "ZAIRE;French cooperation minister explains position on aid, elections",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S51-HW70-0017-G2B4-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; EE/D2670/A, 269words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  only move forward one step at a time. We are taking our first steps once again. We are beginning with things that are crucial for people, in other words, the health (?network) and the knowledge that young people can gain thanks to an initiative concerning libraries in particular. Let us begin with that . Later on, there will probably be elections - since we are dealing with a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>.  France  [words indistinct] will not shy away from giving support to the electoral process in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... will probably be elections - since we are dealing with a <xhtml:span class=\"hit\">transitional government</xhtml:span>.  France  [words indistinct] will not shy away from giving support to the electoral process in <xhtml:span class=\"hit\">Zaire</xhtml:span>....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; EE/D2670/A <xhtml:span class=\"hit\">ZAIRE</xhtml:span> ; French cooperation minister explains position on aid, elections [3] Excerpts ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... on 20th July The French cooperation minister, Jacques Godfrain, is in <xhtml:span class=\"hit\">Zaire</xhtml:span> for his first visit since the resumption of French cooperation was ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... will probably be elections - since we are dealing with a <xhtml:span class=\"hit\">transitional government</xhtml:span>.  France  [words indistinct] will not shy away from giving support to the electoral process in <xhtml:span class=\"hit\">Zaire</xhtml:span> . [Shintua] So nothing can stop cooperation between the two countries, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S51-HW70-0017-G2B4-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S51-HW70-0017-G2B4-00000-00</id><title>ZAIRE;French cooperation minister explains position on aid, elections</title><published>1996-07-22T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; EE/D2670/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>ZAIRE;<br/>French cooperation minister explains position on aid, elections</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[3] Excerpts from report by Radio France Internationale on 20th July</p><p nitf:lede=\"true\">The French cooperation minister, Jacques Godfrain, is in Zaire for his first visit since the resumption of French cooperation was announced on 28th May…</p><p nitf:lede=\"true\"> French aid today consists of 8m francs in the health sector and 3m francs to build a library. Cooperation is thus resuming little by little, but, as Jacques Godfrain told our correspondent, Kibambi Shintua [phonetic], you can only move forward one step at a time.</p><section sectionType=\"source\"><bodyText><p>Source: Radio France Internationale, Paris, in French 1230 gmt 20 Jul 96</p></bodyText></section><p>[Godfrain - recording] You can only move forward one step at a time. We are taking our first steps once again. We are beginning with things that are crucial for people, in other words, the health (?network) and the knowledge that young people can gain thanks to an initiative concerning libraries in particular. Let us begin with that . Later on, there will probably be elections - since we are dealing with a transitional government. France [words indistinct] will not shy away from giving support to the electoral process in Zaire.</p><p>[Shintua] So nothing can stop cooperation between the two countries, if I have understood you?</p><p>[Godfrain] Yes, if there is a return to a state of peace - in other words, the democratic deficit I spoke about a moment ago [as heard]. But things are going in the right direction, it seems, towards greater openness, greater flexibility. Elections are approaching, so I think we are on the right track. [End of recording]</p><p>Today, Jacques Godfrain is to meet the Zairean head of state, President Mobutu, at his residence in Gbadolite.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S51-HW70-0017-G2B4-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"269\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"22\" month=\"07\" year=\"1996\"><dateText>July 22, 1996, Monday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>RADIO FRANCE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>RADIO FRANCE </className></classificationItem><classificationItem score=\"58\"><className>  RADIO FRANCE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"78\"><classCode>STX000563</classCode><className>ELECTION LAW</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"78\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"97\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

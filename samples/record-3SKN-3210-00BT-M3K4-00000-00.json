@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3SKN-3210-00BT-M3K4-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 461,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-11-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "Opposition Leader Tshisekedi Says He's The New Zairian PM",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SKN-3210-00BT-M3K4-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 461words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Unity government</xhtml:span>.'' Asked about the fate of Kengo, Tshisekedi replied: ''He was the prime minister of the Westerners, not the prime minister of the Zairian people.'' He declined to elaborate on whether Kengo would now have to go, telling his interviewer to ''draw the logical conclusions from what I have said.'' He added that upon his return to  Kinshasa  he would ''hold the necessary consultations'' to create a national <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span>. Asked if Mobutu had informed Kengo he would no longer be prime ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Kinshasa he would ''hold the necessary consultations'' to create a national <xhtml:span class=\"hit\">unity government</xhtml:span> . Asked if Mobutu had informed Kengo he would no longer ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... which I will direct the government that we call the National <xhtml:span class=\"hit\">Unity government</xhtml:span> .'' Asked about the fate of Kengo, Tshisekedi replied: ''He was ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... leader Etienne Tshisekedi says he is the new prime minister of <xhtml:span class=\"hit\">Zaire</xhtml:span> , and that President Mobutu Sese Seko has given him permission ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... can respond to your question.'' He said the problems in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , where fighting between Tutsi-led rebels and Zairian troops has killed ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SKN-3210-00BT-M3K4-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SKN-3210-00BT-M3K4-00000-00</id><title>Opposition Leader Tshisekedi Says He's The New Zairian PM</title><published>1996-11-22T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Opposition Leader Tshisekedi Says He's The New Zairian PM</nitf:hl1></nitf:hedline><nitf:dateline>PARIS</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zairian opposition leader Etienne Tshisekedi says he is the new prime minister of Zaire, and that President Mobutu Sese Seko has given him permission to form a government.</p><p nitf:lede=\"true\">Tshisekedi met Thursday at Mobutu's Riviera villa for the first time since the Zairian leader ousted him as prime minister four years ago. The two had been political archenemies, but Tshisekedi said after their meeting that they had reconciled to solve their country's problems.</p><p>In an interview conducted Thursday night and broadcast Friday on Radio France International, Tshisekedi was asked if, since the meeting, he considers himself prime minister.</p><p>''Absolutely,'' Tshisekedi replied. Asked if Mobutu explicitly had given him the OK, he said, ''That's obvious. It comes from this national reconciliation we have had.''</p><p>In Kinshasa, the Zairian capital, Mobutu's special counsel Ngbanda Nzambo denied the claim and said Leon Kengo wa Donda remains prime minister.</p><p>Exiled from Kinshasa by Mobutu in the 1980s, Tshisekedi was elected prime minister by the transitional National Conference in August 1992. But Mobutu refused to confirm him to office.</p><p>Mobutu is convalescing at his villa in southern France after prostate cancer surgery in Switzerland in August.</p><p>''During a certain time President Mobutu said, 'I don't want to cohabit with Mr. Tshisekedi,' … but now, he doesn't oppose this any more,'' the opposition leader said in the radio interview.</p><p>''Thus he will respect the constitutional act by which I will direct the government that we call the National Unity government.''</p><p>Asked about the fate of Kengo, Tshisekedi replied: ''He was the prime minister of the Westerners, not the prime minister of the Zairian people.'' He declined to elaborate on whether Kengo would now have to go, telling his interviewer to ''draw the logical conclusions from what I have said.''</p><p>He added that upon his return to Kinshasa he would ''hold the necessary consultations'' to create a national unity government.</p><p>Asked if Mobutu had informed Kengo he would no longer be prime minister, Tshisekedi replied:</p><p>''I am not the president. Mobutu can respond to your question.''</p><p>He said the problems in eastern Zaire, where fighting between Tutsi-led rebels and Zairian troops has killed thousands of people and scattered a million refugees, must be solved by negotiations.</p><p>''I think we have sufficiently shed the blood of our people that we cannot permit ourselves to shed one more drop of Zairian blood,'' he said.</p><p>Although Tshisekedi has not announced his candidacy, he is expected to run for president if elections are held as scheduled in May, as Kengo said Thursday they would be.</p><p>Mobutu, who has canceled elections twice since promising a transition to democracy in 1990, was before his illness also expected to run.</p><p>(jn-cb)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SKN-3210-00BT-M3K4-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"461\"/><timeReceived>08:21 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1996 Associated Press  All Rights Reserved</copyright><publicationDate day=\"22\" month=\"11\" year=\"1996\"><dateText>November 22, 1996; Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>STE NATIONALE DE RADIODIFFUSION (RADIO FRANCE) </className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"57\"><className>NAICS515112 RADIO STATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>STE NATIONALE DE RADIODIFFUSION (RADIO FRANCE) </className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"57\"><className>NAICS515112 RADIO STATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001371</classCode><className>HEADS OF GOVERNMENT ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>STX001342</classCode><className>POLITICAL CANDIDATES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX000511</classCode><className>DISEASES &amp; DISORDERS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"66\"><classCode>STX001112</classCode><className>MEN'S HEALTH</className><classCode/><className/></classificationItem><classificationItem score=\"51\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"91\"><classCode>N515110CC</classCode><className>RADIO BROADCAST INDUSTRY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"87\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>GC327</classCode><className>SWITZERLAND</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

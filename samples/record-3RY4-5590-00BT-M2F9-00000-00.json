@@ -1,0 +1,73 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5590-00BT-M2F9-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "DONNA BRYSON ",
+  "WordLength": 520,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-30T00:00:00Z",
+  "Keyword": null,
+  "Title": "Former prime minister speaks against Mobutu With BC-Zaire-Faith",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5590-00BT-M2F9-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 520words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>'s second-largest city Sunday to tell residents they were free to embrace the rebels advancing on the provincial capital. Nguza Karl-i-Bond's brief visit to  Lubumbashi  came a day after he told French radio he was distancing himself from President Mobutu Sese Seko, whom he had served as prime minister in the early 1990s. Karl-i-Bond also said in the radio interview heard in  Kinshasa  that residents of  Lubumbashi  and the rest of mineral-rich Shaba province should decide for themselves whether ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... minister in 1992 by a national conference organized to prepare for <xhtml:span class=\"hit\">Zaire</xhtml:span>'s transition from dictatorship to democracy. Soon after he lost his post, he urged Shabans to oppose the <xhtml:span class=\"hit\">transitional government</xhtml:span>. Shaba twice tried to break away from <xhtml:span class=\"hit\">Zaire</xhtml:span> in the 1970s....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... But his statements were likely to increase tension in <xhtml:span class=\"hit\">Zaire</xhtml:span> _ already shaken by the rebellion and wondering whether cancer-stricken Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... most in need of leadership. Kabila has captured most of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> since beginning his campaign last September. On Friday, his forces claimed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> -Faith DONNA BRYSON  KINSHASA , <xhtml:span class=\"hit\">Zaire</xhtml:span> A former prime minister traveled to <xhtml:span class=\"hit\">Zaire</xhtml:span> 's second-largest city Sunday to tell residents they were free to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... country recently. But his statements were likely to increase tension in <xhtml:span class=\"hit\">Zaire</xhtml:span> _ already shaken by the rebellion and wondering whether cancer-stricken Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... most in need of leadership. Kabila has captured most of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> since beginning his campaign last September. On Friday, his forces claimed ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5590-00BT-M2F9-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5590-00BT-M2F9-00000-00</id><title>Former prime minister speaks against Mobutu With BC-Zaire-Faith</title><published>1997-03-30T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Former prime minister speaks against Mobutu With BC-Zaire-Faith</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>DONNA BRYSON </nameText></person></author></nitf:byline><nitf:dateline>KINSHASA, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">A former prime minister traveled to Zaire's second-largest city Sunday to tell residents they were free to embrace the rebels advancing on the provincial capital.</p><p nitf:lede=\"true\">Nguza Karl-i-Bond's brief visit to Lubumbashi came a day after he told French radio he was distancing himself from President Mobutu Sese Seko, whom he had served as prime minister in the early 1990s.</p><p nitf:lede=\"true\">Karl-i-Bond also said in the radio interview heard in Kinshasa that residents of Lubumbashi and the rest of mineral-rich Shaba province should decide for themselves whether to stay with Mobutu or follow rebel leader Laurent Kabila.</p><p>The extent of Karl-i-Bond influence was unclear he has been ailing and out of the country recently.</p><p>But his statements were likely to increase tension in Zaire _ already shaken by the rebellion and wondering whether cancer-stricken Mobutu is physically able to wield the power he has held for nearly 32 years. Zairians are also questioning parliament's inability to name a prime minister just when the country is most in need of leadership.</p><p>Kabila has captured most of eastern Zaire since beginning his campaign last September. On Friday, his forces claimed to have taken Kasenga, a town on the Zambian border 135 miles northeast of Lubumbashi, and said they were poised to seize Lubumbashi, 1,500 kilometers (900 miles) southeast of Kinshasa.</p><p>The government has denied that Kasenga had fallen.</p><p>In most cases, Mobutu's poorly disciplined soldiers have fled from the rebels, often looting the towns they were supposed to protect before retreating. The rebels have been welcomed in other towns by people who accuse Mobutu of neglecting his country while enriching himself.</p><p>The rebels are continuing their advance as both they and the government prepare for peace talks expected to begin in South Africa in the next few days.</p><p>Karl-i-Bond told supporters at Lubumbashi's airport Sunday that they should decide for themselves whether to back Mobutu or Kabila, according to a member of his Union of Independent Federalists and Republicans, reached in Kinshasa and speaking only on condition of anonymity. Karl-i-Bond also called for a change in government leadership but did not directly refer to Mobutu, the source said.</p><p>Karl-i-Bond stopped in Lubumbashi on the way to South Africa, where he has spent most of the last several months being treated for heart problems.</p><p>The Shaba native was ousted as prime minister in 1992 by a national conference organized to prepare for Zaire's transition from dictatorship to democracy. Soon after he lost his post, he urged Shabans to oppose the transitional government.</p><p>Shaba twice tried to break away from Zaire in the 1970s.</p><p>Karl-i-Bond was replaced in 1992 by longtime Mobutu opponent Etienne Tshisekedi. Mobutu resisted both working with Tshisekedi and being pushed toward democracy, and Tshisekedi was eventually replaced by the president's choice, Leon Kengo wa Dondo.</p><p>Kengo was accused of mishandling the war, and last week he resigned. Parliament appears ready to again nominate Tshisekedi as prime minister, but has been unable to agree on the question despite two weeks of closed-door talks.</p><p>(db/bk)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5590-00BT-M2F9-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"520\"/><timeReceived>12:02 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"30\" month=\"03\" year=\"1997\"><dateText>March 30, 1997; Sunday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Civil Procedure</className><classCode>Z3VpZD11cm46dG9waWM6MzUxNjJDMEQ5N0YwNDMzM0JDMjEzM0UzOTYzMzI3OTU7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"79\"><className>General Overview</className><classCode>Z3VpZD11cm46dG9waWM6NEE1RTNBQzQ4OEU5NDlDN0I5QjcyRUUxOTlCQ0EwOTg7cGFyZW50Z3VpZD11cm46dG9waWM6MkEwMEQ0M0JCOTA1NEQ1NUFCOTAzQURBOThGRjEwOTc</classCode></classificationItem></classificationItem><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"88\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem><classificationItem score=\"60\"><classCode>ST000DKC8</classCode><className>DICTATORSHIPS</className><classCode/><className/></classificationItem><classificationItem score=\"51\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"92\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"97\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC395</classCode><className>ZAMBIA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

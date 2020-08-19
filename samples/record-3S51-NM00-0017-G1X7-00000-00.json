@@ -1,0 +1,73 @@
+{
+  "ResultId": "urn:contentItem:3S51-NM00-0017-G1X7-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 564,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa and Latin America; AFRICA; CENTRAL AFRICA; AL/2353/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1995-07-12T00:00:00Z",
+  "Keyword": null,
+  "Title": "ZAIRE;Kengo announces cabinet reshuffle in next few days; opposition reacts",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S51-NM00-0017-G1X7-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa and Latin America; AFRICA; CENTRAL AFRICA; AL/2353/A, 564words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span>. According to USOR, it is not a makeshift solution that the opposition wants but a government that corresponds to the wishes of the Sovereign National Conference with, at its head, a prime minister that does not belong to President Mobutu's political family. Let us listen to the USOR spokesman Aime Zaye. [Zaye - recording] For the opposition forces, the issue is not one of a government reshuffle. The law must be respected. This means that since a new transitional period is beginning, ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to the determination of the prime minister to form a national <xhtml:span class=\"hit\">unity government</xhtml:span> . According to USOR, it is not a makeshift solution that ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... is not a reshuffle but simply the formation of a national <xhtml:span class=\"hit\">unity government</xhtml:span> that must be envisaged....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the various political families with a view to forming a national <xhtml:span class=\"hit\">unity government</xhtml:span> , which will permit us to go the polls with the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to the determination of the prime minister to form a national <xhtml:span class=\"hit\">unity government</xhtml:span> . According to USOR, it is not a makeshift solution that ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... is not a reshuffle but simply the formation of a national <xhtml:span class=\"hit\">unity government</xhtml:span> that must be envisaged. If Mr Kengo would like to take ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Part 5 Africa and Latin America; AFRICA; CENTRAL AFRICA; AL/2353/A <xhtml:span class=\"hit\">ZAIRE</xhtml:span> ; Kengo announces cabinet reshuffle in next few days; opposition reacts ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S51-NM00-0017-G1X7-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S51-NM00-0017-G1X7-00000-00</id><title>ZAIRE;Kengo announces cabinet reshuffle in next few days; opposition reacts</title><published>1995-07-12T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa and Latin America; AFRICA; CENTRAL AFRICA; AL/2353/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>ZAIRE;<br/>Kengo announces cabinet reshuffle in next few days; opposition reacts</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Text of report by Gabonese Africa No 1 radio on 10th July</p><p nitf:lede=\"true\">Prime Minister Kengo Wa Dondo has announced that there will be a cabinet reshuffle in the next few days. Contacted by telephone by Mohamed Issoufou Saliou, the Zairean premier, whom you will be hearing in a moment, has appealed to the entire Zairean political class to take part in the future government that he will be forming.</p><p nitf:lede=\"true\">[Kengo - recording] On account of the new deal, demanded and decided after consultations with the president of the republic on 8th July, to enlarge my government to include all persuasions, I shall henceforth start meeting the various political families with a view to forming a national unity government, which will permit us to go the polls with the participation of all. [End of recording]</p><section sectionType=\"source\"><bodyText><p>Source: Africa No 1 radio, Libreville, in French 1830 gmt 10 Jul 95</p></bodyText></section><p>It must be said that the announcement was more or less expected. The prime minister spent the greater part of his day carrying out political consultations with the various political forces in the country. The consultations are said to be aimed at easing the political tension in the country. The tension was born of the pressure put on the High Council of the Republic - Transitional Parliament [HCR-PT] speaker by the Sacred Union of the Radical Opposition and the presidential group, demanding his resignation.</p><p>The consultations have taken place after the meeting between Kengo Wa Dondo and President Mobutu at Gbadolite over the weekend and following Marshal Mobutu's decision to extend the transitional period by two years. The cabinet reshuffle was, therefore, virtually foreseeable. It, however, remains to be seen how the head of government's offer will be received by the parties who insist absolutely on the removal of Mgr Mosengwo as HCR-PT speaker. These parties already feel strong enough to demand the removal of Kengo Wa Dondo himself.</p><p>USOR has just reacted to the determination of the prime minister to form a national unity government. According to USOR, it is not a makeshift solution that the opposition wants but a government that corresponds to the wishes of the Sovereign National Conference with, at its head, a prime minister that does not belong to President Mobutu's political family. Let us listen to the USOR spokesman Aime Zaye.</p><p>[Zaye - recording] For the opposition forces, the issue is not one of a government reshuffle. The law must be respected. This means that since a new transitional period is beginning, the provisions of Article 78 of the constitution, on the appointment of a prime minister by the opposition, must be implemented. It is not a reshuffle but simply the formation of a national unity government that must be envisaged.</p><p>If Mr Kengo would like to take part in these consultations, he is free to determine which of the two constitutional political families he belongs to, join the ranks of the family he thinks he belongs to and take part in the consultations which are part of the new beginning commencing on 10th July, in accordance with the revision of the constitution adopted by the assembly and promulgated recently by President Mobutu.</p><p>We shall not negotiate this famous reshuffle. We are maintaining our demand for a return to law. This means the formation of a government headed by someone chosen by the political family to which the head of state does not belong, and it is not Mr Kengo.</p><p>[3]</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1995</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S51-NM00-0017-G1X7-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"564\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1995 The British Broadcasting Corporation</copyright><publicationDate day=\"12\" month=\"07\" year=\"1995\"><dateText>July 12, 1995, Wednesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX000365</classCode><className>CONFERENCES &amp; CONVENTIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC329</classCode><className>UNITED KINGDOM</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

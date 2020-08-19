@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3TD9-38P0-0025-F4DN-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Carole Landry landry",
+  "WordLength": 800,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Domestic, non-Washington, general news item item",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-29T00:00:00Z",
+  "Keyword": null,
+  "Title": "US, grappling with Zaire, puts Africa policy on the line line",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-38P0-0025-F4DN-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, Domestic, non-Washington, general news item item, 800words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  but the effort to stop the bloodshed there is riddled with uncertainties, analysts say. With nine countries on its border and the second largest land mass in Africa,  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's fate is closely linked to that of the entire continent, where the  United States  has growing trade and investment interests. By dispatching troubleshooter Bill Richardson to the region, Washington hopes to put  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  firmly on the path towards stability with a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, although its precise form has  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... dispatching troubleshooter Bill Richardson to the region, Washington hopes to put <xhtml:span class=\"hit\">Zaire</xhtml:span>  firmly on the path towards stability with a <xhtml:span class=\"hit\">transitional government</xhtml:span> , although its precise form has yet to be determined. determined. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... on its border and the second largest land mass in Africa, <xhtml:span class=\"hit\">Zaire</xhtml:span> 's fate is closely linked to that of the entire continent, ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... transitional arrangement. Kabila, whose forces currently hold more than half of <xhtml:span class=\"hit\">Zaire</xhtml:span> , remains overall an unknown quantity to Washington, with many Africa ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the International Human Rights Law Group, which has worked in <xhtml:span class=\"hit\">Zaire</xhtml:span> . As his forces sweep across eastern and central <xhtml:span class=\"hit\">Zaire</xhtml:span> , Kabila finds momentum to be on his side and \"sees ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... that would require an evacuation of American citizens. Further bloodshed in <xhtml:span class=\"hit\">Zaire</xhtml:span>  would also strain ties between  France  and the  United States...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Domestic, non-Washington, general news item item US, grappling with <xhtml:span class=\"hit\">Zaire</xhtml:span> , puts Africa policy on the line line Carole Landry landry ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... bolster its stature in Africa by stepping up its involvement in <xhtml:span class=\"hit\">Zaire</xhtml:span> but the effort to stop the bloodshed there is riddled with ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-38P0-0025-F4DN-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-38P0-0025-F4DN-00000-00</id><title>US, grappling with Zaire, puts Africa policy on the line line</title><published>1997-04-29T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Domestic, non-Washington, general news item item</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>US, grappling with Zaire, puts Africa policy on the line line</nitf:hl1></nitf:hedline><nitf:byline>Carole Landry landry</nitf:byline><nitf:dateline>WASHINGTON, April 29 29</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The United States hopes to bolster its stature in Africa by stepping up its involvement in Zaire but the effort to stop the bloodshed there is riddled with uncertainties, analysts say.</p><p nitf:lede=\"true\">With nine countries on its border and the second largest land mass in Africa, Zaire's fate is closely linked to that of the entire continent, where the United States has growing trade and investment interests.</p><p nitf:lede=\"true\">By dispatching troubleshooter Bill Richardson to the region, Washington hopes to put Zaire firmly on the path towards stability with a transitional government, although its precise form has yet to be determined.  determined.</p><p>\"Clearly, this is the end game,\" says Ernest Wilson, a former analyst on Africa at the National Security Council who now heads the Center for International Development and Conflict Management.</p><p>In Washington's view, the final struggle involves three major power-brokers: President Mobutu Sese Seko, rebel leader Laurent Kabila and opposition leader Etienne Tshisekedi.</p><p>Mobutu, who for the past seven years has resisted US pressure to democratize, is now being pressed to leave power, even though it remains unclear whether he may still play a role in a transitional arrangement.</p><p>Kabila, whose forces currently hold more than half of Zaire, remains overall an unknown quantity to Washington, with many Africa analysts here saying he does not have the stature to handle the affairs of state.</p><p>\"I don't think that they (the United States) have enough information to have a real view\" of Kabila's potential, says Gay McDougall, director of the International Human Rights Law Group, which has worked in Zaire.</p><p>As his forces sweep across eastern and central Zaire, Kabila finds momentum to be on his side and \"sees no reason why he should negotiate,\" says McDougall.</p><p>Reports of refugee massacres by members of Kabila's alliance are also tarnishing the rebel leader's democratic credentials and threaten to leave him out of the circle of legitimate decision-making.</p><p>Tshisekedi, who had a brief four-day stint as prime minister earlier this month, was unsuccessful in his bid to challenge Mobutu's rule but still remains popular.</p><p>\"We'll have to see what happens to the traditional opposition,\" says Christopher Hurd, from the Center for Strategic and International Studies.</p><p>\"People have rallied around Tshisekedi,\" Hurd says, but Kabila has so far resisted his overtures.</p><p>Beyond the internal challenges, the United States sees international and domestic implications to the worsening conflict in Zaire.</p><p>Without strong US engagement at this juncture, the conflict may spill over into other nations, opening the prospect of a military intervention in central Africa that Washington hopes to avoid at all cost, says Wilson.</p><p>The United States has pre-positioned military forces in the region in the event of an escalation that would require an evacuation of American citizens.</p><p>Further bloodshed in Zaire would also strain ties between France and the United States, and also affect Washington's relations with other African leaders trying to cast off the legacy of colonialism and authoritarian regimes in their countries.</p><p>cml/rl rl</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-38P0-0025-F4DN-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"800\"/><timeReceived>2916 2916</timeReceived><timeReceived>29:16 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"04\" day=\"29\" year=\"1997\"><dateText>April 29, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"56\"><className>NATIONAL SECURITY COUNCIL  </className></classificationItem><classificationItem score=\"56\"><className> NATIONAL SECURITY COUNCIL </className></classificationItem><classificationItem><className>  56%);</className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"56\"><className>NATIONAL SECURITY COUNCIL  </className></classificationItem><classificationItem score=\"56\"><className> NATIONAL SECURITY COUNCIL </className></classificationItem><classificationItem><className>  56%);</className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"75\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001996</classCode><className>NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST0009RLP</classCode><className>RESEARCH INSTITUTES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST0008ZBX</classCode><className>INTERNATIONAL LAW</className><classCode>Z3VpZD11cm46dG9waWM6QUJBMkUzQ0QwN0E0NEM4RDgzMjM1QTREMkU3RDdBODQ7cGFyZW50Z3VpZD0</classCode><className>International Law</className></classificationItem><classificationItem score=\"72\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"68\"><classCode>ST0008ZBZ</classCode><className>HUMAN RIGHTS VIOLATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"63\"><classCode>STX000873</classCode><className>HUMAN RIGHTS</className><classCode>Z3VpZD11cm46dG9waWM6NTYzQjQyOTBDNzNDNEI2QUIyOTE2MEYyMTdBQTlDMzI7cGFyZW50Z3VpZD11cm46dG9waWM6MTZCMUU5OEUyREYzNDM4MjkzMkFCQzA0MTM3QUY1NjQ</classCode><className>Human Rights</className></classificationItem><classificationItem score=\"62\"><classCode>STX001136</classCode><className>MILITARY OPERATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>ST0009J49</classCode><className>HUMAN RIGHTS &amp; CIVIL LIBERTIES LAW</className><classCode>Z3VpZD11cm46dG9waWM6NURDOUM5MEJFQUZGNEFBMDgzMkM0RTgwODdDNTMxREM7cGFyZW50Z3VpZD0</classCode><className>Civil Rights Law</className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"62\"><classCode>STX001136</classCode><className>MILITARY OPERATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"55\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"98\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

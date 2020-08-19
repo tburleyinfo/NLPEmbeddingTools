@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TDD-TRT0-0031-V0KY-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 490,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-11-07T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zairean students defy demo ban, call for premier to quit",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-TRT0-0031-V0KY-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse, International news, 490words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's prime minister and cabinet to resign over the crisis in embattled eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. Security forces looked on but did not intervene as students gathered at a university faculty for a joint funeral service for two colleagues killed in a demonstration earlier this week. But a threatened march on  the Palais  des peuples, the seat of  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, failed to materialise as tight security cordons were thrown up around the parliament building. The students had threatened to ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in a show of force to upset a meeting of the <xhtml:span class=\"hit\">transitional government</xhtml:span> . Even deputies trying to get to the building were stopped ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... des peuples, the seat of <xhtml:span class=\"hit\">Zaire</xhtml:span> 's <xhtml:span class=\"hit\">transitional government</xhtml:span> , failed to materialise as tight security cordons were thrown up ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Then we will have a solution (to the crisis) in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> .\" Professing their determination to fight the rebels in the east ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... angry students defied a ban on demonstrations Thursday and called for <xhtml:span class=\"hit\">Zaire</xhtml:span> 's prime minister and cabinet to resign over the crisis in embattled eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> . Security forces looked on but did not intervene as students ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-TRT0-0031-V0KY-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-TRT0-0031-V0KY-00000-00</id><title>Zairean students defy demo ban, call for premier to quit</title><published>1996-11-07T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zairean students defy demo ban, call for premier to quit</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">By Kevin McElderry</p><p nitf:lede=\"true\">KINSHASA, Nov 7 (AFP) - More than 1,000 angry students defied a ban on demonstrations Thursday and called for Zaire's prime minister and cabinet to resign over the crisis in embattled eastern Zaire.</p><p nitf:lede=\"true\">Security forces looked on but did not intervene as students gathered at a university faculty for a joint funeral service for two colleagues killed in a demonstration earlier this week.</p><p nitf:lede=\"true\">But a threatened march on the Palais des peuples, the seat of Zaire's transitional government, failed to materialise as tight security cordons were thrown up around the parliament building.</p><p>The students had threatened to bring the corpses to the Palais in a show of force to upset a meeting of the transitional government.</p><p>Even deputies trying to get to the building were stopped and had their vehicles and identities checked.</p><p>The two students were killed -- one shot dead, the other died in an accident -- as some 10,000 people demonstrated Tuesday in the streets of Kinshasa calling on Prime Minister Kengo wa Dondo to resign.</p><p>It was one of the largest rallies for years in the Zairean capital.</p><p>Thursday, a joint funeral service was held at the Institut National Superieur de Commerce, on a main thoroughfare next to the gendarmerie headquarters.</p><p>As some 200 students gathered in front of the walled grounds, another crowd of about 1,000 was inside where the two corpses lay in coffins.</p><p>After a joint mass, the first body, that of Jean-Marie Bangabunda who was shot, was taken away by students of his faculty to be brought to his family.</p><p>Then, amid a fanfare of drums, trumpets and singing, the coffin of Guylain Mbiya was laid inside a black hearse, bouquets of flowers perched on the roof.</p><p>Many of the students wore headbands with the words Adieu Guylain.</p><p>Like the earlier cortege, it was also escorted out by a cavalcade of dangerously overcrowded lorries, vans and cars to be taken to his family.</p><p>\"Our objective is the departure of Kengo and his government. Kengo is a person of double nationality,\" one student leader said.</p><p>\"The only answer that the (army) general staff has for me is to try to neutralise Kengo. Then we will have a solution (to the crisis) in eastern Zaire.\"</p><p>Professing their determination to fight the rebels in the east of the country, who they claim are suppored by the Rwandan government, they said all they needed were weapons to fight with.</p><p>\"None of the students are happy about what is happening. The government is irresponsible. It is doing absolutely nothing.\"</p><p>Both students are to be buried Friday.</p><p>Kengo is accused by the students of being too soft on the mainly Tutsi rebels, and of being partly of Tutsi origin himself.</p><p>Thursday's demonstration was the third in a week in Kinshasa following one on Friday and the biggest so far on Tuesday.</p><p>The students have pledged to continue demonstrating until Kengo stands down.</p><p>km/job</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-TRT0-0031-V0KY-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"490\"/><timeReceived>07:15 GMT</timeReceived><publicationInfo><publicationName>Agence France Presse</publicationName><copyright>Copyright 1996 Agence France Presse</copyright><publicationDate month=\"11\" day=\"07\" year=\"1996\"><dateText>November 07, 1996</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"55\"><className>INSTITUT NATIONAL DES HYDROCARBURES &amp; DE LA CHIMIE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"55\"><className>INSTITUT NATIONAL DES HYDROCARBURES &amp; DE LA CHIMIE </className></classificationItem><classificationItem score=\"55\"><className>  INSTITUT NATIONAL DES HYDROCARBURES &amp; DE LA CHIMIE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>STX000454</classCode><className>DEATHS &amp; OBITUARIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0009HPZ</classCode><className>STUDENTS &amp; STUDENT LIFE</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST0008XNH</classCode><className>GENDARMERIE</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>STX001566</classCode><className>SHOOTINGS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem><classificationItem score=\"65\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"73\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

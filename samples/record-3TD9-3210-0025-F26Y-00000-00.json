@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3210-0025-F26Y-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 534,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-06-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "DRC soldiers patrol around home of opposition leader leader",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3210-0025-F26Y-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 534words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  without explanation, he added. No incidents were reported, but opponents of Laurent Kabila -- who installed himself as president of the Democratic Republic of Congo (formerly <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>) after ousting dictator Mobutu Sese Seko -- shouted slogans such as \"Kabila's a thief\" and \"Kabila the killer.\" killer.\" Tshisekedi, a veteran politician and former premier, was a principal foe of Mobutu. His supporters have been protesting against Kabila's failure to include Tshisekedi in the new <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... installed himself as president of the Democratic Republic of Congo (formerly <xhtml:span class=\"hit\">Zaire</xhtml:span> ) after ousting dictator Mobutu Sese Seko -- shouted slogans such ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... been protesting against Kabila's failure to include Tshisekedi in the new <xhtml:span class=\"hit\">transitional government</xhtml:span> he has formed. \"We are surrounded by armed troops and we ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... installed himself as president of the Democratic Republic of Congo (formerly <xhtml:span class=\"hit\">Zaire</xhtml:span> ) after ousting dictator Mobutu Sese Seko -- shouted slogans such ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... been protesting against Kabila's failure to include Tshisekedi in the new <xhtml:span class=\"hit\">transitional government</xhtml:span> he has formed....</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3210-0025-F26Y-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3210-0025-F26Y-00000-00</id><title>DRC soldiers patrol around home of opposition leader leader</title><published>1997-06-03T00:00:00Z</published><updated>2020-08-04T18:50:44Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>DRC soldiers patrol around home of opposition leader leader</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">KINSH ASA, June 3 (AFP) - Around 10 soldiers armed with Kalashnikov rifles spent two hours Tuesday patrolling the Kinshasa home of opposition leader Etienne Tshisekedi, an AFP correspondent said.</p><p nitf:lede=\"true\">The soldiers left at the end of the afternoon without explanation, he added.</p><p nitf:lede=\"true\">No incidents were reported, but opponents of Laurent Kabila -- who installed himself as president of the Democratic Republic of Congo (formerly Zaire) after ousting dictator Mobutu Sese Seko -- shouted slogans such as \"Kabila's a thief\" and \"Kabila the killer.\" killer.\"</p><p>Tshisekedi, a veteran politician and former premier, was a principal foe of Mobutu. His supporters have been protesting against Kabila's failure to include Tshisekedi in the new transitional government he has formed.</p><p>\"We are surrounded by armed troops and we don't know why,\" said Modeste Sadiki, deputy secretary-general of Tshisekedi's opposition party, the Union for Democracy and Social Progress (UDPS).</p><p>\"It is a bad government policy. This type of intimidation cannot resolve things and we denounce it vigorously,\" he added.</p><p>The opposition leader's wife Marthe said she was praying when the soldiers arrived.</p><p>\"I don't know who they are or why they came. They speak Swahili (a language spoken in the east of the country and in eastern Africa). I don't understand them.\" she added.</p><p>Tshisekedi was not available for comment, his wife said, adding that he was taking his siesta.</p><p>Government spokesman Raphael Ghe nda told AFP he did not know the reasons behind the patrol.</p><p>Various observers have underlined that civil and military authorities from the new regime seem to answer to different military leaders.</p><p>The organisation of the former rebel alliance remains opaque, while the opposition has denounced Angolans, Rwandans and Ugandans they allege are in its midst.</p><p>For its part, the UDPS has urged its supporters to hold a further demonstration on Friday, despite official directives banning demonstrations and suspending political parties.</p><p>cpy/bl/job job</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3210-0025-F26Y-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"534\"/><timeReceived>0318 0318</timeReceived><timeReceived>03:18 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"06\" day=\"03\" year=\"1997\"><dateText>June 03, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001421</classCode><className>PROTESTS &amp; DEMONSTRATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N813940MM</classCode><className>POLITICAL PARTIES</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N813940GM</classCode><className>POLITICAL ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX001960</classCode><className>PUBLIC POLICY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"58\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR104</classCode><className>EASTERN AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5520-00BT-M22B-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "DIANNA CAHN ",
+  "WordLength": 366,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-28T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zairian rebels close in on Lubumbashi",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5520-00BT-M22B-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 366words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> Zairian rebels said Friday that they have captured a town on the  Zambian  border near  Lubumbashi  the last government stronghold in eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. Forces of the Alliance of Democratic Forces for the Liberation of Congo-<xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> seized Kasenga, 220 kilometers (137 miles) northeast of  Lubumbashi , which is the capital of the mineral-rich Shaba region, rebel spokesman Ngembwe Kazadi said from  Dar es Salaam ,  Tanzania . ''They are not far from  Lubumbashi  … little more than 100 kilometers (60 ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... is to take control of the entire country, set up a <xhtml:span class=\"hit\">transitional government</xhtml:span> and hold free elections. (hh/acw)...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Since September, the rebels have swept through much of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>, defeating Mobutu's undisciplined and poorly paid government troops. On March 15, they captured Kisangani,  <xhtml:span class=\"hit\">Zaire</xhtml:span> ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the last government stronghold in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>. Forces of the Alliance of Democratic Forces for the Liberation of Congo-<xhtml:span class=\"hit\">Zaire</xhtml:span> seized Kasenga, 220 kilometers (137 miles) northeast of Lubumbashi , which ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... GOMA, <xhtml:span class=\"hit\">Zaire</xhtml:span> Zairian rebels said Friday that they have captured a town on ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the Zambian border near Lubumbashi the last government stronghold in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>....</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5520-00BT-M22B-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5520-00BT-M22B-00000-00</id><title>Zairian rebels close in on Lubumbashi</title><published>1997-03-28T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zairian rebels close in on Lubumbashi</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>DIANNA CAHN </nameText></person></author></nitf:byline><nitf:dateline>GOMA, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zairian rebels said Friday that they have captured a town on the Zambian border near Lubumbashi the last government stronghold in eastern Zaire.</p><p nitf:lede=\"true\">Forces of the Alliance of Democratic Forces for the Liberation of Congo-Zaire seized Kasenga, 220 kilometers (137 miles) northeast of Lubumbashi, which is the capital of the mineral-rich Shaba region, rebel spokesman Ngembwe Kazadi said from Dar es Salaam, Tanzania.</p><p nitf:lede=\"true\">''They are not far from Lubumbashi … little more than 100 kilometers (60 miles),'' Kazadi said.</p><p>Kazadi said Lubumbashi could fall before the first direct negotiations with President Mobutu Sese Seko's representatives in South Africa, expected next week.</p><p>''We won't stop moving,'' he said. ''The sooner the talks on the cease-fire, the better for them.''</p><p>Under pressure from African leaders and the international community, the rebels have agreed to negotiations which they hope will bring Mobutu down without further fighting.</p><p>Since September, the rebels have swept through much of eastern Zaire, defeating Mobutu's undisciplined and poorly paid government troops.</p><p>On March 15, they captured Kisangani, Zaire's third-largest city, and then turned to the country's diamond capital, Mbuji-Mayi, and the neighboring Shaba region, rich with cobalt and copper.</p><p>Kazadi did not have details on the taking of Kasenga. He said the town, which is at Johnson's Falls and connected by road to Lubumbashi, fell on Thursday.</p><p>At the summit of the Organization of African Unity in Lome, Togo, the rebels said they would sent representatives to the talks to South Africa.</p><p>But Kazadi said the rebel leader, Laurent Kabila, will not go unless Mobutu, ill with prostate cancer, goes also.</p><p>Kabila came to the eastern city of Goma from Kisangani on Thursday.</p><p>''What we agreed is negotiations in order to get a cease-fire,'' he said. ''We're going to meet in South Africa one of these day.  … The date hasn't been set yet.''</p><p>''We want Mobutu to step down,'' he said, and ruled out again any power-sharing with ''Mobutists'' a reference to Mobutu's government and political proxies.</p><p>He said the aim of the alliance is to take control of the entire country, set up a transitional government and hold free elections.</p><p>(hh/acw)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5520-00BT-M22B-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"366\"/><timeReceived>10:59 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"28\" month=\"03\" year=\"1997\"><dateText>March 28, 1997; Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>DAR ES SALAAM AIRPORTS HANDLING CO LTD </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>DAR ES SALAAM AIRPORTS HANDLING CO LTD </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"87\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"78\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>ST000A7IS</classCode><className>ASSOCIATIONS &amp; ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"51\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX322</classCode><className>DAR ES SALAAM, TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX324</classCode><className>LOME, TOGO</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC383</classCode><className>TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC560</classCode><className>TOGO</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC395</classCode><className>ZAMBIA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

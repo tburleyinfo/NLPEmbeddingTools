@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3880-0025-F39H-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Jean-Pierre Campagne campagne",
+  "WordLength": 907,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-01T00:00:00Z",
+  "Keyword": null,
+  "Title": "Rebels say Mobutu will negotiate standing down down",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3880-0025-F39H-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 907words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's second city in the southeast, rebel negotiator Bizima Karaha said Marshal Mobutu \"knows very well that we are going to negotiate the way of his departure.\" \"It is very important that he comes for that. It will help with other negotiating points,\" added Karaha, who is the foreign affairs spokesman in the Tutsi-dominated rebel alliance.  alliance. \"We are ready to allow a time-frame for Mobutu's departure,\" Karaha said, adding that the alliance \"is delighted that Mobutu has for the first ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... \"can be flexible\" about the date. On the question of a <xhtml:span class=\"hit\">transitional government</xhtml:span> which the United States has been pushing for, Karaha said Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Mobutu will negotiate standing down down Jean-Pierre Campagne campagne LUBUMBASHI , <xhtml:span class=\"hit\">Zaire</xhtml:span> , May 1 1 Zairean rebels claimed Thursday that President Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... rebel leader Laurent Kabila. Speaking in the rebel stronghold of Lubumbashi, <xhtml:span class=\"hit\">Zaire</xhtml:span> 's second city in the southeast, rebel negotiator Bizima Karaha said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in Lubumbashi to celebrate the first \"May Day in Free Congo\". <xhtml:span class=\"hit\">Zaire</xhtml:span> 's second city was taken by the rebels on April 9. ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3880-0025-F39H-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3880-0025-F39H-00000-00</id><title>Rebels say Mobutu will negotiate standing down down</title><published>1997-05-01T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Rebels say Mobutu will negotiate standing down down</nitf:hl1></nitf:hedline><nitf:byline>Jean-Pierre Campagne campagne</nitf:byline><nitf:dateline>LUBUMBASHI, Zaire, May 1 1</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zairean rebels claimed Thursday that President Mobutu Sese Seko knows he will have to negotiate his ouster at his imminent meeting with rebel leader Laurent Kabila.</p><p nitf:lede=\"true\">Speaking in the rebel stronghold of Lubumbashi, Zaire's second city in the southeast, rebel negotiator Bizima Karaha said Marshal Mobutu \"knows very well that we are going to negotiate the way of his departure.\"</p><p nitf:lede=\"true\">\"It is very important that he comes for that. It will help with other negotiating points,\" added Karaha, who is the foreign affairs spokesman in the Tutsi-dominated rebel alliance.  alliance.</p><p>\"We are ready to allow a time-frame for Mobutu's departure,\" Karaha said, adding that the alliance \"is delighted that Mobutu has for the first time decided to negotiate in person and seriously.\"</p><p>The South African president's office announced Thursday that Mobutu and Kabila will meet Friday for talks chaired by President Nelson Mandela on board a South African naval vessel.</p><p>Mandela's spokesman Parks Mankahlana said Mandela will leave Johannesburg on Friday morning for the Congolese port of Pointe-Noire, where he will meet Mobutu and Gabonese President Omar Bongo.</p><p>All three leaders will then fly out to the supply ship Outeniqua off the coast by helicopter, Mankahlana added.</p><p>South African Deputy President Thabo Mbeki was due to leave Thursday for the Angolan capital Luanda, where he will be joined by Kabila before flying out to the ship.</p><p>Previously, the South Africans had said a meeting between Mobutu and Kabila would be postponed from Friday to Saturday, amid conflicting reports about a possible venue.</p><p>Karaha added: \"We are not going to talk about a ceasefire. A ceasefire would mean that our people will lose much after its sacrifices. The liberation must not stop.</p><p>\"We are very optimistic. The man who has corrupted, killed and brought poverty to this country has agreed to go,\" Karaha claimed, but he added that Mobutu \"could yet trick the international community\" by saying he is ready to meet Kabila and then failing to do so, as happened regarding previous talks mooted in South Africa.</p><p>Mobutu had been due on Thursday to fly to the Gabonese capital, Libreville, but the trip was cancelled without any explanation.  Libreville had been proposed as one possible venue for talks.</p><p>Karaha added that the alliance would prefer talks to take place on Sunday, but \"can be flexible\" about the date.</p><p>On the question of a transitional government which the United States has been pushing for, Karaha said Mobutu supporters could not take part.</p><p>\"There will be a government and the alliance will not be greedy.  The people will participate freely. But the 'Mobutists' should leave power to others, after 32 years,\" he said, adding that \"real elections\" will be held.</p><p>A US special envoy, Bill Richardson, on Thursday held talks in Libreville with Bongo and was due to go on to Luanda later in the day. He said he would attend the first part of any talks between Kabila and Mobutu.</p><p>The United States has been pushing to avoid a bloodbath in Kinshasa. The rebels have strengthened their hold around the capital by taking the town of Kikwit, 500 kilometres (300 miles) to the east, which is a strategic road junction and food supply route for the capital.</p><p>Kabila himself said Thursday that his forces would continue to march on Kinshasa despite the planned meeting with Mobutu. He was speaking after talks in Harare with Zimbabwe's President Robert Mugabe, who will take over as chairman of the Organisation of African Unity in June.</p><p>Meanwhile Thursday, more than 10,000 workers, including airline staff, shoe-shiners, railway workers and market women, held a colourful march for three hours in Lubumbashi to celebrate the first \"May Day in Free Congo\".</p><p>Zaire's second city was taken by the rebels on April 9.</p><p>lmc-bur/nb/gd gd</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3880-0025-F39H-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"907\"/><timeReceived>0116 0116</timeReceived><timeReceived>01:16 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"01\" year=\"1997\"><dateText>May 01, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST00098A0</classCode><className>FOREIGN RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"67\"><classCode>STX002273</classCode><className>NAVAL VESSELS</className><classCode/><className/></classificationItem><classificationItem score=\"65\"><classCode>STX002247</classCode><className>HELICOPTERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX006</classCode><className>LUANDA, ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

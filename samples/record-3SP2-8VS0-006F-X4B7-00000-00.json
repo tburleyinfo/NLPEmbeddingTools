@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3SP2-8VS0-006F-X4B7-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 107,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2926/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "Talks on formation of Kinshasa government continue",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-8VS0-006F-X4B7-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2926/A, 107words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">ZAIRE</xhtml:span>; AL/D2926/A Talks on formation of  Kinshasa  government continue [1] Text of report by Congolese radio from  Bukavu  on 21st May The president of the Democratic Republic of Congo [Laurent Kabila] continues his visit to  Kinshasa  where he arrived yesterday from  Lubumbashi . People are still awaiting the announcement of the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>. At the same time [brief break in reception] Bizima Karaha [responsible for foreign affairs in the rebel alliance] this morning organized a news ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... from Lubumbashi . People are still awaiting the announcement of the <xhtml:span class=\"hit\">transitional government</xhtml:span> . At the same time [brief break in reception] Bizima Karaha ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... still in progress at the Kinshasa Intercontinental Hotel on forming the <xhtml:span class=\"hit\">transitional government</xhtml:span> . Source: Congolese Radio-Television, Bukavu , in French 1615 gmt 21 ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; <xhtml:span class=\"hit\">ZAIRE</xhtml:span>; AL/D2926/A Talks on formation of  Kinshasa  government continue...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-8VS0-006F-X4B7-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-8VS0-006F-X4B7-00000-00</id><title>Talks on formation of Kinshasa government continue</title><published>1997-05-23T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2926/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Talks on formation of Kinshasa government continue</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[1]</p><p nitf:lede=\"true\">Text of report by Congolese radio from Bukavu on 21st May</p><p nitf:lede=\"true\">The president of the Democratic Republic of Congo [Laurent Kabila] continues his visit to Kinshasa where he arrived yesterday from Lubumbashi.</p><p nitf:lede=\"true\">People are still awaiting the announcement of the transitional government. At the same time [brief break in reception] Bizima Karaha [responsible for foreign affairs in the rebel alliance] this morning organized a news conference during which he said that negotiations were still in progress at the Kinshasa Intercontinental Hotel on forming the transitional government.</p><section sectionType=\"source\"><bodyText><p>Source: Congolese Radio-Television, Bukavu, in French 1615 gmt 21 May 97</p></bodyText></section></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-8VS0-006F-X4B7-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"107\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1997 British Broadcasting Corporation</copyright><publicationDate day=\"23\" month=\"05\" year=\"1997\"><dateText>May 23, 1997, Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST00096SZ</classCode><className>PRESS CONFERENCES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"89\"><classCode>STX001437</classCode><className>PUBLIC TELEVISION</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N515120CC</classCode><className>TELEVISION INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>N721110GM</classCode><className>HOTELS &amp; MOTELS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3Y0-009B-H1NM-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 368,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-18T00:00:00Z",
+  "Keyword": null,
+  "Title": "egypt wishes speedy end of zairian confrontation",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3Y0-009B-H1NM-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 368words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> within three days and introduce a new constitution in 60 days. he has declared himself president, but he set no date for elections.  meanwhile, the zairian embassy in cairo has maintained an attitude of silence and caution as regards the latest developments in the country where more than 250 ethnic groups live together.  the ten diplomats and administrators at the embassy, under the charge d'affaires, today declined to comment on developments after kabila assumed power in ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... for progress and prosperity,\" he said. the source also referred to <xhtml:span class=\"hit\">zaire</xhtml:span> as the democratic republic of congo, the name zairian rebels said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... leader laurent kabila claimed victory saturday in his lightning assault across <xhtml:span class=\"hit\">zaire</xhtml:span>, while his fighters swept through  kinshasa , the capital, virtually unopposed by government troops.  kabila promised to name a <xhtml:span class=\"hit\">transitional government</xhtml:span> within three days and introduce a new constitution in 60 days. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... today declined to comment on developments after kabila assumed power in <xhtml:span class=\"hit\">zaire</xhtml:span> . the security forces guarding the embassy in zamalek, a plush ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... for progress and prosperity,\" he said. the source also referred to <xhtml:span class=\"hit\">zaire</xhtml:span> as the democratic republic of congo, the name zairian rebels said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... leader laurent kabila claimed victory saturday in his lightning assault across <xhtml:span class=\"hit\">zaire</xhtml:span>, while his fighters swept through  kinshasa , the capital, virtually unopposed by government troops.  kabila promised to name a <xhtml:span class=\"hit\">transitional government</xhtml:span> within three days and introduce a new constitution in 60 days. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... today declined to comment on developments after kabila assumed power in <xhtml:span class=\"hit\">zaire</xhtml:span> . the security forces guarding the embassy in zamalek, a plush ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... NO: 0518196 egypt expressed the hope today that armed confrontation in <xhtml:span class=\"hit\">zaire</xhtml:span> will end following recent transfer of power in the african great ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3Y0-009B-H1NM-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3Y0-009B-H1NM-00000-00</id><title>egypt wishes speedy end of zairian confrontation</title><published>1997-05-18T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>egypt wishes speedy end of zairian confrontation</nitf:hl1></nitf:hedline><nitf:dateline>cairo, may 18; ITEM NO: 0518196</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">egypt expressed the hope today that armed confrontation in zaire will end following recent transfer of power in the african great lake country, the egyptian mena news agency reported.  \"we hope that armed conflicts will come to an end after a speedy entry of forces of the alliance of the democratic forces for the liberations of congo into kinshasa and the proclamation of a new government,\" a egyptian foreign ministry official was quoted by mena as saying.  \"its people have made strongest efforts to realize the aspirations of african peoples for progress and prosperity,\" he said.  the source also referred to zaire as the democratic republic of congo, the name zairian rebels said they will return the country to as it first achieved independence in 1960.  rebel leader laurent kabila claimed victory saturday in his lightning assault across zaire, while his fighters swept through kinshasa, the capital, virtually unopposed by government troops.  kabila promised to name a transitional government within three days and introduce a new constitution in 60 days. he has declared himself president, but he set no date for elections.  meanwhile, the zairian embassy in cairo has maintained an attitude of silence and caution as regards the latest developments in the country where more than 250 ethnic groups live together.  the ten diplomats and administrators at the embassy, under the charge d'affaires, today declined to comment on developments after kabila assumed power in zaire.  the security forces guarding the embassy in zamalek, a plush living quarter in downtown cairo, have not been strengthened.  contacted by telephone, the zairian charge d'affaires told mena that the embassy was \"working normally\" and would maintain its function pending fresh instructions from the foreign ministry in kinshasa.  there are in egypt more than 300 zairian citizens including those who were opposed to the deposed president mobutu sese seko.  aides to mobutu, who relinquished power friday, either fled or died at the hands of soldiers in kinshasa, putting an end to a nearly 32-year rule of mobutu in the country of nearly 50 million people.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3Y0-009B-H1NM-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"368\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"18\" year=\"1997\"><dateText>MAY 18, 1997, SUNDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"54\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"73\"><classCode>ST0009P2U</classCode><className>ETHNIC GROUPS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX102</classCode><className>CAIRO, EGYPT</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"97\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC332</classCode><className>EGYPT</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

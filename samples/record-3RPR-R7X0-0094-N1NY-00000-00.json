@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RPR-R7X0-0094-N1NY-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "By Shada Islam",
+  "WordLength": 367,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International News",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "Europe and Uganda urge Mobutu to attend South AFrican peace talks",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RPR-R7X0-0094-N1NY-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Deutsche Presse-Agentur, International News, 367words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> \".  Pinheiro urged Mobutu to relinquish his grip on power. \"You've got to ask yourself what is the base of support of the current regime,\" he stressed.    \" I think Mr Mobutu will have to enter into power-sharing. He has no  option. I'm not sure he was elected so I'm not sure what is his  legitimacy,\" he added.  The E.U. Commissioner insisted that President Mobutu must ensure that change in his country comes without bloodshed.  \"What I think is important is that everyone sits around the table\" ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... does not concern one man, it concerns all the people of <xhtml:span class=\"hit\">Zaire</xhtml:span> .\"  Pinheiro and other E.U. officials believe that while Mobutu's presence in any future <xhtml:span class=\"hit\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\">Zaire</xhtml:span> is unacceptable to Kabila and others, there could still be room ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> 's political future for \"representatives of Mobutism.\"  \"No major force in  <xhtml:span class=\"hit\">Zaire</xhtml:span>  should be excluded from the place in the transitional solution,\" Pinheiro said, adding however that the only \"legitimate power\" in  <xhtml:span class=\"hit\">Zaire</xhtml:span> ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Mobutu could no longer stop the forces of political change in <xhtml:span class=\"hit\">Zaire</xhtml:span> .  \"I think the move towards democracy in  <xhtml:span class=\"hit\">Zaire</xhtml:span> is now irresistable,\" the Ugandan President insisted. \"The question is how ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Seko Tuesday not to fight democratic change in his country, saying <xhtml:span class=\"hit\">Zaire</xhtml:span> 's government must be ready to meet rebel leader Laurent Kabila for talks on  <xhtml:span class=\"hit\">Zaire</xhtml:span> 's political future. Speaking to reporters after discussions with European Commission ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... international peace efforts must be to prevent \"conflict and bloodshed in <xhtml:span class=\"hit\">Zaire</xhtml:span> \". Pinheiro urged Mobutu to relinquish his grip on power. \"You've ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RPR-R7X0-0094-N1NY-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RPR-R7X0-0094-N1NY-00000-00</id><title>Europe and Uganda urge Mobutu to attend South AFrican peace talks</title><published>1997-04-22T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International News</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Europe and Uganda urge Mobutu to attend South AFrican peace talks</nitf:hl1></nitf:hedline><nitf:byline>By Shada Islam</nitf:byline><nitf:dateline>Brussels</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\"> The European Union and Uganda urged Zaire's embattled President Mobutu Sese Seko Tuesday not to fight democratic change in his country, saying Zaire's government must be ready to meet rebel leader Laurent Kabila for talks on Zaire's political future.</p><p nitf:lede=\"true\"> Speaking to reporters after discussions with European Commission President Jacques Santer and E.U. Development Commissioner Joao de Deus Pinheiro, Ugandan President Yoweri Musoveni said President Mobutu could no longer stop the forces of political change in Zaire.</p><p nitf:lede=\"true\"> \"I think the move towards democracy in Zaire is now irresistable,\" the Ugandan President insisted. \"The question is how do you manage that. But, the change itself is coming,\" the president said.</p><p>Musoveni urged Mobutu to attend peace talks in South Africa, saying that if he could'nt meet Laurent Kabila personally, he must send some \"high-powered people\" to represent him.</p><p> \"Is he the only one in his goverment? \" Musoveni asked. \"That's a strange government that depends on one person.\"</p><p> E.U. Commissioner Pinheiro said that the focus of international peace efforts must be to prevent \"conflict and bloodshed in Zaire\".</p><p> Pinheiro urged Mobutu to relinquish his grip on power. \"You've got to ask yourself what is the base of support of the current regime,\" he stressed.<br/> <br/> \" I think Mr Mobutu will have to enter into power-sharing. He has no<br/> option. I'm not sure he was elected so I'm not sure what is his<br/> legitimacy,\" he added.<br/></p><p> The E.U. Commissioner insisted that President Mobutu must ensure that change in his country comes without bloodshed.</p><p> \"What I think is important is that everyone sits around the table\" Pinheiro said. \"This does not concern one man, it concerns all the people of Zaire.\"</p><p> Pinheiro and other E.U. officials believe that while Mobutu's presence in any future transitional government in Zaire is unacceptable to Kabila and others, there could still be room in Zaire's political future for \"representatives of Mobutism.\"</p><p> \"No major force in Zaire should be excluded from the place in the transitional solution,\" Pinheiro said, adding however that the only \"legitimate power\" in Zaire would be one that arises after elections.  dpa si</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">DPA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RPR-R7X0-0094-N1NY-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">144245</dc:source><dc:date dateType=\"last-updated\">2018-06-18</dc:date></dc:metadata><wordCount number=\"367\"/><timeReceived>BC Cycle  10:56 Central European Time</timeReceived><publicationInfo><publicationName>Deutsche Presse-Agentur</publicationName><copyright>Copyright 1997 Deutsche Presse-Agentur</copyright><publicationDate day=\"22\" month=\"04\" year=\"1997\"><dateText>April 22, 1997, Tuesday,</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"91\"><className> EUROPEAN UNION </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION  </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"93\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"91\"><className> EUROPEAN UNION </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION  </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION </className></classificationItem></classification><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"91\"><className> EUROPEAN UNION </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION  </className></classificationItem><classificationItem score=\"58\"><className> EUROPEAN COMMISSION </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>STX000949</classCode><className>INTERNATIONAL ECONOMIC ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000D73F</classCode><className>EUROPEAN UNION</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921100GM</classCode><className>EUROPEAN UNION INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>ST00099QF</classCode><className>EUROPEAN UNION MEMBER STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "dpa international (Englischer Dienst)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

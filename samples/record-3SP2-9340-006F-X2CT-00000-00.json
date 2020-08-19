@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3SP2-9340-006F-X2CT-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 205,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; MOBUTU-KABILA TALKS; AL/D2909/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "Radio says Mobutu-Kabila talks to be held off Pointe-Noire, Congo",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-9340-006F-X2CT-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; MOBUTU-KABILA TALKS; AL/D2909/A, 205words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>Source: Voix du <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>,  Kinshasa , in French 1800 gmt 1 May 97 This change of venue is related to purely technical reasons. In fact, the port of  Libreville  cannot receive big warships such as the Outeniqua, which will serve as the venue for this face-to-face meeting between the president of the Republic, Marshal Mobutu, and Mr Kabila. This meeting is expected to culminate in an immediate cease-fire and the setting up of a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> which will organize democratic elections. This is  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... culminate in an immediate cease-fire and the setting up of a <xhtml:span class=\"hit\">transitional government</xhtml:span> which will organize democratic elections. This is the wish of President ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of off the coast of Libreville in Gabon. Source: Voix du <xhtml:span class=\"hit\">Zaire</xhtml:span> , Kinshasa , in French 1800 gmt 1 May 97 This ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-9340-006F-X2CT-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-9340-006F-X2CT-00000-00</id><title>Radio says Mobutu-Kabila talks to be held off Pointe-Noire, Congo</title><published>1997-05-03T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; MOBUTU-KABILA TALKS; AL/D2909/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Radio says Mobutu-Kabila talks to be held off Pointe-Noire, Congo</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[5]</p><p nitf:lede=\"true\">Excerpt from report by Zairean radio on 1st May</p><p nitf:lede=\"true\">The city of Pointe-Noire in Congo will today [as heard] be the venue for the Mobutu-Kabila meeting. It was because of technical reasons that the Congolese town was chosen, as explained by [name indistinct] permanent secretary at the president's office:</p><p nitf:lede=\"true\">[Secretary - recording] The meeting between the president of the republic, Marshal Mobutu Sese Seko, and the rebel leader Kabila will actually take place tomorrow Friday, 2nd May, but at Pointe-Noire in Congo instead of off the coast of Libreville in Gabon.</p><section sectionType=\"source\"><bodyText><p>Source: Voix du Zaire, Kinshasa, in French 1800 gmt 1 May 97</p></bodyText></section><p>This change of venue is related to purely technical reasons. In fact, the port of Libreville cannot receive big warships such as the Outeniqua, which will serve as the venue for this face-to-face meeting between the president of the Republic, Marshal Mobutu, and Mr Kabila. This meeting is expected to culminate in an immediate cease-fire and the setting up of a transitional government which will organize democratic elections. This is the wish of President Clinton.</p><p>As we know, following the 90-minute audience on 30th April with President Bill Clinton's emissary, the head of state consented to meet Mr Kabila…</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-9340-006F-X2CT-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"205\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1997 British Broadcasting Corporation</copyright><publicationDate day=\"03\" month=\"05\" year=\"1997\"><dateText>May 3, 1997, Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"90\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"72\"><classCode>PE0009VXO</classCode><className>BILL CLINTON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"91\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

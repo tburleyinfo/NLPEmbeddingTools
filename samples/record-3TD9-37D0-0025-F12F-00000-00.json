@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TD9-37D0-0025-F12F-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 374,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Domestic, non-Washington, general news item item",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-06T00:00:00Z",
+  "Keyword": null,
+  "Title": "Washington presses Mobutu to prepare power transfer with Kabila kabila",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-37D0-0025-F12F-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, Domestic, non-Washington, general news item item, 374words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, (and) that <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> should lead as soon as possible to elections.\" \"There is still time for discussions, but it is obviously urgent,\" Dinger said. The rebels, under the leadership of Laurent Kabila, are on the verge of entering  Kinshasa . Dinger said that reports place the rebels anywhere between 80 kilometers (50 miles) and 240 kilometers (150 miles) from the Zairean capital. Dinger also appealed to Kabila to honor his promise of \"a free market and a democratic ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... transfer of power,\" Dinger said. \"It should result in an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span>, (and) that <xhtml:span class=\"hit\">transitional government</xhtml:span> should lead as soon as possible to elections.\" \"There is still ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... his promise of \"a free market and a democratic government\" in <xhtml:span class=\"hit\">Zaire</xhtml:span> . On Monday  US  special envoy Bill Richardson met with Kabila in  Lubumbashi , in southern <xhtml:span class=\"hit\">Zaire</xhtml:span>. Tuesday Richardson met in ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-37D0-0025-F12F-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-37D0-0025-F12F-00000-00</id><title>Washington presses Mobutu to prepare power transfer with Kabila kabila</title><published>1997-05-06T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Domestic, non-Washington, general news item item</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Washington presses Mobutu to prepare power transfer with Kabila kabila</nitf:hl1></nitf:hedline><nitf:dateline>WASHINGTON, May 6 6</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Washington wants Zairean President Mobutu Sese Seko to \"urgently\" begin to negotiate with the rebels seeking to oust him to assure a peaceful transfer of power, a State Department official said Tuesday.</p><p nitf:lede=\"true\">Mobutu should \"urgently conduct negotiations with the rebel alliance\" that already controls a majority of the country,\" State Department spokesman John Dinger said.  said.</p><p>\"The goal of those negotiations should be to arrange, (and) ensure a peaceful transfer of power,\" Dinger said. \"It should result in an inclusive transitional government, (and) that transitional government should lead as soon as possible to elections.\"</p><p>\"There is still time for discussions, but it is obviously urgent,\" Dinger said.</p><p>The rebels, under the leadership of Laurent Kabila, are on the verge of entering Kinshasa. Dinger said that reports place the rebels anywhere between 80 kilometers (50 miles) and 240 kilometers (150 miles) from the Zairean capital.</p><p>Dinger also appealed to Kabila to honor his promise of \"a free market and a democratic government\" in Zaire.</p><p>On Monday US special envoy Bill Richardson met with Kabila in Lubumbashi, in southern Zaire.</p><p>Tuesday Richardson met in Botswana with several African chiefs of state, including Ugandan President Yoweri Museveni and Zimbabwean President Robert Mugabe. Then he traveled to Cape Town for talks with South African vice-president Thabo Mbeki.</p><p>Dinger said that Richardson would be traveling to Paris Wednesday to brief the French on his trip.</p><p>avz/ch/pfm pfm</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-37D0-0025-F12F-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"374\"/><timeReceived>0623 0623</timeReceived><timeReceived>06:23 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"06\" year=\"1997\"><dateText>May 06, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"68\"><className>STATE DEPARTMENT FEDERAL CREDIT UNION INC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"68\"><className>STATE DEPARTMENT FEDERAL CREDIT UNION INC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DL3I</classCode><className>YOWERI MUSEVENI</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>PE000DD81</classCode><className>ROBERT MUGABE</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"53\"><classCode>GX297</classCode><className>CAPE TOWN, SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"52\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC519</classCode><className>BOTSWANA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC396</classCode><className>ZIMBABWE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

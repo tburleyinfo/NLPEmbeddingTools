@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F6R0-009B-H4BC-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 217,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "major news items in leading french newspapers",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F6R0-009B-H4BC-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 217words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  made a very offensive attack upon the opposition socialist party when he began the electoral campaign of the ruling majority for the legislative elections scheduled for may 25 and june 1.  he described the socialist party as one which \"has lost memory and does not have a vision of the future.\" --after supporting zairean president mobutu sese seko for a long time,  france  now wishes a peaceful departure of mobutu from power by calling for the establishment of a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of mobutu from power by calling for the establishment of a <xhtml:span class=\"hit\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\">zaire</xhtml:span> ....</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F6R0-009B-H4BC-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F6R0-009B-H4BC-00000-00</id><title>major news items in leading french newspapers</title><published>1997-04-23T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>major news items in leading french newspapers</nitf:hl1></nitf:hedline><nitf:dateline>paris, april 23; ITEM NO: 0423169</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">the following are major news items in leading french newspapers today: liberation: --french prime minister alain juppe began on tuesday the electoral campaign of the ruling rally for the republic and the union for french democracy parties by defending the balance sheet of his government over the past two years.  he also called for a new momentum for the country's economic and social structural reforms.</p><p nitf:lede=\"true\">--horror again struck algerian civilians after islamic militants slaughtered 93 villagers in a village 25 kilometers south of the algerian capital algiers monday night. the massacre is the biggest ever reported since the civil war began in the country five years ago. half of the victims were women and children.</p><p nitf:lede=\"true\">le figaro: --prime minister alain juppe made a very offensive attack upon the opposition socialist party when he began the electoral campaign of the ruling majority for the legislative elections scheduled for may 25 and june 1.  he described the socialist party as one which \"has lost memory and does not have a vision of the future.\" --after supporting zairean president mobutu sese seko for a long time, france now wishes a peaceful departure of mobutu from power by calling for the establishment of a transitional government in zaire.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F6R0-009B-H4BC-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"217\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"04\" day=\"23\" year=\"1997\"><dateText>APRIL 23, 1997, WEDNESDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DIF2</classCode><className>FRENCH PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"78\"><classCode>N813940MM</classCode><className>POLITICAL PARTIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST00099LR</classCode><className>MUSLIMS &amp; ISLAM</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>STX001464</classCode><className>RELIGION</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX003</classCode><className>ALGIERS, ALGERIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC345</classCode><className>ALGERIA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

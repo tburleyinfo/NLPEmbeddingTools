@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3SP2-8N10-006F-X3YK-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 250,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; DEMOCRATIC REPUBLIC OF CONGO; AL/D2947/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-06-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "Kabila gives speech in Bukavu detailing transitional policy priorities",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-8N10-006F-X3YK-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; DEMOCRATIC REPUBLIC OF CONGO; AL/D2947/A, 250words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... The head of state thanked the people for their cooperation with the AFDL [Alliance of Democratic Forces for the Liberation of Congo-<xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>] which, the president said, brought together parties which wanted to bring about democracy in the liberated Congo. Laurent-Desire Kabila said that presidential elections would be organized after two years of an AFDL-led <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> which will try to restore things to working order. Three points make up the transitional priorities: the construction  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the AFDL [Alliance of Democratic Forces for the Liberation of Congo- <xhtml:span class=\"hit\">Zaire</xhtml:span> ] which, the president said, brought together parties which wanted to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... presidential elections would be organized after two years of an AFDL-led <xhtml:span class=\"hit\">transitional government</xhtml:span> which will try to restore things to working order. Three points ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the AFDL [Alliance of Democratic Forces for the Liberation of Congo- <xhtml:span class=\"hit\">Zaire</xhtml:span> ] which, the president said, brought together parties which wanted to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... presidential elections would be organized after two years of an AFDL-led <xhtml:span class=\"hit\">transitional government</xhtml:span> which will try to restore things to working order. Three points ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-8N10-006F-X3YK-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-8N10-006F-X3YK-00000-00</id><title>Kabila gives speech in Bukavu detailing transitional policy priorities</title><published>1997-06-17T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; DEMOCRATIC REPUBLIC OF CONGO; AL/D2947/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Kabila gives speech in Bukavu detailing transitional policy priorities</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[13]</p><p nitf:lede=\"true\">Text of report by Congolese radio from Bukavu on 14th June</p><p nitf:lede=\"true\">The president of the Democratic Republic of Congo, Laurent-Desire Kabila, this afternoon addressed the people at Sud-Kivu's headquarters [Bukavu]. The president's address focused on two items: the first was the meetings he has just held with Bukavu people who are pioneers of the liberation struggle.</p><section sectionType=\"source\"><bodyText><p>Source: Congolese Radio-Television, Bukavu, in French 1630 gmt 14 Jun 97</p></bodyText></section><p>The head of state thanked the people for their cooperation with the AFDL [Alliance of Democratic Forces for the Liberation of Congo-Zaire] which, the president said, brought together parties which wanted to bring about democracy in the liberated Congo.</p><p>Laurent-Desire Kabila said that presidential elections would be organized after two years of an AFDL-led transitional government which will try to restore things to working order. Three points make up the transitional priorities: the construction of roads; the creation of mechanization centres to modernize agriculture; and the electrification of the entire country. After satisfying all these priorities, the AFDL will have solved some of the ills afflicting our country.</p><p>The afternoon was also marked by the election of a new governor for Sud-Kivu. The public chose as its governor, Prof Jean-Charles Magabe [phonetic] from (?20) candidates. He has been teaching at the Bukavu ISP [phonetic] and is also vice-rector of Bukavu Catholic University. This was a good lesson in democracy for the people of Bukavu today.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-8N10-006F-X3YK-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"250\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1997 British Broadcasting Corporation</copyright><publicationDate day=\"17\" month=\"06\" year=\"1997\"><dateText>June 17, 1997, Tuesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>BUKAVU CATHOLIC UNIVERSITY </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"93\"><className>BUKAVU CATHOLIC UNIVERSITY </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001371</classCode><className>HEADS OF GOVERNMENT ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>STX001437</classCode><className>PUBLIC TELEVISION</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>N515120CC</classCode><className>TELEVISION INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST0009JY5</classCode><className>COLLEGE &amp; UNIVERSITY PROFESSORS</className><classCode/><className/></classificationItem><classificationItem score=\"67\"><classCode>N230000CC</classCode><className>CONSTRUCTION</className><classCode/><className/></classificationItem><classificationItem score=\"53\"><classCode>ST0009S2V</classCode><classCode/><className/></classificationItem><classificationItem score=\"53\"><classCode>N237300CC</classCode><className>ROAD &amp; BRIDGE CONSTRUCTION</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

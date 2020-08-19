@@ -1,0 +1,73 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5610-00BT-M3KP-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "RON KAMPEAS ",
+  "WordLength": 616,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "AP Photos KIN101,103-104",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5610-00BT-M3KP-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 616words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> continues to gain territory as Zairian soldiers clear out of each town the rebels approach. After seven months of fighting, the rebels now control a third of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. The  United Nations  says an estimated 100,000  Rwandan  refugees in rebel-controlled territory are in desperate physical condition after months without adequate food and shelter. The rebels claim the refugees include many of those responsible for the 1994 mass slaughter of up to a half-million Rwandan Tutsis and moderate Hutus ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... constitution and dissolved the parliament of 740 members to establish the <xhtml:span class=\"hit\">transitional government</xhtml:span> and prepare the country for its first multiparty elections since Mobutu ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... president. Kabila's Alliance of Democratic Forces for the Liberation of Congo- <xhtml:span class=\"hit\">Zaire</xhtml:span> continues to gain territory as Zairian soldiers clear out of each ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... seven months of fighting, the rebels now control a third of <xhtml:span class=\"hit\">Zaire</xhtml:span>. The  United Nations  says an estimated 100,000 ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Tutsis and moderate Hutus in Rwanda . The refugees fled to <xhtml:span class=\"hit\">Zaire</xhtml:span> to escape reprisals. In Washington, U.S. State Department spokesman Nicholas Burns ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news AP Photos KIN101,103-104 RON KAMPEAS KINSHASA , <xhtml:span class=\"hit\">Zaire</xhtml:span> Peace talks appeared imminent in the seven-month rebellion that has placed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Thursday night. The rebels, at their headquarters in Goma in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , said their delegates, Raphael Ghenda and Bizima Karaha, left Thursday ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5610-00BT-M3KP-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5610-00BT-M3KP-00000-00</id><title>AP Photos KIN101,103-104</title><published>1997-04-03T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>AP Photos KIN101,103-104</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>RON KAMPEAS </nameText></person></author></nitf:byline><nitf:dateline>KINSHASA, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Peace talks appeared imminent in the seven-month rebellion that has placed a large swath of territory under rebel control and shaken up the Zairian government.</p><p nitf:lede=\"true\">Government representatives and a rebel delegation began arriving Thursday in South Africa for talks aimed at ending the conflict.</p><p nitf:lede=\"true\">The leader of the government delegation, Honore Ngbanda, flew into Johannesburg Thursday night. The rebels, at their headquarters in Goma in eastern Zaire, said their delegates, Raphael Ghenda and Bizima Karaha, left Thursday for the talks.</p><p>U.N. envoy Mohamed Sahnoun, who arrived in Pretoria on Wednesday, was expected to lead the talks.</p><p>Rebels said their forces were moving by train toward Lubumbashi, the country's second-largest city on the southern border with Zambia. They said their troops were less than 65 miles (105 kilometers) from the city.</p><p>There was no indication on when the peace talks would begin.</p><p>The rebels have continued to say they will be satisfied with nothing less than the ouster of President Mobutu Sese Seko.</p><p>On Thursday, the rebels rejected an offer by newly-appointed Prime Minister Etienne Tshisekedi to accept six Cabinet seats in a new interim government.</p><p>Tshisekedi (pronounced CHEE-sa-kedie), on his first day in office Thursday, annulled the constitution and dissolved the parliament of 740 members to establish the transitional government and prepare the country for its first multiparty elections since Mobutu seized power in 1965. He did not set a date.</p><p>Politicians from all sides were stunned by Tshisekedi's actions.</p><p>''I don't know where he gets this power to dismiss Parliament.  The constitution won't be abrogated just because a citizen gets up and says it is,'' said the old parliament's speaker, Anzuluni Bembe, who was among the political elite who elected Tshisekedi.</p><p>''I believe that we are entering a new crisis,'' said Mobutu spokesman Kabuya Lumuna Sando. ''I can't understand how Tshisekedi, named by virtue of a certain constitutional passage, now rejects it entirely.''</p><p>A national conference of delegates from the government, the opposition and civic groups elected Tshisekedi to his first stint as prime minister in 1992, after Mobutu bowed to demands for democratic reforms. But the president refused to confirm his enemy in the job and Tshisekedi eventually was replaced with a string of other prime ministers, including just-ousted Prime Minister Leon Kengo wa Dondo.</p><p>The transitional parliament Tshisekedi proposed would be comprised of delegates from the 1992 national conference, and except for those offered to the rebels, all of the 19 Cabinet seats went to loyal members of his previous government. None went to people in Mobutu's camp.</p><p>Tshisekedi's appeal to the rebels means little to the leader of the seven-month rebellion. Laurent Kabila has called Tshisekedi a sellout for serving under the ailing president.</p><p>Kabila's Alliance of Democratic Forces for the Liberation of Congo-Zaire continues to gain territory as Zairian soldiers clear out of each town the rebels approach. After seven months of fighting, the rebels now control a third of Zaire.</p><p>The United Nations says an estimated 100,000 Rwandan refugees in rebel-controlled territory are in desperate physical condition after months without adequate food and shelter.</p><p>The rebels claim the refugees include many of those responsible for the 1994 mass slaughter of up to a half-million Rwandan Tutsis and moderate Hutus in Rwanda. The refugees fled to Zaire to escape reprisals.</p><p>In Washington, U.S. State Department spokesman Nicholas Burns said the United States has given the United Nations dlrs 3 million to pay for a plane to fly Rwandan refugees out of the Kisangani area if Kabila approves the plan.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5610-00BT-M3KP-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"616\"/><timeReceived>21:23 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"03\" month=\"04\" year=\"1997\"><dateText>April 03, 1997; Thursday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"57\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"57\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"57\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"93\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX000365</classCode><className>CONFERENCES &amp; CONVENTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX296</classCode><className>PRETORIA, SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC395</classCode><className>ZAMBIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3S0-009B-H16P-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 213,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-19T00:00:00Z",
+  "Keyword": null,
+  "Title": "s. africa recognizes zairean new president",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3S0-009B-H16P-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 213words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">democratic republic of the congo</xhtml:span>\", local daily the citizen quoted deputy president thabo mbeki as saying today.  mbeki made the announcement in lubumbashi after meeting with kabila over the future of this vast central african country, otherwise known as  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> .  kabila proclaimed himself president saturday, renaming <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">democratic republic of the congo</xhtml:span> and announced that a government of national salvation would be formed by may 20 and an assembly be convened to draft a new constitution within ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... has recognized laurent kabila as the president of \"the <xhtml:span class=\"hit\">democratic republic of the congo</xhtml:span> \", local daily the citizen quoted deputy president thabo mbeki as ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the future of this vast central african country, otherwise known as <xhtml:span class=\"hit\">zaire</xhtml:span> .  kabila proclaimed himself president saturday, renaming <xhtml:span class=\"hit\">zaire</xhtml:span> the <xhtml:span class=\"hit\">democratic republic of the congo</xhtml:span> and announced that a government of national salvation would be formed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... constitution within two months. mbeki said he was satisfied that the <xhtml:span class=\"hit\">transitional government</xhtml:span> would be broad-based. \"it is important during this transitional period that ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of kabila's alliance of democratic forces for the liberation of congo- <xhtml:span class=\"hit\">zaire</xhtml:span>....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... south africa has recognized laurent kabila as the president of \"the <xhtml:span class=\"hit\">democratic republic of the congo</xhtml:span> \", local daily the citizen quoted deputy president thabo mbeki as ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the future of this vast central african country, otherwise known as <xhtml:span class=\"hit\">zaire</xhtml:span> .  kabila proclaimed himself president saturday, renaming <xhtml:span class=\"hit\">zaire</xhtml:span> the <xhtml:span class=\"hit\">democratic republic of the congo</xhtml:span> and announced that a government of national salvation would be formed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... constitution within two months. mbeki said he was satisfied that the <xhtml:span class=\"hit\">transitional government</xhtml:span> would be broad-based. \"it is important during this transitional period that ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3S0-009B-H16P-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3S0-009B-H16P-00000-00</id><title>s. africa recognizes zairean new president</title><published>1997-05-19T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>s. africa recognizes zairean new president</nitf:hl1></nitf:hedline><nitf:dateline>johannesburg, may 19; ITEM NO: 0519065</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">south africa has recognized laurent kabila as the president of \"the democratic republic of the congo\", local daily the citizen quoted deputy president thabo mbeki as saying today.  mbeki made the announcement in lubumbashi after meeting with kabila over the future of this vast central african country, otherwise known as zaire.  kabila proclaimed himself president saturday, renaming zaire the democratic republic of the congo and announced that a government of national salvation would be formed by may 20 and an assembly be convened to draft a new constitution within two months.  mbeki said he was satisfied that the transitional government would be broad-based.  \"it is important during this transitional period that the people should enjoy democratic rights and democratic freedom.  \"the approach of the alliance to this question is indeed that.  it is itself an alliance of democratic forces,\" he said.  mbeki, an active participant in the negotiations that led up to kabila's taking power, was the first foreign dignitary to see kabila since he declared himself president.  he spent about two hours with kabila in lubumbashi, the temporary headquarters of kabila's alliance of democratic forces for the liberation of congo-zaire.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3S0-009B-H16P-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"213\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"19\" year=\"1997\"><dateText>MAY 19, 1997, MONDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Civil Rights Law</className><classCode>Z3VpZD11cm46dG9waWM6NURDOUM5MEJFQUZGNEFBMDgzMkM0RTgwODdDNTMxREM7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Protected Rights</className><classCode>Z3VpZD11cm46dG9waWM6NTgyRjY1MEEwMzdFNDAwQkIwMzFGMjc4ODIxQ0YxQzk7cGFyZW50Z3VpZD11cm46dG9waWM6RDI2NTNCOTkwRTE0NEU0OUE5NTgxOEIyQThGRDY1NjQ</classCode></classificationItem></classificationItem><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3HN0-0025-F1D8-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 320,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-25T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT Mobutu sets up \"negotiating committee\" committee\"",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3HN0-0025-F1D8-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 320words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  rebels who have seized most of eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, his spokesman said. It was not specified who the committee would be negotiating with.  with. mf/bb/job AFP President Mobutu Sese Seko said Tuesday he had set up a \"negotiating committee,\" after his government said it would \"share power\" with rebels who have seized most of eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, his spokesman said. Speaking on national television, Kabuya Lumuna said the committee would comprise nine members including representatives of the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... would \"share power\" with rebels who have seized most of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , his spokesman said. Speaking on national television, Kabuya Lumuna said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said the committee would comprise nine members including representatives of the <xhtml:span class=\"hit\">transitional government</xhtml:span> , the transitional parliament, the presidency, the courts and other bodies. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to \"share power\" with rebels who have seized most of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , his spokesman said. It was not specified who the committee ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... would \"share power\" with rebels who have seized most of eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , his spokesman said. Speaking on national television, Kabuya Lumuna said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said the committee would comprise nine members including representatives of the <xhtml:span class=\"hit\">transitional government</xhtml:span> , the transitional parliament, the presidency, the courts and other bodies. ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3HN0-0025-F1D8-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3HN0-0025-F1D8-00000-00</id><title>URGENT Mobutu sets up \"negotiating committee\" committee\"</title><published>1997-03-25T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT Mobutu sets up \"negotiating committee\" committee\"</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, March 25 25</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">President Mobutu Sese Seko said Tuesday he had set up a \"negotiating committee\" after his government said it had decided to \"share power\" with rebels who have seized most of eastern Zaire, his spokesman said.</p><p nitf:lede=\"true\">It was not specified who the committee would be negotiating with.  with.</p><p>mf/bb/job</p><p>AFP</p><p>President Mobutu Sese Seko said Tuesday he had set up a \"negotiating committee,\" after his government said it would \"share power\" with rebels who have seized most of eastern Zaire, his spokesman said.</p><p>Speaking on national television, Kabuya Lumuna said the committee would comprise nine members including representatives of the transitional government, the transitional parliament, the presidency, the courts and other bodies.</p><p>It was not specified who the committee would be negotiating with.</p><p>The spokesman said Mobutu had agreed to call on the transitional parliament to \"mobilise all the country's forces (to) work out a national consensus.\"</p><p>Vice-premier Banza Mukalay said earlier that the government had \"decided to share power -- that includes with the rebellion -- during the transition.\"</p><p>A rebel spokesman in Kisangani said late Tuesday that talks between the rebels and the government could begin in South Africa early next month.</p><p>The Zairean government resigned Monday but remains the transitional administration.</p><p>mf/bb/job</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3HN0-0025-F1D8-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"320\"/><timeReceived>2520 2520</timeReceived><timeReceived>25:20 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"03\" day=\"25\" year=\"1997\"><dateText>March 25, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"88\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

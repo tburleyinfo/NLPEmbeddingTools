@@ -1,0 +1,49 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5FB0-00BT-M3F9-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 62,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-02T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT POINTE NOIRE: of Soyo.",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5FB0-00BT-M3F9-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 62words",
+  "Extracts": [
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... and other countries want a cease-fire in <xhtml:span class=\"hit\">Zaire</xhtml:span> 's civil war, the establishment of a <xhtml:span class=\"hit\">transitional government</xhtml:span> that includes rebels and opposition parties, and a plan for free, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5FB0-00BT-M3F9-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5FB0-00BT-M3F9-00000-00</id><title>URGENT POINTE NOIRE: of Soyo.</title><published>1997-05-02T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT POINTE NOIRE: of Soyo.</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Mobutu, 66, has insisted he would never bow to Kabila's demand to resign, but he is ill with prostate cancer and under intense international pressure to step down.</p><p nitf:lede=\"true\">The United States and other countries want a cease-fire in Zaire's civil war, the establishment of a transitional government that includes rebels and opposition parties, and a plan for free, fair elections.</p><p nitf:lede=\"true\">(ts-bdb)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5FB0-00BT-M3F9-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"62\"/><timeReceived>06:18 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"02\" month=\"05\" year=\"1997\"><dateText>May 02, 1997; Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"88\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"87\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"85\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"79\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3S51-HC40-0017-G44V-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 76,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; EAST AFRICA; BURUNDI; AL/D2699/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-08-24T00:00:00Z",
+  "Keyword": null,
+  "Title": "Supreme Court says it cannot rule on legitimacy of government",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S51-HC40-0017-G44V-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; EAST AFRICA; BURUNDI; AL/D2699/A, 76words",
+  "Extracts": [
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Radio France Internationale on 22nd August In <xhtml:span class=\"hit\">Zaire</xhtml:span> , the Supreme Court has stated it is not in its ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to make a ruling on the legitimacy or illegitimacy of the <xhtml:span class=\"hit\">transitional government</xhtml:span> headed by Kengo wa Dondo. This was announced by the Supreme ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S51-HC40-0017-G44V-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S51-HC40-0017-G44V-00000-00</id><title>Supreme Court says it cannot rule on legitimacy of government</title><published>1996-08-24T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; EAST AFRICA; BURUNDI; AL/D2699/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Supreme Court says it cannot rule on legitimacy of government</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[2]</p><p nitf:lede=\"true\">Text of report by Radio France Internationale on 22nd August</p><p nitf:lede=\"true\">In Zaire, the Supreme Court has stated it is not in its remit to make a ruling on the legitimacy or illegitimacy of the transitional government headed by Kengo wa Dondo.</p><p nitf:lede=\"true\">This was announced by the Supreme Court, after a complaint by the UDPS [Union for Democracy and Social Progress], the Zairean radical opposition movement.</p><section sectionType=\"source\"><bodyText><p>Source: Radio France Internationale, Paris, in French 1730 gmt 22 Aug 96</p></bodyText></section></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S51-HC40-0017-G44V-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"76\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"24\" month=\"08\" year=\"1996\"><dateText>August 24, 1996, Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>RADIO FRANCE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>RADIO FRANCE </className></classificationItem><classificationItem score=\"58\"><className>  RADIO FRANCE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST0009ZVD</classCode><className>SUPREME COURTS</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"58\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"91\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>GR104</classCode><className>EASTERN AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"57\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

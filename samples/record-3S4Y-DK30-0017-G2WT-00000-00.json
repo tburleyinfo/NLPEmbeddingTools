@@ -1,0 +1,49 @@
+{
+  "ResultId": "urn:contentItem:3S4Y-DK30-0017-G2WT-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 61,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; RWANDA; AL/D2789/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-12-07T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zairean \"top business leader\" reportedly supports opposition",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S4Y-DK30-0017-G2WT-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; RWANDA; AL/D2789/A, 61words",
+  "Extracts": [
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the support of a prominent personality, the top business leader in <xhtml:span class=\"hit\">Zaire</xhtml:span> , who demands that a national <xhtml:span class=\"hit\">unity government</xhtml:span> should be formed\" , France 2 TV teletext reported on 5th ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S4Y-DK30-0017-G2WT-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S4Y-DK30-0017-G2WT-00000-00</id><title>Zairean \"top business leader\" reportedly supports opposition</title><published>1996-12-07T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; RWANDA; AL/D2789/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zairean \"top business leader\" reportedly supports opposition</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[19]</p><p nitf:lede=\"true\">The radical opposition, led by Etienne Tshisekedi, \"has received the support of a prominent personality, the top business leader in Zaire, who demands that a national unity government should be formed\" , France 2 TV teletext reported on 5th December. This was described as a \"major political crisis\" .</p><section sectionType=\"source\"><bodyText><p>Source: France 2 TV (Teletext), Paris, in French 1743 gmt 5 Dec 96</p></bodyText></section></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S4Y-DK30-0017-G2WT-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"61\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"07\" month=\"12\" year=\"1996\"><dateText>December 7, 1996, Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"90\"><classCode>STX001437</classCode><className>PUBLIC TELEVISION</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"56\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"74\"><classCode>GR213</classCode><className>MIDWEST USA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"90\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

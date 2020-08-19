@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5KN0-00BT-M37T-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "KARIN DAVIES ",
+  "WordLength": 372,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "Rebel leader claims presidency of Zaire With Zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5KN0-00BT-M37T-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 372words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... Rebel leader claims presidency of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> With  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> KARIN DAVIES  LUBUMBASHI , <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> Rebel leader Laurent Kabila, realizing a three-decade dream, declared he was taking over as president <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> on Saturday, a day after President Mobutu Sese Seko agreed to give up power. ''President Laurent Kabila will assume from now the functions of head of state,'' Kabila said in a statement issued by his Alliance of Democratic Forces for the Liberation of Congo-<xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. The statement was issued at rebel headquarters  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said with a beaming smile. Kabila said he would form a <xhtml:span class=\"hit\">transitional government</xhtml:span> within 72 hours and within 60 days would convene an assembly ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... realizing a three-decade dream, declared he was taking over as president <xhtml:span class=\"hit\">Zaire</xhtml:span> on Saturday, a day after President Mobutu Sese Seko agreed to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... by his Alliance of Democratic Forces for the Liberation of Congo- <xhtml:span class=\"hit\">Zaire</xhtml:span> . The statement was issued at rebel headquarters in Lubumbashi , ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Rebel leader claims presidency of <xhtml:span class=\"hit\">Zaire</xhtml:span> With  <xhtml:span class=\"hit\">Zaire</xhtml:span> KARIN DAVIES  LUBUMBASHI , <xhtml:span class=\"hit\">Zaire</xhtml:span> Rebel leader Laurent Kabila, realizing a three-decade dream, declared he was taking over as president <xhtml:span class=\"hit\">Zaire</xhtml:span> on Saturday, a day after President Mobutu Sese Seko agreed to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... flag of the Democratic Republic of Congo, as the rebels call <xhtml:span class=\"hit\">Zaire</xhtml:span>. Kabila's alliance launched the rebellion in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> on Sept. 14, swiftly gaining territory as Mobutu's troops fled _ ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5KN0-00BT-M37T-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5KN0-00BT-M37T-00000-00</id><title>Rebel leader claims presidency of Zaire With Zaire</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Rebel leader claims presidency of Zaire With Zaire</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>KARIN DAVIES </nameText></person></author></nitf:byline><nitf:dateline>LUBUMBASHI, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Rebel leader Laurent Kabila, realizing a three-decade dream, declared he was taking over as president Zaire on Saturday, a day after President Mobutu Sese Seko agreed to give up power.</p><p nitf:lede=\"true\">''President Laurent Kabila will assume from now the functions of head of state,'' Kabila said in a statement issued by his Alliance of Democratic Forces for the Liberation of Congo-Zaire. The statement was issued at rebel headquarters in Lubumbashi, about 1,500 kilometers (900 miles) southeast of the capital, Kinshasa</p><p nitf:lede=\"true\">Rebel leaders made the decision late Friday, he said, to avoid a power vacuum that could lead to conflict and bloodshed.</p><p>Kabila said he expected 10,000 invading rebel troops to control Kinshasa in ''just a matter of hours.'' The Zairian army was ordered to surrender its arms to the rebels.</p><p>The rebel leader said he talked by telephone with Mobutu's generals, and ''everyone was ready to receive orders from me, it is clear.'' Kabila said they would read his declaration on the radio in Kinshasa.</p><p>Kabila said he was not worried about possible resistance from Mobutu's elite presidential guard. ''It is just a small group of robbers, which we are going to crush … very soon,'' he said.</p><p>Kabila, 56, put on a pair of gold-framed glasses to read the statement in French. He sat a table draped with the yellow-starred flag of the Democratic Republic of Congo, as the rebels call Zaire.</p><p>Kabila's alliance launched the rebellion in eastern Zaire on Sept. 14, swiftly gaining territory as Mobutu's troops fled _ preferring to loot and run, rather than fight.</p><p>For Kabila, claiming the presidency was the culmination of a dream that began 30 years ago when he joined the resistance to Mobutu's dictatorship.</p><p>''I am happy, very happy to succeed,'' Kabila said with a beaming smile.</p><p>Kabila said he would form a transitional government within 72 hours and within 60 days would convene an assembly to write a new constitution. He made no mention of elections, which he previously has promised within a year of taking power.</p><p>Mobutu's cabinet members were advised to continue in their posts and ''await instructions from the alliance.''</p><p>Kabila urged calm in Kinshasa, and warned that anyone who harms Zairians or foreigners would be ''severely sanctioned.''</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5KN0-00BT-M37T-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"372\"/><timeReceived>07:48 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"17\" month=\"05\" year=\"1997\"><dateText>May 17, 1997; Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"99\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"88\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"77\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"98\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

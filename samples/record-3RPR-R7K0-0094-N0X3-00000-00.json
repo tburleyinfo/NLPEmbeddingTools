@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RPR-R7K0-0094-N0X3-00000-00",
+  "Jurisdiction": "U.S. Federal; International; New Mexico",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 187,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International News",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-26T00:00:00Z",
+  "Keyword": null,
+  "Title": "Clinton sends U.N. ambassador Richardson to Zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RPR-R7K0-0094-N0X3-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Deutsche Presse-Agentur, International News, 187words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> Washington   U.S.  President Bill Clinton will send his ambassador to the United Nations, Bill Richardson, to mediate between the Zairean government and rebels.  The White House said in a statement Saturday that the ambassador \"will press both sides to agree to halt the fighting and launch serious negotiations to form an inclusive <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> leading to free and fair democratic elections\". It was unclear when Richardson would travel to Africa. He would also deal with the issue ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... halt the fighting and launch serious negotiations to form an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> leading to free and fair democratic elections\". It was unclear when ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... violation of human rights and the situation of refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>, the White House said....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... halt the fighting and launch serious negotiations to form an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> leading to free and fair democratic elections\". It was unclear when ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... violation of human rights and the situation of refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , the White House said. The U.S. State Department had expressed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International News Clinton sends U.N. ambassador Richardson to <xhtml:span class=\"hit\">Zaire</xhtml:span> Washington U.S. President Bill Clinton will send his ambassador to the ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RPR-R7K0-0094-N0X3-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RPR-R7K0-0094-N0X3-00000-00</id><title>Clinton sends U.N. ambassador Richardson to Zaire</title><published>1997-04-26T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International News</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Clinton sends U.N. ambassador Richardson to Zaire</nitf:hl1></nitf:hedline><nitf:dateline>Washington</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">U.S. President Bill Clinton will send his ambassador to the United Nations, Bill Richardson, to mediate between the Zairean government and rebels.</p><p nitf:lede=\"true\"> The White House said in a statement Saturday that the ambassador \"will press both sides to agree to halt the fighting and launch serious negotiations to form an inclusive transitional government leading to free and fair democratic elections\".</p><p>It was unclear when Richardson would travel to Africa. He would also deal with the issue of the violation of human rights and the situation of refugees in eastern Zaire, the White House said.</p><p> The U.S. State Department had expressed on Friday serious concern over reports that the rebels had been responsible for massacres among the estimated 100,000 Rwandan refugees.</p><p> The United States has been unsuccessful in urging Zairean President Mobutu Sese Seko to resign and to go into exile.</p><p> Richardson, while serving as a Congressman for the state of New Mexico, had a reputation as a successful negotiator. He represented the United States on difficult missions in North Korea, Iraq, Cuba, Haiti and Bangladesh.  dpa rg jbp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">DPA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RPR-R7K0-0094-N0X3-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">144245</dc:source><dc:date dateType=\"last-updated\">2018-06-18</dc:date></dc:metadata><wordCount number=\"187\"/><timeReceived>BC Cycle  18:01 Central European Time</timeReceived><publicationInfo><publicationName>Deutsche Presse-Agentur</publicationName><copyright>Copyright 1997 Deutsche Presse-Agentur</copyright><publicationDate day=\"26\" month=\"04\" year=\"1997\"><dateText>April 26, 1997, Saturday,</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"57\"><className>US DEPARTMENT OF STATE  </className></classificationItem><classificationItem score=\"57\"><className> US DEPARTMENT OF STATE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"57\"><className>US DEPARTMENT OF STATE  </className></classificationItem><classificationItem score=\"57\"><className> US DEPARTMENT OF STATE </className></classificationItem></classification><classification classificationScheme=\"organization\"><classificationItem score=\"57\"><className>US DEPARTMENT OF STATE  </className></classificationItem><classificationItem score=\"57\"><className> US DEPARTMENT OF STATE </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110MM</classCode><className>US PRESIDENTS</className><classCode>Z3VpZD11cm46dG9waWM6QUUxREE5N0M3MEQ4NEY5QkI0MURGRDY3RDM1MUQxRDU7cGFyZW50Z3VpZD11cm46dG9waWM6QkI5QzFFRjAxMEFFNDMxOThENUE1RjVCQUYzQkQ2RjQ</classCode><className>The Presidency</className></classificationItem><classificationItem score=\"90\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST000DKU8</classCode><className>MIGRATION ISSUES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST000DLRT</classCode><className>RIGHT TO FREE ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>ST0008ZBZ</classCode><className>HUMAN RIGHTS VIOLATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>PE0009VXO</classCode><className>BILL CLINTON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"79\"><classCode>GS147</classCode><className>NEW MEXICO, USA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC365</classCode><className>HAITI</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC358</classCode><className>IRAQ</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC371</classCode><className>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "dpa international (Englischer Dienst)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

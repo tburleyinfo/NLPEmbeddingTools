@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3S51-HC40-0017-G44T-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 323,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2699/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-08-24T00:00:00Z",
+  "Keyword": null,
+  "Title": "Donors support government in efforts to develop economy, restore peace",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S51-HC40-0017-G44T-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2699/A, 323words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... The consultations made them familiar with the guidelines of the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span>'s emergency programme. Alain George Ngatoua reports from Bangui. [Ngatoua - recording] The <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span>'s emergency programme is based on the restoration and maintenance of public security and the control of public finance, education and health. Although an increase in public revenue and the sanitizing of public expenditure constitute the main concerns, the issue of restoring security has received increased attention.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... The consultations made them familiar with the guidelines of the <xhtml:span class=\"hit\">unity government</xhtml:span>'s emergency programme. Alain George Ngatoua reports from Bangui. [Ngatoua - recording] The <xhtml:span class=\"hit\">unity government</xhtml:span> 's emergency programme is based on the restoration and maintenance of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 96 The consultations made them familiar with the guidelines of the <xhtml:span class=\"hit\">unity government</xhtml:span>'s emergency programme. Alain George Ngatoua reports from Bangui. [Ngatoua - recording] The <xhtml:span class=\"hit\">unity government</xhtml:span> 's emergency programme is based on the restoration and maintenance of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... done without the help of international institutions. While assuring the national <xhtml:span class=\"hit\">unity government</xhtml:span> of their readiness to support its efforts, the donors have stressed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; <xhtml:span class=\"hit\">ZAIRE</xhtml:span> ; AL/D2699/A Donors support government in efforts to develop economy, restore ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S51-HC40-0017-G44T-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S51-HC40-0017-G44T-00000-00</id><title>Donors support government in efforts to develop economy, restore peace</title><published>1996-08-24T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2699/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Donors support government in efforts to develop economy, restore peace</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[1]</p><p nitf:lede=\"true\">Text of report by Gabonese Africa No 1 radio on 22nd August</p><p nitf:lede=\"true\">Donors are prepared to support the Central African Republic [CAR]'s efforts to develop the economy and restore peace in the country. Representatives of the CAR's partners have reaffirmed this, following two days of consultations in Bangui.</p><section sectionType=\"source\"><bodyText><p>Source: Africa No 1 radio, Libreville, in French 1215 gmt 22 Aug 96</p></bodyText></section><p>The consultations made them familiar with the guidelines of the unity government's emergency programme. Alain George Ngatoua reports from Bangui.</p><p>[Ngatoua - recording] The unity government's emergency programme is based on the restoration and maintenance of public security and the control of public finance, education and health. Although an increase in public revenue and the sanitizing of public expenditure constitute the main concerns, the issue of restoring security has received increased attention.</p><p>Without stability and civil peace, one cannot envisage donor support for the economic recovery effort. This will cost more than 25bn CFA francs, according to estimates made after the two armed uprisings and the looting which ensued. Emphasis has been placed on making the people aware of the need to reinforce the dialogue with the authorities on the recovery of weapons.</p><p>It is true that educational issues such as organizing end-of-year exams, reopening schools and pursuing national health development objectives are among the major concerns, but all that cannot be done without the help of international institutions.</p><p>While assuring the national unity government of their readiness to support its efforts, the donors have stressed that support will take the form of new assistance or the reorganization of ongoing programmes to adapt them better to the emergency programme. They have, however, insisted on the need for the CAR to renew with the Bretton Woods institutions conditions for access to the enhanced facility of the fourth Structural Adjustment Programme.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S51-HC40-0017-G44T-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"323\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"24\" month=\"08\" year=\"1996\"><dateText>August 24, 1996, Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000591</classCode><className>EMERGING MARKETS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST00090NT</classCode><className>ECONOMIC CONDITIONS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST0008X0S</classCode><className>ECONOMIC RECOVERY</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001959</classCode><className>PUBLIC FINANCE</className><classCode/><className/></classificationItem><classificationItem score=\"67\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"92\"><classCode>GX067</classCode><className>BANGUI, CENTRAL AFRICAN REPUBLIC</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC525</classCode><className>CENTRAL AFRICAN REPUBLIC</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

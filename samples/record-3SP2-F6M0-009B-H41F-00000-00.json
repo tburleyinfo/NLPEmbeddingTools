@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F6M0-009B-H41F-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 236,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-24T00:00:00Z",
+  "Keyword": null,
+  "Title": "france, germany to start initiative to help refugees in zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F6M0-009B-H41F-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 236words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  union to help save thousands of refugees stranded in the rebel-controlled areas of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>.  \"we are shocked by the treatment inflicted upon the people in distress in eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>. we are profoundly worried about the reports of massacres,\" said french foreign ministry spokesman jacques rummelhardt.  reports from <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> quoted zairian villagers as saying that hundreds of  rwandan  hutu refugees have been massacred by the rebel troops of laurent-desire kabila in a refugee camp south of kisangani, <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... direction,\" said rummelhardt. france tuesday appealed for the establishment of a <xhtml:span class=\"hit\">transitional government</xhtml:span> in <xhtml:span class=\"hit\">zaire</xhtml:span> , and has repeatedly called for a direct meeting between zairian ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to start initiative to help refugees in <xhtml:span class=\"hit\">zaire</xhtml:span> paris, april 24; ITEM NO: 0424281 france and germany have decided ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... help save thousands of refugees stranded in the rebel-controlled areas of <xhtml:span class=\"hit\">zaire</xhtml:span>.  \"we are shocked by the treatment inflicted upon the people in distress in eastern <xhtml:span class=\"hit\">zaire</xhtml:span>. we are profoundly worried about the reports of massacres,\" said french foreign ministry spokesman jacques rummelhardt.  reports from <xhtml:span class=\"hit\">zaire</xhtml:span> quoted zairian villagers as saying that hundreds of rwandan hutu refugees ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... troops of laurent-desire kabila in a refugee camp south of kisangani, <xhtml:span class=\"hit\">zaire</xhtml:span> 's third largest city taken by the rebels one month ago. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... help save thousands of refugees stranded in the rebel-controlled areas of <xhtml:span class=\"hit\">zaire</xhtml:span>.  \"we are shocked by the treatment inflicted upon the people in distress in eastern <xhtml:span class=\"hit\">zaire</xhtml:span>. we are profoundly worried about the reports of massacres,\" said french foreign ministry spokesman jacques rummelhardt.  reports from <xhtml:span class=\"hit\">zaire</xhtml:span> quoted zairian villagers as saying that hundreds of rwandan hutu refugees ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F6M0-009B-H41F-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F6M0-009B-H41F-00000-00</id><title>france, germany to start initiative to help refugees in zaire</title><published>1997-04-24T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>france, germany to start initiative to help refugees in zaire</nitf:hl1></nitf:hedline><nitf:dateline>paris, april 24; ITEM NO: 0424281</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">france and germany have decided to \"seize their european partners\" to start an initiative by the european union to help save thousands of refugees stranded in the rebel-controlled areas of zaire.  \"we are shocked by the treatment inflicted upon the people in distress in eastern zaire. we are profoundly worried about the reports of massacres,\" said french foreign ministry spokesman jacques rummelhardt.  reports from zaire quoted zairian villagers as saying that hundreds of rwandan hutu refugees have been massacred by the rebel troops of laurent-desire kabila in a refugee camp south of kisangani, zaire's third largest city taken by the rebels one month ago.  united nations secretary general kofi annan has also accused zairian rebels of \"killing by starvation\" the hutu refugees and displaced zairian civilians in the eastern part controlled by the rebels.  france today called on kabila to honor his commitment to allow international humanitarian aid workers to reach the refugees, and to help repatriate the refugees back to rwanda.  \"with germany, we have seized our european partners to make proposals of action by the european union in this direction,\" said rummelhardt.  france tuesday appealed for the establishment of a transitional government in zaire, and has repeatedly called for a direct meeting between zairian president mobutu sese seko and kabila.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F6M0-009B-H41F-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"236\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"04\" day=\"24\" year=\"1997\"><dateText>APRIL 24, 1997, THURSDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"91\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"91\"><className> EUROPEAN UNION </className></classificationItem><classificationItem score=\"56\"><className> UNITED NATIONS  </className></classificationItem><classificationItem score=\"56\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"91\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"91\"><className> EUROPEAN UNION </className></classificationItem><classificationItem score=\"56\"><className> UNITED NATIONS  </className></classificationItem><classificationItem score=\"56\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Initiative &amp; Referendum</className><classCode>Z3VpZD11cm46dG9waWM6M0Y2REExMDg3NTBBNDJDNDk0MzcwNDc1RTNEMUIyQTM7cGFyZW50Z3VpZD11cm46dG9waWM6Q0M3QUYzNjlBN0UzNEVBMDk4OEIyMzdBMDlGQzA2RjI</classCode></classificationItem><classificationItem score=\"50\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>ST000D73F</classCode><className>EUROPEAN UNION</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"92\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0008XAN</classCode><className>DISPLACED PERSONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DHZS</classCode><className>RESETTLEMENT &amp; REPATRIATION</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000D1YA</classCode><className>REFUGEE &amp; RELIEF CAMPS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>ST00099QF</classCode><className>EUROPEAN UNION MEMBER STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GC318</classCode><className>GERMANY</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

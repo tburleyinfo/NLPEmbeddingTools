@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:475J-W770-01KD-R4K6-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 541,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "FOREIGN GENERAL NEWS",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "AM-Zaire, Bgt ; Budget; Mobutu emerges from seclusion",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a475J-W770-01KD-R4K6-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "The Canadian Press (CP), FOREIGN GENERAL NEWS, 541words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> , Bgt ; Budget; Mobutu emerges from seclusion From  AP - Reuters KINSHASA , <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> (CP) - A smiling but tired-looking President Mobutu Sese Seko emerged from seclusion Sunday in an appearance designed to show he is still in control in his war-ravaged country. Wearing his signature leopard-skin cap and waving a wooden cane, Mobutu walked slowly out of his residence on the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> River in his first public appearance since returning home Friday to face the rebellion that has been raging in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span></div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... has been rising with each battlefield victory, called Saturday for a <xhtml:span class=\"hit\">transitional government</xhtml:span> but said he would not work with anyone who had shared power with Mobutu. Any <xhtml:span class=\"hit\">transitional government</xhtml:span> should include his Alliance for Democratic Forces for the Liberation Congo-<xhtml:span class=\"hit\">Zaire</xhtml:span> \"and only anti-Mobutists and anti-regime people who have never been in ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... has been rising with each battlefield victory, called Saturday for a <xhtml:span class=\"hit\">transitional government</xhtml:span> but said he would not work with anyone who had shared power with Mobutu. Any <xhtml:span class=\"hit\">transitional government</xhtml:span> should include his Alliance for Democratic Forces for the Liberation Congo-<xhtml:span class=\"hit\">Zaire</xhtml:span> \"and only anti-Mobutists and anti-regime people who have never been in ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">...  <xhtml:span class=\"hit\">Zaire</xhtml:span> (CP) - A smiling but tired-looking President Mobutu Sese Seko emerged ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... wooden cane, Mobutu walked slowly out of his residence on the <xhtml:span class=\"hit\">Zaire</xhtml:span> River in his first public appearance since returning home Friday to face the rebellion that has been raging in <xhtml:span class=\"hit\">Zaire</xhtml:span> for the last five months. \"I didn't come back to busy ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... The president also said recently that general elections are crucial to <xhtml:span class=\"hit\">Zaire</xhtml:span> 's development. Though Mobutu has reneged on promises of a transition ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:475J-W770-01KD-R4K6-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:475J-W770-01KD-R4K6-00000-00</id><title>AM-Zaire, Bgt ; Budget; Mobutu emerges from seclusion</title><published>1997-03-23T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>FOREIGN GENERAL NEWS</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>AM-Zaire, Bgt ; Budget; Mobutu emerges from seclusion</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p>From AP-Reuters</p><p nitf:lede=\"true\">KINSHASA, Zaire (CP) - A smiling but tired-looking President Mobutu Sese Seko emerged from seclusion Sunday in an appearance designed to show he is still in control in his war-ravaged country.</p><p nitf:lede=\"true\">Wearing his signature leopard-skin cap and waving a wooden cane, Mobutu walked slowly out of his residence on the Zaire River in his first public appearance since returning home Friday to face the rebellion that has been raging in Zaire for the last five months.</p><p nitf:lede=\"true\">\"I didn't come back to busy myself with the interests of Mobutu, nor the fortune of Mobutu, as you write from time to time,'' he told journalists.</p><p>Instead Mobutu, who met Sunday with South African peace broker Thabo Mbeki, pledged himself to \"the highest interest of Zaire - that is to say our unity and our territorial integrity.''</p><p>Mobutu brushed off questions about whether he was willing to meet rebel leader Laurent Kabila, whose forces have taken nearly a third of the country. Asked what his role would be in efforts to forge a national reconciliation, he said only: \"You will know within the next 48 hours.''</p><p>Mbeki said after the half-hour meeting that he had delievered a letter from South African President Nelson Mandela and that a UN peace plan for a truce followed by talks was at the heart of efforts to end the conflict. Mbeki aides said Mobutu had promised a reply within two days.</p><p>\"We are convinced that in the immediate future steps will be taken practically to move the peace process forward toward a resolution,'' Mbeki said.</p><p>Mobutu, 66 and wasting from prostate cancer, moved slowly and spoke only for a moment in his first appearance since returning from Europe, where he'd gone for treatment and convalescence.</p><p>In contrast to his return in December, when he was greeted by tens of thousands of well-wishers hoping he would end the war, Mobutu's strongmen ushered dignitaries and journalists out of the airport before he could be seen.</p><p>This spurred rumors that he was near death. When asked Sunday how his health was, he smiled and replied: \"As you see me.''</p><p>Kabila, whose popularity has been rising with each battlefield victory, called Saturday for a transitional government but said he would not work with anyone who had shared power with Mobutu.</p><p>Any transitional government should include his Alliance for Democratic Forces for the Liberation Congo-Zaire \"and only anti-Mobutists and anti-regime people who have never been in power and who never shared power,'' Kabila said.</p><p>Previously the rebels had said the would stop fighting only after Mobutu holds direct talks with Kabila.</p><p>Mobutu has so far refused. However, he announced Thursday from France that he intended to call for a national council that would bring all sides together - \"excluding no one'' - to reunite the nation.</p><p>The president also said recently that general elections are crucial to Zaire's development. Though Mobutu has reneged on promises of a transition to democracy for years, many observers believe he may finally step down, return to his hometown to prepare for his death.</p><p>Mobutu, 66, has ruled Zaire since seizing power in an army coup in 1965, but many ordinary Zairians, ground down by decades of poverty and hardship under his rule, are eager for a change and are openly rallying to Kabila.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:identifier identifierScheme=\"DOC-ID\">CAPRSS-199703230041</dc:identifier><dc:source sourceScheme=\"royaltyReportingKey\">CAPRSS1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:475J-W770-01KD-R4K6-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">253760</dc:source><dc:date dateType=\"last-updated\">2020-06-24</dc:date></dc:metadata><wordCount number=\"541\"/><publicationInfo><publicationName>The Canadian Press (CP)</publicationName><copyright>Copyright 1997 Press News Limited, All Rights Reserved</copyright><publicationDate day=\"23\" month=\"03\" year=\"1997\"><dateText>March 23, 1997 Sunday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX001865</classCode><className>WRITERS</className><classCode/><className/></classificationItem><classificationItem score=\"66\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"62\"><classCode>STX001112</classCode><className>MEN'S HEALTH</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"74\"><classCode>STX001865</classCode><className>WRITERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Canadian Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

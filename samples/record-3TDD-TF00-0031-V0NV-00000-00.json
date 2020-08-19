@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TDD-TF00-0031-V0NV-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 190,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-12-30T00:00:00Z",
+  "Keyword": null,
+  "Title": "Mobutu authorises constitutional referendum",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-TF00-0031-V0NV-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse, International news, 190words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, is to be held in February. The constitution is to be the underpinning of a federal state to be called the Federal Republic of the Congo with a bicameral parliament. General, presidential and legislative elections are to be held in May, with completion of the seven-year transition process set for July. Mobutu, who has presided over  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's economic and political decline for more than three decades, returned to Kinshasa on December 17 after four months in  Switzerland  and ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... draft constitution, whose text was adopted in August by the country's <xhtml:span class=\"hit\">transitional government</xhtml:span> , is to be held in February. The constitution is to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... seven-year transition process set for July. Mobutu, who has presided over <xhtml:span class=\"hit\">Zaire</xhtml:span> 's economic and political decline for more than three decades, returned ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news Mobutu authorises constitutional referendum KINSHASA , Dec 30 <xhtml:span class=\"hit\">Zaire</xhtml:span> 's President Mobutu Sese Seko has promulgated an order paving the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... on to Kinshasa and overthrowing the 66-year-old president, whose absence while <xhtml:span class=\"hit\">Zaire</xhtml:span> was embroiled in civil war has caused widespread discontent. mf/gd/ns AFP ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-TF00-0031-V0NV-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-TF00-0031-V0NV-00000-00</id><title>Mobutu authorises constitutional referendum</title><published>1996-12-30T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Mobutu authorises constitutional referendum</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, Dec 30</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zaire's President Mobutu Sese Seko has promulgated an order paving the way for a constitutional referendum, a crucial step leading to democratic elections in his crisis-ridden country.</p><p nitf:lede=\"true\">Under a time line imposed by the national election commission, the referendum on a draft constitution, whose text was adopted in August by the country's transitional government, is to be held in February.</p><p>The constitution is to be the underpinning of a federal state to be called the Federal Republic of the Congo with a bicameral parliament.</p><p>General, presidential and legislative elections are to be held in May, with completion of the seven-year transition process set for July.</p><p>Mobutu, who has presided over Zaire's economic and political decline for more than three decades, returned to Kinshasa on December 17 after four months in Switzerland and France for prostate cancer surgery and convalescence.</p><p>Rebels controlling the east of the country are intent on pressing on to Kinshasa and overthrowing the 66-year-old president, whose absence while Zaire was embroiled in civil war has caused widespread discontent.</p><p>mf/gd/ns</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-TF00-0031-V0NV-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"190\"/><timeReceived>30:10 GMT</timeReceived><publicationInfo><publicationName>Agence France Presse</publicationName><copyright>Copyright 1996 Agence France Presse</copyright><publicationDate month=\"12\" day=\"30\" year=\"1996\"><dateText>December 30, 1996</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"65\"><className>Initiative &amp; Referendum</className><classCode>Z3VpZD11cm46dG9waWM6M0Y2REExMDg3NTBBNDJDNDk0MzcwNDc1RTNEMUIyQTM7cGFyZW50Z3VpZD11cm46dG9waWM6Q0M3QUYzNjlBN0UzNEVBMDk4OEIyMzdBMDlGQzA2RjI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>ST00097CY</classCode><className>REFERENDUMS</className><classCode>Z3VpZD11cm46dG9waWM6M0Y2REExMDg3NTBBNDJDNDk0MzcwNDc1RTNEMUIyQTM7cGFyZW50Z3VpZD11cm46dG9waWM6Q0M3QUYzNjlBN0UzNEVBMDk4OEIyMzdBMDlGQzA2RjI</classCode><className>Initiative &amp; Referendum</className></classificationItem><classificationItem score=\"90\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001371</classCode><className>HEADS OF GOVERNMENT ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N921190MM</classCode><className>ELECTION AUTHORITIES</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"53\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC327</classCode><className>SWITZERLAND</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

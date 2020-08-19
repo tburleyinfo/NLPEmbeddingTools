@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3S4Y-DTB0-0017-G51S-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 134,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; ZAIRE; AL/D2777/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-11-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "Tshisekedi says he has Mobutu's approval to head unity government",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S4Y-DTB0-0017-G51S-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; ZAIRE; AL/D2777/A, 134words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">ZAIRE</xhtml:span>; AL/D2777/A Tshisekedi says he has Mobutu's approval to head <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span> [12] Text of report by Gabonese Africa No 1 radio on 22nd November Etienne Tshisekedi, the head of the Zairean radical opposition, today stated that he now regards himself, with the approval of President Mobutu, as the new prime minister of a national union government in  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> . In an interview with the press, Etienne Tshisekedi, who was  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; <xhtml:span class=\"hit\">ZAIRE</xhtml:span>; AL/D2777/A Tshisekedi says he has Mobutu's approval to head <xhtml:span class=\"hit\">unity government</xhtml:span> [12] Text of report by Gabonese Africa No 1 radio on ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... as the new prime minister of a national union government in <xhtml:span class=\"hit\">Zaire</xhtml:span> . In an interview with the press, Etienne Tshisekedi, who was ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S4Y-DTB0-0017-G51S-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S4Y-DTB0-0017-G51S-00000-00</id><title>Tshisekedi says he has Mobutu's approval to head unity government</title><published>1996-11-23T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; GREAT LAKES REGION; ZAIRE; AL/D2777/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Tshisekedi says he has Mobutu's approval to head unity government</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[12]</p><p nitf:lede=\"true\">Text of report by Gabonese Africa No 1 radio on 22nd November</p><p nitf:lede=\"true\">Etienne Tshisekedi, the head of the Zairean radical opposition, today stated that he now regards himself, with the approval of President Mobutu, as the new prime minister of a national union government in Zaire. In an interview with the press, Etienne Tshisekedi, who was received in southern France yesterday by the head of state, Mobutu Sese Seko, recalled that the meeting ended with a reconciliation.</p><section sectionType=\"source\"><bodyText><p>Source: Africa No 1 radio, Libreville, in French 0730 gmt 22 Nov 96</p></bodyText></section><p>He also said that the president had approved his heading a national union government. Questioned on the fate of current Prime Minister Kengo wa Dondo, Etienne Tshisekedi wa Mulumba said the latter was the prime minister of the Westerners and not that of the Zairean people.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S4Y-DTB0-0017-G51S-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"134\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>KANSAS ADVANCE LEGISLATIVE SERVICEKANSAS ADVANCE LEGISLATIVE SERVICE#THE#STATE#OF#KANSAS#</copyright><publicationDate day=\"23\" month=\"11\" year=\"1996\"><dateText>November 23, 1996, Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000108</classCode><className>APPROVALS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"79\"><classCode>GR213</classCode><className>MIDWEST USA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

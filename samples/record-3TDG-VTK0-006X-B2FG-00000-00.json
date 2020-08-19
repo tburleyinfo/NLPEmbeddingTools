@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3TDG-VTK0-006X-B2FG-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Chris Mcgreal In Johannesburg",
+  "WordLength": 920,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "THE GUARDIAN FOREIGN PAGE; Pg. 22",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-18T00:00:00Z",
+  "Keyword": null,
+  "Title": "MANDELA SETS ZAIRE SUMMIT",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDG-VTK0-006X-B2FG-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "The Guardian (London), THE GUARDIAN FOREIGN PAGE; Pg. 22, 920words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  across more than half the country in six months.  \"He doesn't want a military solution. He has made this clear over and over again. He wants a solution which will receive the support of President Mobutu and he has also made it clear that he has no intention of doing anything which will humiliate President Mobutu,\" Mr Mandela said.  Yet Mr Kabila has gone along with the South African initiative as much for appearances as from any belief that it will succeed.  He first visited  South Africa ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the increasingly triumphant Zairean rebels in an attempt to establish a <xhtml:span class=\"hit\">transitional government</xhtml:span> before a battle for control of the capital, Kinshasa. President Nelson ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Rwandan-backed Alliance of Democratic Forces for the Liberation of Congo - <xhtml:span class=\"hit\">Zaire</xhtml:span> across more than half the country in six months. \"He doesn't ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the country will be a crucial ally in helping to rebuild <xhtml:span class=\"hit\">Zaire</xhtml:span> . He went again more willingly after Mr Mandela addressed him ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDG-VTK0-006X-B2FG-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDG-VTK0-006X-B2FG-00000-00</id><title>MANDELA SETS ZAIRE SUMMIT</title><published>1997-04-18T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>THE GUARDIAN FOREIGN PAGE; Pg. 22</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>MANDELA SETS ZAIRE SUMMIT</nitf:hl1></nitf:hedline><nitf:byline>Chris Mcgreal In Johannesburg</nitf:byline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">SOUTH AFRICA says it has arranged a summit between President Mobutu Sese Seko and the increasingly triumphant Zairean rebels in an attempt to establish a transitional government before a battle for control of the capital, Kinshasa.</p><p nitf:lede=\"true\"> President Nelson Mandela said he had issued a formal invitation to Mr Mobutu to attend talks after meeting the Zairean rebel leader, Laurent Kabila, on Wednesday.</p><p nitf:lede=\"true\"> Mr Mobutu's information minister, Kin-Kiey Mulumba, sees no obstacles to a first meeting once a venue and time are agreed.  \"Things are getting clearer. Plans are afoot for a meeting between the head of state and the rebel leader. This meeting is imminent,\" he said.</p><p>If Mr Mobutu does attend face-to-face talks it will be a big climbdown from his previous refusal to meet the rebels, and Mr Kabila appears not to have retreated from his insistence that negotiations must focus on Mr Mobutu's abdication.</p><p> After meeting Mr Kabila, Mr Mandela expressed confidence that he favoured a peaceful resolution to the war, which has carried his Rwandan-backed Alliance of Democratic Forces for the Liberation of Congo -Zaire across more than half the country in six months.</p><p> \"He doesn't want a military solution. He has made this clear over and over again. He wants a solution which will receive the support of President Mobutu and he has also made it clear that he has no intention of doing anything which will humiliate President Mobutu,\" Mr Mandela said.</p><p> Yet Mr Kabila has gone along with the South African initiative as much for appearances as from any belief that it will succeed.</p><p> He first visited South Africa in February under pressure from his allies - particularly Washington - not to appear committed only to war. He could also ill afford to offend South Africa's revered statesman since the country will be a crucial ally in helping to rebuild Zaire.</p><p> He went again more willingly after Mr Mandela addressed him as \"General Kabila\". The title conferred a degree of international recognition, to the consternation of the Mobutu regime.</p><p> This time Mr Mandela referred to him as \"President Kabila\" in the same sentence in which he talked about President Mobutu, effectively offering them equal status.</p><p> Despite the assurances Mr Mandela says he has received, it is evident that Mr Kabila favours a military solution.  \"There will be no ceasefire until Mobutu relinquishes power,\" he said. \"The people do not want a ceasefire, they want an end to this corrupt regime.\"</p><p> Yet a negotiated transition might now suit the rebels, who control every key city except Kinshasa. The prospect of a battle for the capital of 7 million people is daunting.  The last of Mr Mobutu's army will have its back to the Congo river and the alliance will require a big force to prevent Kinshasa descending into anarchy.</p><p> Mr Kabila's finance minister last night accused Mr Mobutu of having ordered his secret police and elite units to kill all expatriates in Kinshasa to trigger foreign intervention. The massacre, which would be blamed on the rebels, could start \"at any minute\", Mwana Nanga Mawanpanga told reporters in Lubumbashi.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">GUARDN1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDG-VTK0-006X-B2FG-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138620</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><pagination><pageSequence><page/></pageSequence></pagination><wordCount number=\"920\"/><publicationInfo><publicationName>The Guardian (London)</publicationName><copyright>Copyright 1997 Guardian Newspapers Limited</copyright><publicationDate month=\"04\" day=\"18\" year=\"1997\"><dateText>April 18, 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"73\"><classCode>ST000A2TP</classCode><className>CONGO RIVER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Guardian (London)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

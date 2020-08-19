@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-34T0-0025-F4F6-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Kevin McElderry McElderry",
+  "WordLength": 1014,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-19T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zaire: life returns to normal as civilians count cost cost",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-34T0-0025-F4F6-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 1014words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> . Their surrender highlighted the relatively peaceful transfer of power here in the newly-renamed Democratic Republic of Congo, its name in 1965 when Mobutu took power. The alliance troops, many appearing to be only just into their teens, were greeted enthusiastically by the crowds as they marched virtually unopposed into the city centre Saturday. Even Monday, one lone soldier drew applause from residents just for crossing the road. Only one fear appeared to cloud the horizon, and that was ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Kabila promised Saturday, as he declared himself president, to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> by Tuesday and call a constituent assembly within 60 days. \"We ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Kabila's rebel Alliance of Democratic Forces for the Liberation of Congo- <xhtml:span class=\"hit\">Zaire</xhtml:span> . Their surrender highlighted the relatively peaceful transfer of power here ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news news <xhtml:span class=\"hit\">Zaire</xhtml:span> : life returns to normal as civilians count cost cost Kevin ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... reduce the rate of the dollar to the local currency, the <xhtml:span class=\"hit\">zaire</xhtml:span> , from 170,000 last week to 60,000. Alain Didier, a money-changer ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-34T0-0025-F4F6-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-34T0-0025-F4F6-00000-00</id><title>Zaire: life returns to normal as civilians count cost cost</title><published>1997-05-19T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zaire: life returns to normal as civilians count cost cost</nitf:hl1></nitf:hedline><nitf:byline>Kevin McElderry McElderry</nitf:byline><nitf:dateline>KINSHASA, May 19 19</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Zaireans counted the cost Monday of a momentous weekend in which their country changed hands, and tried to return to normal as rebel forces consolidated their hold on the capital.</p><p nitf:lede=\"true\">The city awoke in calm after a quiet night and quickly took on its usual buzz of activity.</p><p nitf:lede=\"true\">Only a few hardy street vendors had tried to sell cigarettes and sweets in the heated weekend hours, but early Monday it was back to business as usual as they fought for space.</p><p nitf:lede=\"true\">Traffic returned to the streets, taxi drivers turned up for work desperate to make up for the lost weekend, and bars and some shops were open again.  again.</p><p>People from outlying districts returned to work in the centre of Kinshasa on buses that have begun to function again.</p><p>The central market was bustling, not at its usual frenetic rate yet but nevertheless lively.</p><p>Money-changers were back in action too, taking advantage of the events to reduce the rate of the dollar to the local currency, the zaire, from 170,000 last week to 60,000.</p><p>Alain Didier, a money-changer positioned near the looted Select supermarket just off the main boulevard here, said no one had many zaires left.</p><p>Those who had large amounts had fled the country, he explained.  \"When there are no zaires the rate changes, that's all. It will go down further.\"</p><p>The main port, where ferries serve Brazzaville in neighbouring Congo, was not yet functioning, but an official there said it may open later in the day.</p><p>After the turbulence and looting of the weekend, residents in Kinshasa said they were happy that the regime of Mobutu Sese Seko was finally over after 32 years.</p><p>They were also relieved that the capital's capture was achieved with relatively little bloodshed, although the toll was already in the hundreds.</p><p>Zairean Red Cross officials said they had recovered at least 200 bodies of people killed over the weekend, mostly soldiers.</p><p>Many were killed by stray bullets from gunfire that the capital all day Saturday and into early Sunday. Others were looters killed by rebels, according to local people.</p><p>A few, according to some residents, also died as old scores were settled in their communities.</p><p>Aid workers expect the provisional toll of 200 to rise sharply, as it was issued late Sunday afternoon before they had managed to reach many parts of the city.</p><p>\"We are glad that Kabila has chased Mobutu out,\" said one man in broken English. He was eager to test his English now that the rebel forces had arrived.</p><p>\"He has done one thing, and that is good, but now Kabila must do more. This was a rich country, but Mobutu stole from all of us.</p><p>\"Kabila must restart the economy and then everything will happen after that.\"</p><p>Rebel troops were everywhere in Kinshasa, positioned at key points such as the port, barracks and camps as well as patrolling the streets.</p><p>They have begun organising night patrols too to deter looters.</p><p>On Sunday, the last soldiers of the elite special presidential division surrendered at Camp Tshatshi, most swearing allegiance to Kabila's rebel Alliance of Democratic Forces for the Liberation of Congo-Zaire.</p><p>Their surrender highlighted the relatively peaceful transfer of power here in the newly-renamed Democratic Republic of Congo, its name in 1965 when Mobutu took power.</p><p>The alliance troops, many appearing to be only just into their teens, were greeted enthusiastically by the crowds as they marched virtually unopposed into the city centre Saturday.</p><p>Even Monday, one lone soldier drew applause from residents just for crossing the road.</p><p>Only one fear appeared to cloud the horizon, and that was over whether one dictatorship had been replaced by another.</p><p>Kabila promised Saturday, as he declared himself president, to form a transitional government by Tuesday and call a constituent assembly within 60 days.</p><p>\"We needed someone to get rid of Mobutu, but if he (Kabila) is another dictator, he will never be able to install himself in this city,\" warned Andre, a student.</p><p>km/dw dw</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-34T0-0025-F4F6-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"1014\"/><timeReceived>1909 1909</timeReceived><timeReceived>19:09 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"19\" year=\"1997\"><dateText>May 19, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"66\"><classCode>STX001566</classCode><className>SHOOTINGS</className><classCode/><className/></classificationItem><classificationItem score=\"62\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"72\"><classCode>N4494390O</classCode><className>TEMPORARY STAND RETAILING</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "ResultId": "urn:contentItem:3TD9-39P0-0025-F1T9-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 214,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-24T00:00:00Z",
+  "Keyword": null,
+  "Title": "EU urged to act over Zaire refugees refugees",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-39P0-0025-F1T9-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 214words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>,\" foreign ministry spokesman Jacques Rummelhardt said after UN Secretary General Koffi Annan charged that Zairean rebels were \"killing by starvation.\" starvation.\" \"We are deeply concerned about reports of massacres,\" he added, adding that Paris demanded that rebel leader Laurent Kabila immediately grant access for aid deliveries to the refugees. \"With  Germany , we have made proposals for action to our European partners in this direction,\" he added. On Tuesday Paris called for a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span></div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in this direction,\" he added. On Tuesday Paris called for a <xhtml:span class=\"hit\">transitional government</xhtml:span> to be formed in  <xhtml:span class=\"hit\">Zaire</xhtml:span> comprising all political forces, and urged face-to-face talks betweek Kabila and ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> are starving to death, French officials said Thursday. \"We are shocked ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... shocked by the treatment inflicted on people in distress in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> ,\" foreign ministry spokesman Jacques Rummelhardt said after UN Secretary General ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news news EU urged to act over <xhtml:span class=\"hit\">Zaire</xhtml:span> refugees refugees PARIS, April 24 24 France and Germany have proposed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Union partners in response to reports that Rwandan refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> are starving to death, French officials said Thursday. \"We are shocked ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... shocked by the treatment inflicted on people in distress in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> ,\" foreign ministry spokesman Jacques Rummelhardt said after UN Secretary General ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-39P0-0025-F1T9-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-39P0-0025-F1T9-00000-00</id><title>EU urged to act over Zaire refugees refugees</title><published>1997-04-24T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>EU urged to act over Zaire refugees refugees</nitf:hl1></nitf:hedline><nitf:dateline>PARIS, April 24 24</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">France and Germany have proposed an action plan to their European Union partners in response to reports that Rwandan refugees in eastern Zaire are starving to death, French officials said Thursday.</p><p nitf:lede=\"true\">\"We are shocked by the treatment inflicted on people in distress in eastern Zaire,\" foreign ministry spokesman Jacques Rummelhardt said after UN Secretary General Koffi Annan charged that Zairean rebels were \"killing by starvation.\" starvation.\"</p><p>\"We are deeply concerned about reports of massacres,\" he added, adding that Paris demanded that rebel leader Laurent Kabila immediately grant access for aid deliveries to the refugees.</p><p>\"With Germany, we have made proposals for action to our European partners in this direction,\" he added.</p><p>On Tuesday Paris called for a transitional government to be formed in Zaire comprising all political forces, and urged face-to-face talks betweek Kabila and President Mobutu Sese Seko.</p><p>bfr/mt/ss</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-39P0-0025-F1T9-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"214\"/><timeReceived>2414 2414</timeReceived><timeReceived>24:14 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"04\" day=\"24\" year=\"1997\"><dateText>April 24, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"84\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"84\"><className> EUROPEAN UNION </className></classificationItem><classificationItem><className>  84%);</className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"84\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"84\"><className> EUROPEAN UNION </className></classificationItem><classificationItem><className>  84%);</className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Immigration Law</className><classCode>Z3VpZD11cm46dG9waWM6QUI4OEMwN0ExMjQ4NDFBQjkyQTU0NzQzNkM0QUZGRTk7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"61\"><className>Eligibility for Refugee Status</className><classCode>Z3VpZD11cm46dG9waWM6RjFFMzM2M0FCN0QyNDM0QTgzQzQyRTkzRkVBOTg5MzY7cGFyZW50Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000D1EZ</classCode><className>STARVATION</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000D73F</classCode><className>EUROPEAN UNION</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX000949</classCode><className>INTERNATIONAL ECONOMIC ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>GC318</classCode><className>GERMANY</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST00099QF</classCode><className>EUROPEAN UNION MEMBER STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

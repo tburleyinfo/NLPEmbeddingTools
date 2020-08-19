@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3RPR-RDS0-0094-N3G3-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 282,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International News",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-16T00:00:00Z",
+  "Keyword": null,
+  "Title": "Rebel leader in Zaire: no ceasefire unless Mobutu hands over",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RPR-RDS0-0094-N3G3-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Deutsche Presse-Agentur, International News, 282words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  (ADFL), said the advance on the west would continue, the rebel radio station said Sunday, a day after the (ADFL) captured  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's third-largest city, Kisangani. He said the population had nothing to fear from ADFL guerrillas and should support the drive to oust Mobutu, who is staying at his luxury villa in  the south of France .  On Saturday, rebel forces burst through army lines around Kisangani and seized the nearby airbase without meeting serious resistance. Rebel units were advancing ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... no ceasefire unless Mobutu hands over Nairobi Rebels in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> called Sunday on the public in the rest of the country ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... cease fire unless President Mobutu Sese Seko hands power to a <xhtml:span class=\"hit\">transitional government</xhtml:span> . Laurent Kabila, leader of the Alliance of Democratic Forces for ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in direct talks to resign and convey its powers to a <xhtml:span class=\"hit\">transitional government</xhtml:span> . If Mobutu continued to procrastinate over serious negotiations, the armed ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... resistance. Rebel units were advancing Sunday southwest towards the centre of <xhtml:span class=\"hit\">Zaire</xhtml:span> 's main mining region, Shaba. Kabila said in his statement after ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the United Nations' and Organization of African Unity's special envoy for <xhtml:span class=\"hit\">Zaire</xhtml:span> , Mohamed Sahnoun. The envoy issued no statement after the two-hour ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RPR-RDS0-0094-N3G3-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RPR-RDS0-0094-N3G3-00000-00</id><title>Rebel leader in Zaire: no ceasefire unless Mobutu hands over</title><published>1997-03-16T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International News</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Rebel leader in Zaire: no ceasefire unless Mobutu hands over</nitf:hl1></nitf:hedline><nitf:dateline>Nairobi</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\"> Rebels in eastern Zaire called Sunday on the public in the rest of the country to support them and said they would not cease fire unless President Mobutu Sese Seko hands power to a transitional government.</p><p nitf:lede=\"true\"> Laurent Kabila, leader of the Alliance of Democratic Forces for the Liberation of Congo-Zaire (ADFL), said the advance on the west would continue, the rebel radio station said Sunday, a day after the (ADFL) captured Zaire's third-largest city, Kisangani.</p><p>He said the population had nothing to fear from ADFL guerrillas and should support the drive to oust Mobutu, who is staying at his luxury villa in the south of France.</p><p> On Saturday, rebel forces burst through army lines around Kisangani and seized the nearby airbase without meeting serious resistance. Rebel units were advancing Sunday southwest towards the centre of Zaire's main mining region, Shaba.</p><p> Kabila said in his statement after the fall of Kisangani that he agreed in principle to a five-point peace plan drafted by the United Nations and envisaging a ceasefire and negotiations on a political solution to the conflict.</p><p> However the ADFL would not agree to any truce until the government in Kinshasa agreed in direct talks to resign and convey its powers to a transitional government. If Mobutu continued to procrastinate over serious negotiations, the armed struggle would continue unrelentingly.</p><p> \"We will liberate the entire country. That is our aim,\" said Kabila.</p><p> The ADFL leader met Saturday in the rebel stronghold of Goma with the United Nations' and Organization of African Unity's special envoy for Zaire, Mohamed Sahnoun. The envoy issued no statement after the two-hour meeting.  dpa jbp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">DPA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RPR-RDS0-0094-N3G3-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">144245</dc:source><dc:date dateType=\"last-updated\">2018-06-18</dc:date></dc:metadata><wordCount number=\"282\"/><timeReceived>BC Cycle  08:52 Central European Time</timeReceived><publicationInfo><publicationName>Deutsche Presse-Agentur</publicationName><copyright>Copyright 1997 Deutsche Presse-Agentur</copyright><publicationDate day=\"16\" month=\"03\" year=\"1997\"><dateText>March 16, 1997, Sunday,</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"organization\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"77\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "dpa international (Englischer Dienst)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

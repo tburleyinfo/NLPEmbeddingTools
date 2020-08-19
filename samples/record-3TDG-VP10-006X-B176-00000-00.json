@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TDG-VP10-006X-B176-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "Napoleon Abdulai.",
+  "WordLength": 480,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "THE GUARDIAN FEATURES PAGE; Pg. 16",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-20T00:00:00Z",
+  "Keyword": null,
+  "Title": "LETTER: NEW ZAIRE, NEW AFRICA",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDG-VP10-006X-B176-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "The Guardian (London), THE GUARDIAN FEATURES PAGE; Pg. 16, 480words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... .  However, with the tyrannical Mobutu regime as history now, it is important for democratic forces to support the new government of Laurent Kabila and the Congolese people with moral, diplomatic and concrete assistance in rebuilding democratic and economic institutions that will make the new era meaningful in everyday life. President Kabila's <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> has to bring in the Lumumbaists.  As to the Zairean Tutsis, it is important to acknowledge their role in ending the 32 years of despotism.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... will make the new era meaningful in everyday life. President Kabila's <xhtml:span class=\"hit\">transitional government</xhtml:span> has to bring in the Lumumbaists. As to the Zairean Tutsis, ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... leaders of Angola , Uganda , Rwanda and, of course, the <xhtml:span class=\"hit\">Democratic Republic of the Congo</xhtml:span> need to think and act on. Napoleon Abdulai. Africa Research &amp; ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... THE GUARDIAN FEATURES PAGE; Pg. 16 LETTER: NEW <xhtml:span class=\"hit\">ZAIRE</xhtml:span> , NEW AFRICA Napoleon Abdulai. YOUR Leader (Rejoicing in Kinshasa , ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the role of the US Export-Import Bank in the destruction of <xhtml:span class=\"hit\">Zaire</xhtml:span> . However, with the tyrannical Mobutu regime as history now, it ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDG-VP10-006X-B176-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDG-VP10-006X-B176-00000-00</id><title>LETTER: NEW ZAIRE, NEW AFRICA</title><published>1997-05-20T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>THE GUARDIAN FEATURES PAGE; Pg. 16</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>LETTER: NEW ZAIRE, NEW AFRICA</nitf:hl1></nitf:hedline><nitf:byline>Napoleon Abdulai.</nitf:byline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\"> YOUR Leader (Rejoicing in Kinshasa, May 19), is right in pointing out the role of the US Export-Import Bank in the destruction of Zaire.  However, with the tyrannical Mobutu regime as history now, it is important for democratic forces to support the new government of Laurent Kabila and the Congolese people with moral, diplomatic and concrete assistance in rebuilding democratic and economic institutions that will make the new era meaningful in everyday life.</p><p>President Kabila's transitional government has to bring in the Lumumbaists.  As to the Zairean Tutsis, it is important to acknowledge their role in ending the 32 years of despotism. A policy that allows regional governments (Kisangani, Lumumbashi, Maji Mbuji, Bukava) to tackle the problems of bad governance, ethnicity, corruption and economic mismanagement associated with the past regime is a necessity.</p><p> The new authorities should remember that only regional co-operation can lessen further insurgency in the region.  A common citizenship for all people of the Great Lakes region, free movement of labour and capital and the retrieval of the millions stolen by Mobutu and his friends should be some of the polices that the leaders of Angola, Uganda, Rwanda and, of course, the Democratic Republic of the Congo need to think and act on.</p><p> Napoleon Abdulai.</p><p> Africa Research &amp;</p><p> Information Bureau,</p><p> 5 Westminster Bridge Road,</p><p> London SE1 7XW.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">GUARDN1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDG-VP10-006X-B176-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138620</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><pagination><pageSequence><page/></pageSequence></pagination><wordCount number=\"480\"/><publicationInfo><publicationName>The Guardian (London)</publicationName><copyright>Copyright 1997 Guardian Newspapers Limited</copyright><publicationDate month=\"05\" day=\"20\" year=\"1997\"><dateText>May 20, 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>EXPORT-IMPORT BANK OF INDIA </className></classificationItem><classificationItem score=\"58\"><className> EXPORT-IMPORT BANK OF JAPAN </className></classificationItem><classificationItem score=\"58\"><className> EXPORT-IMPORT BANK OF KOREA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>EXPORT-IMPORT BANK OF INDIA </className></classificationItem><classificationItem score=\"58\"><className> EXPORT-IMPORT BANK OF JAPAN </className></classificationItem><classificationItem score=\"58\"><className> EXPORT-IMPORT BANK OF KOREA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"52\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST0009G89</classCode><className>REGIONAL &amp; LOCAL GOVERNMENTS</className><classCode>Z3VpZD11cm46dG9waWM6Njg1MkM3RkYyNzIxNEVFRkJFMTI2NUM4NUU1ODdEM0Q7cGFyZW50Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA</classCode><className>Local Governments</className></classificationItem><classificationItem score=\"72\"><classCode>STX001444</classCode><className>RACE &amp; ETHNICITY</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>N522293MM</classCode><className>EXPORT IMPORT BANKING</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"58\"><classCode>N522293MM</classCode><className>EXPORT IMPORT BANKING</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX106</classCode><className>LONDON, ENGLAND</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Guardian (London)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

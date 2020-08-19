@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F6W0-009B-H4T5-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 367,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "france calls for transitional government in zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F6W0-009B-H4T5-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 367words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  calls for <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> paris, april 22; ITEM NO: 0422258 france today called for the establishment of a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> to \"mark the start of national reconciliation\" and prepare for general elections.  \"the establishment of a government of transition should mark the start of national reconciliation. its essential task will be the implementation as rapid as possible of the indispensable electoral process,\" said french foreign ministry spokesman jacques rummelhardt.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... france today called for the establishment of a <xhtml:span class=\"hit\">transitional government</xhtml:span> in <xhtml:span class=\"hit\">zaire</xhtml:span> to \"mark the start of national reconciliation\" and prepare for general ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... mandela in the cape town last saturday on the situation in <xhtml:span class=\"hit\">zaire</xhtml:span> . the spokesman said that the mission of dupuch is to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... president mandela our analysis and our worries\" about the situation in <xhtml:span class=\"hit\">zaire</xhtml:span> and to tell him france's support for his efforts to arrange ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the sufferings of the people and worsen the humanitarian situation.\" \" <xhtml:span class=\"hit\">zaire</xhtml:span> has nothing to win in the pursuit of fruitless confrontations. to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... does not wish to see an intervention by foreign troops into <xhtml:span class=\"hit\">zaire</xhtml:span> to protect the foreign expatriates in the country. some 4,000 western ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... americans, are now stationed in congo or near the coast of <xhtml:span class=\"hit\">zaire</xhtml:span>, assumably for a possible evacuation operation of westerners from <xhtml:span class=\"hit\">zaire</xhtml:span> . \"we really wish that these troops will not intervene, which ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... calls for <xhtml:span class=\"hit\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\">zaire</xhtml:span> paris, april 22; ITEM NO: 0422258 france today called for the establishment of a <xhtml:span class=\"hit\">transitional government</xhtml:span> in <xhtml:span class=\"hit\">zaire</xhtml:span> to \"mark the start of national reconciliation\" and prepare for general ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F6W0-009B-H4T5-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F6W0-009B-H4T5-00000-00</id><title>france calls for transitional government in zaire</title><published>1997-04-22T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>france calls for transitional government in zaire</nitf:hl1></nitf:hedline><nitf:dateline>paris, april 22; ITEM NO: 0422258</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">france today called for the establishment of a transitional government in zaire to \"mark the start of national reconciliation\" and prepare for general elections.  \"the establishment of a government of transition should mark the start of national reconciliation. its essential task will be the implementation as rapid as possible of the indispensable electoral process,\" said french foreign ministry spokesman jacques rummelhardt.  france made the appeal after michel dupuch, advisor on african affairs of president jacques chirac, met with south african president nelson mandela in the cape town last saturday on the situation in zaire.  the spokesman said that the mission of dupuch is to \"expose directly to president mandela our analysis and our worries\" about the situation in zaire and to tell him france's support for his efforts to arrange a meeting between zairian president mobutu sese seko and zairian rebel leader laurent-desire kabila.  \"what counts is that a meeting between president mobutu and kabila takes place as soon as possible,\" said rummelhardt. \"the will of negotiation should be expressed clearly and rapidly, which is not always the case if one judges by certain public declarations (of kabila).\" he said that \"the search for a negotiated solution is the only way out for the present crisis\" and that all other ways, including military conquest, \"will increase the sufferings of the people and worsen the humanitarian situation.\" \"zaire has nothing to win in the pursuit of fruitless confrontations. to go out of this crisis, they should engage in dialogue and fix together the conditions of an orderly transition,\" said the spokesman.  he also said that france does not wish to see an intervention by foreign troops into zaire to protect the foreign expatriates in the country.  some 4,000 western troops, most of them americans, are now stationed in congo or near the coast of zaire, assumably for a possible evacuation operation of westerners from zaire.  \"we really wish that these troops will not intervene, which means that the security of properties and persons will not be threatened (first),\" he said.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F6W0-009B-H4T5-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"367\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"04\" day=\"22\" year=\"1997\"><dateText>APRIL 22, 1997, TUESDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"86\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"79\"><classCode>ST000DHON</classCode><className>FRENCH PRESIDENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928000CC</classCode><className>INTERNATIONAL RELATIONS &amp; NATIONAL SECURITY</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"86\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>PE0009UFO</classCode><className>JACQUES CHIRAC</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"74\"><classCode>GX115</classCode><className>PARIS, FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"57\"><classCode>GX297</classCode><className>CAPE TOWN, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

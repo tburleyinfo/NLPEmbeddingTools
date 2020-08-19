@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3RY4-57F0-00BT-M0PD-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 180,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-09T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT GOMA, Zaire: is Mobutu.''",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-57F0-00BT-M0PD-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 180words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>: is Mobutu.'' Having replaced Tshisekedi with a four-star general, Mobutu had his soldiers thwart a demonstration led by Tshisekedi in  Kinshasa . Tshisekedi, a longtime opponent of Mobutu's rule, led a crowd of thousands in the march on the center of town, but an army vehicle whisked him away after troops let loose with tear gas grenades. The new premier, Gen. Likulia Bolongo, promised a crackdown on civil liberties, saying his primary goal was ''the restoration of public order.'' Gen. Likulia ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... spokesman Mike McCurry said that U.S. officials want to see a <xhtml:span class=\"hit\">transitional government</xhtml:span> in  <xhtml:span class=\"hit\">Zaire</xhtml:span> , then elections. ''That clearly reflects our view that Mobutuism is ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news URGENT GOMA, <xhtml:span class=\"hit\">Zaire</xhtml:span> : is Mobutu.'' Having replaced Tshisekedi with a four-star general, Mobutu ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-57F0-00BT-M0PD-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-57F0-00BT-M0PD-00000-00</id><title>URGENT GOMA, Zaire: is Mobutu.''</title><published>1997-04-09T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT GOMA, Zaire: is Mobutu.''</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Having replaced Tshisekedi with a four-star general, Mobutu had his soldiers thwart a demonstration led by Tshisekedi in Kinshasa.</p><p nitf:lede=\"true\">Tshisekedi, a longtime opponent of Mobutu's rule, led a crowd of thousands in the march on the center of town, but an army vehicle whisked him away after troops let loose with tear gas grenades.</p><p>The new premier, Gen. Likulia Bolongo, promised a crackdown on civil liberties, saying his primary goal was ''the restoration of public order.''</p><p>Gen. Likulia Bolongo had previously served Mobutu as defense minister and army chief of staff.</p><p>The four-star general, dressed in his army uniform and surrounded by four other officers, did not elaborate on the crackdown at a news conference.</p><p>But he said measures would be taken against the news media if they published articles that ''affected the morale of the military.''</p><p>In Washington, White House spokesman Mike McCurry said that U.S.  officials want to see a transitional government in Zaire, then elections.</p><p>''That clearly reflects our view that Mobutuism is about to become a creature of history,'' McCurry said.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-57F0-00BT-M0PD-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"180\"/><timeReceived>21:29 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"09\" month=\"04\" year=\"1997\"><dateText>April 09, 1997; Wednesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"91\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"77\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CP</classCode><className>DEFENSE DEPARTMENTS</className><classCode>Z3VpZD11cm46dG9waWM6MTFBQjNDMzE0RjU1NEVDREJERTlFQUU2OTkzN0VCMjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode><className>US Department of Defense</className></classificationItem><classificationItem score=\"73\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00096SZ</classCode><className>PRESS CONFERENCES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DL89</classCode><className>GRENADES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX000195</classCode><className>BOMBS &amp; EXPLOSIVE DEVICES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"91\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"74\"><classCode>N511000CC</classCode><className>PUBLISHING</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CP</classCode><className>DEFENSE DEPARTMENTS</className><classCode>Z3VpZD11cm46dG9waWM6MTFBQjNDMzE0RjU1NEVDREJERTlFQUU2OTkzN0VCMjk7cGFyZW50Z3VpZD11cm46dG9waWM6RUZFQjE4NzUwODAyNDUzMzgxQzIxMUNBMTg2RTc5MTI</classCode><className>US Department of Defense</className></classificationItem><classificationItem score=\"73\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"58\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

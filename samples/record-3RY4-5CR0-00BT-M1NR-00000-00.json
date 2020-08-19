@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5CR0-00BT-M1NR-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "PAUL AMES ",
+  "WordLength": 191,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-28T00:00:00Z",
+  "Keyword": null,
+  "Title": "U.S. Ambassador to United Nations arrives in Zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5CR0-00BT-M1NR-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 191words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> The  United States '  U.N.  Ambassador Bill Richardson arrived in the Zairian capital Monday for talks with President Mobutu Sese Seko. Richardson said he would meet with the ailing president Tuesday. He intends to travel to the rebel-held southern city of Lubumbashi the following day to talk with rebel leader Laurent Kabila. ''The U.S. Administration believes there can be no military solution, but rather a negotiated settlement … leading to an inclusive <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> and free and  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... solution, but rather a negotiated settlement … leading to an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> and free and fair elections,'' he told reporters upon arrival in ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news U.S. Ambassador to United Nations arrives in <xhtml:span class=\"hit\">Zaire</xhtml:span> PAUL AMES  KINSHASA ,  <xhtml:span class=\"hit\">Zaire</xhtml:span> The United States ' U.N. Ambassador Bill Richardson arrived in the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to get relief supplies to some 100,000 Rwandan refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> . He said he would press for access to the refugees ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5CR0-00BT-M1NR-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5CR0-00BT-M1NR-00000-00</id><title>U.S. Ambassador to United Nations arrives in Zaire</title><published>1997-04-28T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>U.S. Ambassador to United Nations arrives in Zaire</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>PAUL AMES </nameText></person></author></nitf:byline><nitf:dateline>KINSHASA, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The United States' U.N. Ambassador Bill Richardson arrived in the Zairian capital Monday for talks with President Mobutu Sese Seko.</p><p nitf:lede=\"true\">Richardson said he would meet with the ailing president Tuesday.</p><p>He intends to travel to the rebel-held southern city of Lubumbashi the following day to talk with rebel leader Laurent Kabila.</p><p>''The U.S. Administration believes there can be no military solution, but rather a negotiated settlement … leading to an inclusive transitional government and free and fair elections,'' he told reporters upon arrival in Kinshasa.</p><p>Efforts in recent weeks to arrange a meeting between Kabila and Mobutu have failed, though officials close to the negotiations say talks between the two men could take place this week in neighboring Gabon.</p><p>Richardson spoke briefly about also working to get relief supplies to some 100,000 Rwandan refugees in eastern Zaire. He said he would press for access to the refugees and displaced Zairians to assess the situation there.</p><p>''There have been reports of human rights abuse and massacres -- this must end,'' he said, though he did not refer to any specific allegations.</p><p>Since October, 7th graf pvs</p><p>(bdb)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5CR0-00BT-M1NR-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"191\"/><timeReceived>11:55 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"28\" month=\"04\" year=\"1997\"><dateText>April 28, 1997; Monday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"93\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"93\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"93\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST0008ZBZ</classCode><className>HUMAN RIGHTS VIOLATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"77\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0008XAN</classCode><className>DISPLACED PERSONS</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>ST000DLRT</classCode><className>RIGHT TO FREE ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"78\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"74\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

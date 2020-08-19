@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3P0-009B-H0Y5-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "by guo ming",
+  "WordLength": 311,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-20T00:00:00Z",
+  "Keyword": null,
+  "Title": "zaire's new leader to arrive in kinshasa today",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3P0-009B-H0Y5-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 311words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  to prepare for kabila's arrival.  kabila, having won a civil war to topple mobutu, has announced himself president of the democratic republic of congo, the new name of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>, which was given by mobutu in 1971.  he promised to hold the general elections in the central africa's largest nation within two years, arguing that the zairean people will have to be senticized about and prepared for democracy first.  kabila will fly to the capital from <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>'s second largest city of lubumbasi, which now serves  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... by guo ming kinshasa , may 20; ITEM NO: 0520154 <xhtml:span class=\"hit\">zaire</xhtml:span>'s new leader laurent kabila is expected to arrive here today to form \"a broad-based <xhtml:span class=\"hit\">unity government</xhtml:span>\".  \"a broad-based national <xhtml:span class=\"hit\">unity government</xhtml:span> would be formed from which all mobutists will be excluded,\" said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the alliance of democratic forces for the liberation of congo- <xhtml:span class=\"hit\">zaire</xhtml:span> (adfl) led by kabila. though kabila declared earlier that followers of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... president of the democratic republic of congo, the new name of <xhtml:span class=\"hit\">zaire</xhtml:span> , which was given by mobutu in 1971. he promised to ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... prepared for democracy first. kabila will fly to the capital from <xhtml:span class=\"hit\">zaire</xhtml:span> 's second largest city of lubumbasi, which now serves as his ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">zaire</xhtml:span>'s new leader laurent kabila is expected to arrive here today to form \"a broad-based <xhtml:span class=\"hit\">unity government</xhtml:span>\".  \"a broad-based national <xhtml:span class=\"hit\">unity government</xhtml:span> would be formed from which all mobutists will be excluded,\" said ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the alliance of democratic forces for the liberation of congo- <xhtml:span class=\"hit\">zaire</xhtml:span> (adfl) led by kabila. though kabila declared earlier that followers of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... president of the democratic republic of congo, the new name of <xhtml:span class=\"hit\">zaire</xhtml:span> , which was given by mobutu in 1971. he promised to ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3P0-009B-H0Y5-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3P0-009B-H0Y5-00000-00</id><title>zaire's new leader to arrive in kinshasa today</title><published>1997-05-20T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>zaire's new leader to arrive in kinshasa today</nitf:hl1></nitf:hedline><nitf:byline>by guo ming</nitf:byline><nitf:dateline>kinshasa, may 20; ITEM NO: 0520154</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">zaire's new leader laurent kabila is expected to arrive here today to form \"a broad-based unity government\".  \"a broad-based national unity government would be formed from which all mobutists will be excluded,\" said grattas bugera, general secretary of the alliance of democratic forces for the liberation of congo-zaire (adfl) led by kabila.  though kabila declared earlier that followers of exiled former president mobutu sese seko would be excluded from the new government, but diplomats said a couple of cabinet positions might be reserved for them only to show that the government is \"broad-based\".  asked if etienne tshisekedi's sacred heart alliance, a major opposition party during mobutu's rule, would be given a place within the government, bugera replied: \"they might be.\" \"the new government will take up the challenge left by mobutu's decaying regime to re-build this country which has been crushed to pulp,\" said bugera, kabila's second man who is now in kinshasa to prepare for kabila's arrival.  kabila, having won a civil war to topple mobutu, has announced himself president of the democratic republic of congo, the new name of zaire, which was given by mobutu in 1971.  he promised to hold the general elections in the central africa's largest nation within two years, arguing that the zairean people will have to be senticized about and prepared for democracy first.  kabila will fly to the capital from zaire's second largest city of lubumbasi, which now serves as his military headquarters.  last saturday, kabila's forces captured kinshasa, the capital of the mineral-rich african country.  the country fell to the hands of kabila's troops within only seven months.  and mobutu, who was in the togolese capital of lome on sunday and monday, is believed to be flown to morocco in exile.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3P0-009B-H0Y5-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"311\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"20\" year=\"1997\"><dateText>MAY 20, 1997, TUESDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"64\"><className>SICOME SA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"industry\"><classificationItem score=\"64\"><className>SIC2329 MEN'S &amp; BOYS' CLOTHING, NEC </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"64\"><className>SICOME SA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"51\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"63\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"63\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX324</classCode><className>LOME, TOGO</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC360</classCode><className>MOROCCO</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC560</classCode><className>TOGO</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

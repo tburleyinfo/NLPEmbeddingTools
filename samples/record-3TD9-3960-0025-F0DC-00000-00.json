@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3960-0025-F0DC-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 694,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-27T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zaire: Mobutu party vows fight to the end end",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3960-0025-F0DC-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 694words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> by denying aid agencies access to them. He also attacked the international community for backing Kabila and said  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  must never be split like  North  and  South Korea . The rally in the main hall of the Palais du Peuple, the Chinese-built seat of  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, began in a cacophony of sound and colour. To the sound of trumpets, horns and drums, choirs sang, danced and chanted as people arrived, many wearing clothes with Mobutu's image printed on or brandishing flags ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... main hall of the Palais du Peuple, the Chinese-built seat of <xhtml:span class=\"hit\">Zaire</xhtml:span> 's <xhtml:span class=\"hit\">transitional government</xhtml:span> , began in a cacophony of sound and colour. To the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... rights abuses against tens of thousands of Rwandan refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> by denying aid agencies access to them. He also attacked the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... from the north, while a third is widely expected from Bas- <xhtml:span class=\"hit\">Zaire</xhtml:span>  ( Lower <xhtml:span class=\"hit\">Zaire</xhtml:span> ) province southwest of Kinshasa . \"Mobutu is our best hope. ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news news <xhtml:span class=\"hit\">Zaire</xhtml:span> : Mobutu party vows fight to the end end By Kevin ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... country, they would just prepare their own rebellion in exile \"and <xhtml:span class=\"hit\">Zaire</xhtml:span> will enter a war of at least 100 years.\" In a ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3960-0025-F0DC-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3960-0025-F0DC-00000-00</id><title>Zaire: Mobutu party vows fight to the end end</title><published>1997-04-27T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zaire: Mobutu party vows fight to the end end</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">By Kevin McElderry</p><p nitf:lede=\"true\">KINSHASA, April 27 (AFP) - Supporters of beleaguered Zairean President Mobutu Sese Seko warned Sunday of a 100-year war against the advancing rebel army if the rebels forced them out of the capital Kinshasa.</p><p nitf:lede=\"true\">Mananga Dintoka Pholo, the interim head of Mobutu's Popular Movement of the Revolution (MPR) (eds: correct), told a party meeting that if the guerrillas chased Mobutu's supporters out of the country, they would just prepare their own rebellion in exile \"and Zaire will enter a war of at least 100 years.\"</p><p nitf:lede=\"true\">In a rallying call to about 3,000 MPR militants, he also urged said peace talks between Mobutu and rebel chief Laurent Kabila must be held \"as soon as possible.\" possible.\"</p><p>In Pretoria, a source said Saturday Kabila and Mobutu had \"agreed in principle\" on a venue for face-to-face peace talks early next week, but the agreement was not finalised.</p><p>That failing, Mananga said, the army must \"cleanse the humiliation\" of the six-month rebellion.</p><p>On Friday, the commander of the elite presidential guard, General N'Zimbi Ngbale ordered his troops to \"fight to the death\" to retake territory captured by the rebels.</p><p>Mananga's speech was warmly applauded by MPR supporters, who -- as is often the case here -- were paid for their attendance.</p><p>Mananga accused Kabila's forces of human rights abuses against tens of thousands of Rwandan refugees in eastern Zaire by denying aid agencies access to them.</p><p>He also attacked the international community for backing Kabila and said Zaire must never be split like North and South Korea.</p><p>The rally in the main hall of the Palais du Peuple, the Chinese-built seat of Zaire's transitional government, began in a cacophony of sound and colour.</p><p>To the sound of trumpets, horns and drums, choirs sang, danced and chanted as people arrived, many wearing clothes with Mobutu's image printed on or brandishing flags and placards pledging their support for him.</p><p>\"No to weapons, yes to elections,\" one banner proclaimed inside the main hall of the Palais du Peuple.</p><p>\"Hold tight Marshal, we support you,\" read a small flag in both French and lingala, the local language.</p><p>Mananga said Mobutu, 66, was not being treated with the respect from the international community that he deserved. The ailing head of state is recovering after prostate cancer surgery last year.</p><p>Sunday's rally came amid heightening tension in the capital with every report of rebel advances.</p><p>They are approaching Kinshasa from the east -- unconfirmed press reports here say they are 80 kilometres (50 miles) from Kikwit, one of the last major lines of defence before the capital a further 400 kilometres (250 miles) away.</p><p>A second front is heading down from the north, while a third is widely expected from Bas-Zaire (Lower Zaire) province southwest of Kinshasa.</p><p>\"Mobutu is our best hope. He is our candidate,\" an MPR supporter said, insisting that there was no popular feeling for Kabila.</p><p>But a taxi driver working outside the building shook his head. \"They don't want anything to change, those people. But they have to.\"</p><p>km/pcj</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3960-0025-F0DC-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"694\"/><timeReceived>2715 2715</timeReceived><timeReceived>27:15 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"04\" day=\"27\" year=\"1997\"><dateText>April 27, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"94\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"67\"><classCode>ST0008ZBZ</classCode><className>HUMAN RIGHTS VIOLATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"64\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"62\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"88\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC371</classCode><className>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3TD9-37S0-0025-F1Y5-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 360,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-04T00:00:00Z",
+  "Keyword": null,
+  "Title": "The leading characters in the Zairean crisis crisis",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-37S0-0025-F1Y5-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 360words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  in 1964-1965. A warlord and an alleged gold black marketeer, Kabila never compromised with Mobutu, unlike others who accepted offers of senior posts in the administration. Etienne Tshisekedi, 64, leader of the Zairean opposition, was appointed minister many times before he broke with Mobutu in the 1980s and founded the Union for Democracy and Social Progress, then an illegal party. On November 21, 1996, after meeting the convalescent President Mobutu in  France , he declared himself prime ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in France , he declared himself prime minister of a \"national <xhtml:span class=\"hit\">unity government</xhtml:span> \". He was appointed to succeed premier Kengo Wa Dondo on ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... thumbnail sketches of the three main characters in the crisis in <xhtml:span class=\"hit\">Zaire</xhtml:span> . Mobutu Sese Seko, 66, set himself up as head of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... is a former activist of the great communist rebellion that unsettled <xhtml:span class=\"hit\">Zaire</xhtml:span> in 1964-1965. A warlord and an alleged gold black marketeer, Kabila ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-37S0-0025-F1Y5-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-37S0-0025-F1Y5-00000-00</id><title>The leading characters in the Zairean crisis crisis</title><published>1997-05-04T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>The leading characters in the Zairean crisis crisis</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, May 4 4</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The following are thumbnail sketches of the three main characters in the crisis in Zaire.</p><p nitf:lede=\"true\">Mobutu Sese Seko, 66, set himself up as head of state in November 1965 after removing the country's first president Joseph Kasavubu a year earlier.  earlier.</p><p>Considered one of the world's richest men, Mobutu has been severely criticised for breaches of human rights.  Under pressure from abroad and at home, he announced in 1990 that a multi-party system would be introduced after a transitional period.  The first multi-party presidential and general elections are scheduled for 1997. Mobutu underwent surgery for prostate cancer last August in Switzerland and spent time in France recovering before returning home in late March.</p><p>Laurent Kabila, 56, self-designated coordinator of the Alliance of Democratic Forces for the Liberation of the Congo, is a former activist of the great communist rebellion that unsettled Zaire in 1964-1965. A warlord and an alleged gold black marketeer, Kabila never compromised with Mobutu, unlike others who accepted offers of senior posts in the administration.</p><p>Etienne Tshisekedi, 64, leader of the Zairean opposition, was appointed minister many times before he broke with Mobutu in the 1980s and founded the Union for Democracy and Social Progress, then an illegal party. On November 21, 1996, after meeting the convalescent President Mobutu in France, he declared himself prime minister of a \"national unity government\". He was appointed to succeed premier Kengo Wa Dondo on April 2, but was forced to stand down on April 9.</p><p>bur/gd/pcj pcj</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-37S0-0025-F1Y5-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"360\"/><timeReceived>0413 0413</timeReceived><timeReceived>04:13 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"04\" year=\"1997\"><dateText>May 04, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001371</classCode><className>HEADS OF GOVERNMENT ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001112</classCode><className>MEN'S HEALTH</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>STX001657</classCode><className>SURGERY &amp; TRANSPLANTATION</className><classCode/><className/></classificationItem><classificationItem score=\"57\"><classCode>STX001822</classCode><className>WEALTHY PEOPLE</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>ST0008ZBZ</classCode><className>HUMAN RIGHTS VIOLATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"55\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GC327</classCode><className>SWITZERLAND</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5KF0-00BT-M36G-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 190,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT KINSHASA: from me.''",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5KF0-00BT-M36G-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 190words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> was not ready. Mobutu's exact whereabouts and plans remained unclear. Aides said Friday he flew to his northern hometown of  Gbadolite , 700 miles (1,125 kilometers) away, for a few days ''rest'' and refused to say he had left  Kinshasa  for good. But diplomatic sources said they expected the 66-year-old Mobutu, who is dying from prostate cancer, to continue on to  Morocco  to begin life in exile. Kabila has promised to undo the damage wrought by Mobutu's nearly 32 years in power. But he has ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... now the functions of head of state.'' He would form a <xhtml:span class=\"hit\">transitional government</xhtml:span> within 72 hours and within 60 days there would be a ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... been accused of atrocities against refugees during their eight-month march across <xhtml:span class=\"hit\">Zaire</xhtml:span> . (pvs/rk)...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... In recent weeks, Kabila has shied away from calling elections, saying <xhtml:span class=\"hit\">Zaire</xhtml:span> was not ready. Mobutu's exact whereabouts and plans remained unclear. Aides ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5KF0-00BT-M36G-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5KF0-00BT-M36G-00000-00</id><title>URGENT KINSHASA: from me.''</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT KINSHASA: from me.''</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">He referred to himself in the third person, saying: ''President Laurent Kabila will assume from now the functions of head of state.''</p><p nitf:lede=\"true\">He would form a transitional government within 72 hours and within 60 days there would be a new constitution.</p><p>Current government officials should remain in the posts and await orders from the alliance, he said.</p><p>He made no mention of elections that the west has pressed him to call and has offered to fund. In recent weeks, Kabila has shied away from calling elections, saying Zaire was not ready.</p><p>Mobutu's exact whereabouts and plans remained unclear. Aides said Friday he flew to his northern hometown of Gbadolite, 700 miles (1,125 kilometers) away, for a few days ''rest'' and refused to say he had left Kinshasa for good. But diplomatic sources said they expected the 66-year-old Mobutu, who is dying from prostate cancer, to continue on to Morocco to begin life in exile.</p><p>Kabila has promised to undo the damage wrought by Mobutu's nearly 32 years in power. But he has been short on specifics, and his troops have been accused of atrocities against refugees during their eight-month march across Zaire.</p><p>(pvs/rk)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5KF0-00BT-M36G-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"190\"/><timeReceived>11:34 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"17\" month=\"05\" year=\"1997\"><dateText>May 17, 1997; Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"66\"><className>SICOME SA </className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"66\"><className>SIC2329 MEN'S &amp; BOYS' CLOTHING, NEC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"66\"><className>SICOME SA </className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"66\"><className>SIC2329 MEN'S &amp; BOYS' CLOTHING, NEC </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST0009FJK</classCode><className>NEGATIVE PERSONAL NEWS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"78\"><classCode>ST000DN6R</classCode><className>PUBLIC OFFICIALS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001112</classCode><className>MEN'S HEALTH</className><classCode/><className/></classificationItem><classificationItem score=\"54\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"53\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC360</classCode><className>MOROCCO</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3500-0025-F4X1-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 800,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-18T00:00:00Z",
+  "Keyword": null,
+  "Title": "Rebel delegation to visit Kinshasa kinshasa",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3500-0025-F4X1-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 800words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> , May 18 18 A delegation of senior rebel officials was heading for Kinshasa Sunday from this southern stronghold \"to reassure the population\" of the capital after its occupation by rebel troops Saturday, a rebel \"minister\" told journalists. Mawampanga Mwana Nanga, the \"minister of finance,\" said the delegation, expected to leave late morning or early afternoon, would be headed by Deo Gratias Bugera, the secretary general of the rebel alliance. \"After we take a town, we always send a team,\" ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said. \"It's at his discretion.\" Kabila promised Saturday to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> of national unity by Tuesday, and call an assembly within two ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news news Rebel delegation to visit Kinshasa kinshasa LUBUMBASHI , <xhtml:span class=\"hit\">Zaire</xhtml:span> , May 18 18 A delegation of senior rebel officials was ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... complained that alliance troops had not provided security. In Lubumbashi , <xhtml:span class=\"hit\">Zaire</xhtml:span> 's second-biggest city, the situation was calm. Kabila's announcement of his ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3500-0025-F4X1-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3500-0025-F4X1-00000-00</id><title>Rebel delegation to visit Kinshasa kinshasa</title><published>1997-05-18T00:00:00Z</published><updated>2020-08-04T18:50:06Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Rebel delegation to visit Kinshasa kinshasa</nitf:hl1></nitf:hedline><nitf:dateline>LUBUMBASHI, Zaire, May 18 18</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">A delegation of senior rebel officials was heading for Kinshasa Sunday from this southern stronghold \"to reassure the population\" of the capital after its occupation by rebel troops Saturday, a rebel \"minister\" told journalists.</p><p nitf:lede=\"true\">Mawampanga Mwana Nanga, the \"minister of finance,\" said the delegation, expected to leave late morning or early afternoon, would be headed by Deo Gratias Bugera, the secretary general of the rebel alliance.</p><p nitf:lede=\"true\">\"After we take a town, we always send a team,\" Mawampanga said.  \"They have to reassure the population and explain our measures.\" measures.\"</p><p>Rebel leader Laurent Kabila proclaimed himself head of state here Saturday as his troops entered Kinshasa after deposed president Mobutu Sese Seko fled the capital.</p><p>Kabila himself would fly to Kinshasa \"very soon -- in the next couple of days, or a few days,\" Mawampanga, said. \"It's at his discretion.\"</p><p>Kabila promised Saturday to form a transitional government of national unity by Tuesday, and call an assembly within two months to draw up a new constitution for the country the rebels call the Democratic Republic of Congo.</p><p>South African Deputy President Thabo Mbeki will fly to Zaire on Sunday afternoon to meet Kabila and his officials, officials in Pretoria said.</p><p>Mbeki's spokesman, Ricky Naidoo, declined to give details of the mission or to say how long it would last.</p><p>AFP correspondents in Kinshasa said the capital was tense Sunday after sporadic gunfire throughout the night amid reports of fighting between government troops and rebels.</p><p>By 8:00 a.m. (0700 GMT) the firing appeared to have stopped, and a few groups of people were venturing onto the streets as some taxis began operating.</p><p>In the poorer quarters of the city there were signs of looting.  Residents said rebel troops had shot people trying to loot shops and warehouses.</p><p>One Zairean Red Cross worker said he had counted 10 bodies and thought there were more.</p><p>In a radio broadcast late Saturday, the rebels warned people in Kinshasa not to loot, steal or carry out acts of vandalism, saying they would be \"severely punished.\"</p><p>Residents in one district said the rebels had carried out night patrols to discourage violence and looting, but in another, people complained that alliance troops had not provided security.</p><p>In Lubumbashi, Zaire's second-biggest city, the situation was calm.</p><p>Kabila's announcement of his assumption of power Saturday was broadcast over rebel Voice of the People radio, but led to no outbursts of celebration.</p><p>Last Tuesday, as part of its psycholgical warfare campaign, the rebel radio announced that the alliance troops had occupied the capital then.</p><p>That prompted rebel soldiers to fire their rifles, machine-guns and anti-aircraft guns in the air for close to an hour.</p><p>On Sunday, the radio broadcast messages of congratulation to Kabila, with one urging the establishment of a federal system.</p><p>It also announced a census of all foreigners in Lubumbashi, with different nationalities told to report to rebel authorities with their passports on specific days between next Monday and June 6.</p><p>hn/db</p><p>hn/ss ss</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3500-0025-F4X1-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"800\"/><timeReceived>1809 1809</timeReceived><timeReceived>18:09 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"18\" year=\"1997\"><dateText>May 18, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST00097CL</classCode><className>PUBLIC FINANCE AGENCIES &amp; TREASURIES</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX001566</classCode><className>SHOOTINGS</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX000724</classCode><className>FIREARMS</className><classCode/><className/></classificationItem><classificationItem score=\"60\"><classCode>STX002205</classCode><className>ANTIAIRCRAFT WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX001788</classCode><className>VANDALISM</className><classCode>Z3VpZD11cm46dG9waWM6NDUzM0RCNTc1N0MyNEY1RDkxODkwOTJGNkVDMTc5NDQ7cGFyZW50Z3VpZD11cm46dG9waWM6MTYyODU4NTlDMkZFNEUzRTk1RUZGNzQyNjVEOEI5REU</classCode><className>Destruction of Property</className></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"84\"><classCode>N515110CC</classCode><className>RADIO BROADCAST INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"84\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST00097CL</classCode><className>PUBLIC FINANCE AGENCIES &amp; TREASURIES</className><classCode/><className/></classificationItem><classificationItem score=\"60\"><classCode>STX002205</classCode><className>ANTIAIRCRAFT WEAPONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"53\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"92\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX296</classCode><className>PRETORIA, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3B50-0025-F309-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 1174,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "Mobutu looking for new venue for Kabila talks -- son son",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3B50-0025-F309-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 1174words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>,\" Nzanga Mobutu said. \"Who is he to ask for the president to step down? \"What kind of negotiations does he want? Ask him why he does not want a multi-party system.\" Mobutu insists on a ceasefire before any talks can take place, and says he may stand in presidential elections. On Monday, UN special envoy Mohamed Sahnoun said \"a small hope\" still existed that the two men would meet soon. Diplomatic sources on Monday dismissed Kabila's statements as posturing, saying neither he nor Mobutu had ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... far.\" \"When it comes down to detailed stuff, such as a <xhtml:span class=\"hit\">transitional government</xhtml:span> including all parties, the indications are that Kabila and his lot ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... hands of Kabila's rebel forces, who have captured one half of <xhtml:span class=\"hit\">Zaire</xhtml:span> since launching their rebellion six months ago. South African President Nelson ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... hands of Kabila's rebel forces, who have captured one half of <xhtml:span class=\"hit\">Zaire</xhtml:span> since launching their rebellion six months ago. South African President Nelson ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... only concerns himself (Kabila), it does not concern the republic of <xhtml:span class=\"hit\">Zaire</xhtml:span> ,\" Nzanga Mobutu said. \"Who is he to ask for the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... only concerns himself (Kabila), it does not concern the republic of <xhtml:span class=\"hit\">Zaire</xhtml:span> ,\" Nzanga Mobutu said. \"Who is he to ask for the ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3B50-0025-F309-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3B50-0025-F309-00000-00</id><title>Mobutu looking for new venue for Kabila talks -- son son</title><published>1997-04-22T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Mobutu looking for new venue for Kabila talks -- son son</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, April 22 22</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">President Mobutu Sese Seko is looking for a new venue for his first face-to-face meeting with rebel leader Laurent Kabila after ruling out travelling to South Africa, his son and spokesman said Tuesday.</p><p nitf:lede=\"true\">Nzanga Mobutu said the president could not travel to South Africa because of his fragile health, as he recuperates after prostate cancer surgery last year.</p><p nitf:lede=\"true\">Talks were underway between officials of both warring sides to find a new destination, he added.</p><p nitf:lede=\"true\">\"The president is still convalescing and that is the reason why he cannot fly to South Africa,\" Nzanga Mobutu said here.  here.</p><p>\"We now have to work out a new location for the holding of these meetings.  The teams are working on that.\"</p><p>He said he did not know when a meeting would be possible.</p><p>One of the favoured options is neighbouring Congo whose capital Brazzaville lies just over the river from Kinshasa. It has already offered to host talks.</p><p>The ailing Mobutu, 66, faces the end of his 32-year dictatorial reign at the hands of Kabila's rebel forces, who have captured one half of Zaire since launching their rebellion six months ago.</p><p>South African President Nelson Mandela invited Mobutu to meet Kabila in South Africa, but hopes of direct talks dived over the weekend when the rebel leader reaffirmed that he would negotiate only over the manner of Mobutu's departure from power.</p><p>\"That only concerns himself (Kabila), it does not concern the republic of Zaire,\" Nzanga Mobutu said. \"Who is he to ask for the president to step down?</p><p>\"What kind of negotiations does he want? Ask him why he does not want a multi-party system.\"</p><p>Mobutu insists on a ceasefire before any talks can take place, and says he may stand in elections.</p><p>On Monday, UN special envoy Mohamed Sahnoun said \"a small hope\" still existed that the two men would meet soon.</p><p>Diplomatic sources on Monday dismissed Kabila's statements as posturing, saying neither he nor Mobutu had publicly repudiated a joint communique signed by their representatives following direct talks in Pretoria on April 8.</p><p>The document committed the parties to a negotiated political solution.</p><p>km/job</p><p>AFP</p><p>KINSHASA, April 22 (AFP) - President Mobutu Sese Seko is looking for a new venue for his first face-to-face meeting with rebel leader Laurent Kabila after ruling out travelling to South Africa, his son and spokesman said Tuesday.</p><p>Nzanga Mobutu said the president could not travel to South Africa because of his fragile health, as he recuperates after prostate cancer surgery last year.</p><p>Talks were underway between officials of both warring sides to find a new destination, he added.</p><p>\"The president is still convalescing and that is the reason why he cannot fly to South Africa,\" Nzanga Mobutu said here.</p><p>\"We now have to work out a new location for the holding of these meetings.  The teams are working on that.\"</p><p>He said he did not know when a meeting may be possible, adding that Mobutu \"has always said only a peaceful solution will bring the restoration of normality.\"</p><p>One of the favoured options is neighbouring Congo whose capital Brazzaville lies just over the river from Kinshasa. It has already offered to host talks.</p><p>The ailing Mobutu, 66, faces the end of his 32-year dictatorial reign at the hands of Kabila's rebel forces, who have captured one half of Zaire since launching their rebellion six months ago.</p><p>South African President Nelson Mandela invited Mobutu to meet Kabila in South Africa, but hopes of direct talks dived over the weekend when the rebel leader reaffirmed that he would negotiate only over the manner of Mobutu's departure from power.</p><p>\"That only concerns himself (Kabila), it does not concern the republic of Zaire,\" Nzanga Mobutu said. \"Who is he to ask for the president to step down?</p><p>\"What kind of negotiations does he want? Ask him why he does not want a multi-party system.\"</p><p>Mobutu insists on a ceasefire before any talks can take place, and says he may stand in presidential elections.</p><p>On Monday, UN special envoy Mohamed Sahnoun said \"a small hope\" still existed that the two men would meet soon.</p><p>Diplomatic sources on Monday dismissed Kabila's statements as posturing, saying neither he nor Mobutu had publicly repudiated a joint communique signed by their representatives following direct talks in Pretoria on April 8.</p><p>The document committed the parties to a negotiated political solution.</p><p>Since then however, both sides have hardened their positions, a top-ranking western diplomat here said.</p><p>\"Recently, there has been a harder line driven by both sides. Kabila has been dismissive of meeting with Mobutu, and the other side has been harder about the president staying on and possibly contesting elections.\"</p><p>While they had agreed to the principle of talks, a ceasefire and a peaceful end to the crisis, he said, \"all the tricky problems are not getting very far.\"</p><p>\"When it comes down to detailed stuff, such as a transitional government including all parties, the indications are that Kabila and his lot will say no.\"</p><p>After all, he went on, \"Mobutu has always used every opportunity he has had to knock things on the head that have not been going his way.\"</p><p>km/job</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3B50-0025-F309-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"1174\"/><timeReceived>2214 2214</timeReceived><timeReceived>22:14 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"04\" day=\"22\" year=\"1997\"><dateText>April 22, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001112</classCode><className>MEN'S HEALTH</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX087</classCode><className>BRAZZAVILLE, CONGO</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>GX296</classCode><className>PRETORIA, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

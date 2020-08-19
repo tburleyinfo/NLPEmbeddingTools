@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:46Y8-TG10-01G6-B2J5-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 171,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "GENERAL AND NATIONAL NEWS",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-23T00:00:00Z",
+  "Keyword": null,
+  "Title": "Zaire-Fighting",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a46Y8-TG10-01G6-B2J5-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Broadcast News (BN), GENERAL AND NATIONAL NEWS, 171words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... Kabila said a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> would not last more than a year. Earlier, Kabila and a roaring crowd of 10-thousand supporters firmly told U-N envoy Mohamed Sahnoun there would be no ceasefire with the government before negotiations. Mobutu had floated such a plan before he returned to <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> on Friday. Rebel fighters have seized around a fifth of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> since the start of their campaign last October. Mobutu, who seized power in 1965, returned to <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> to shore up his political position in the  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... GENERAL AND NATIONAL NEWS <xhtml:span class=\"hit\">Zaire</xhtml:span> -Fighting KISANGANI, <xhtml:span class=\"hit\">Zaire</xhtml:span> KISANGANI, <xhtml:span class=\"hit\">Zaire</xhtml:span> -- <xhtml:span class=\"hit\">Zaire</xhtml:span> rebel leader Laurent Kabila has outlined his plans for a <xhtml:span class=\"hit\">transitional government</xhtml:span> . Kabila says he refuses to work with any political leader ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... His forces captured the city a week ago. Kabila said a <xhtml:span class=\"hit\">transitional government</xhtml:span> would not last more than a year. Earlier, Kabila and a ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... negotiations. Mobutu had floated such a plan before he returned to <xhtml:span class=\"hit\">Zaire</xhtml:span> on Friday....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Kabila said a <xhtml:span class=\"hit\">transitional government</xhtml:span> would not last more than a year. Earlier, Kabila and a ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... negotiations. Mobutu had floated such a plan before he returned to <xhtml:span class=\"hit\">Zaire</xhtml:span> on Friday. Rebel fighters have seized around a fifth of <xhtml:span class=\"hit\">Zaire</xhtml:span> since the start of their campaign last October....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Rebel fighters have seized around a fifth of <xhtml:span class=\"hit\">Zaire</xhtml:span> since the start of their campaign last October. Mobutu, who seized power in 1965, returned to <xhtml:span class=\"hit\">Zaire</xhtml:span> to shore up his political position in the face of the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... was addressing his first news conference since arriving Friday in Kisangani, <xhtml:span class=\"hit\">Zaire</xhtml:span> 's third-largest city. His forces captured the city a week ago. ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:46Y8-TG10-01G6-B2J5-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:46Y8-TG10-01G6-B2J5-00000-00</id><title>Zaire-Fighting</title><published>1997-03-23T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>GENERAL AND NATIONAL NEWS</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Zaire-Fighting</nitf:hl1></nitf:hedline><nitf:dateline>KISANGANI, Zaire</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">KISANGANI, Zaire -- Zaire rebel leader Laurent Kabila has outlined his plans for a transitional government.</p><p nitf:lede=\"true\">Kabila says he refuses to work with any political leader who had cooperated with ailing President Mobutu Sese Seko.</p><p>Kabila was addressing his first news conference since arriving Friday in Kisangani, Zaire's third-largest city.</p><p>His forces captured the city a week ago.</p><p>Kabila said a transitional government would not last more than a year. Earlier, Kabila and a roaring crowd of 10-thousand supporters firmly told U-N envoy Mohamed Sahnoun there would be no ceasefire with the government before negotiations.</p><p>Mobutu had floated such a plan before he returned to Zaire on Friday.</p><p>Rebel fighters have seized around a fifth of Zaire since the start of their campaign last October.</p><p>Mobutu, who seized power in 1965, returned to Zaire to shore up his political position in the face of the virtual collapse of his army.</p><p>He has spent most of his time in Europe since August, and has had prostate cancer surgery there. (Reuter) --- bjk</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:identifier identifierScheme=\"DOC-ID\">CAPRSS-199703230074</dc:identifier><dc:source sourceScheme=\"royaltyReportingKey\">BRCSTN1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:46Y8-TG10-01G6-B2J5-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">253760</dc:source><dc:date dateType=\"last-updated\">2020-06-24</dc:date></dc:metadata><wordCount number=\"171\"/><publicationInfo><publicationName>Broadcast News (BN)</publicationName><copyright>Copyright 1997 Press News Limited, All Rights Reserved</copyright><publicationDate day=\"23\" month=\"03\" year=\"1997\"><dateText>March 23, 1997 Sunday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00096SZ</classCode><className>PRESS CONFERENCES</className><classCode/><className/></classificationItem><classificationItem score=\"67\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"52\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Canadian Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

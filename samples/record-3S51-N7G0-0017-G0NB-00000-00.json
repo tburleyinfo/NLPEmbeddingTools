@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3S51-N7G0-0017-G0NB-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 381,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; EXPULSION OF REFUGEES FROM ZAIRE; EE/D2390/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1995-08-24T00:00:00Z",
+  "Keyword": null,
+  "Title": "ZAIRE-RWANDA;Zairean UDI meets, declares support for refugee repatriation",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3S51-N7G0-0017-G0NB-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; EXPULSION OF REFUGEES FROM ZAIRE; EE/D2390/A, 381words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">ZAIRE</xhtml:span>; EE/D2390/A <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">ZAIRE</xhtml:span> - RWANDA ; Zairean UDI meets, declares support for refugee repatriation [8] Text of report by Zairean radio on 22nd August The Steering Committee of the Union of Independent Democrats UDI held one of its regular meetings yesterday at the party headquarters. After expressing satisfaction with the massive mobilization by the Kinshasa UDI branch on the occasion of the installation of the grassroots committee of the word indistinct (?zone), the steering committee reviewed the ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... part in the rebuilding of their country. Consequently, it urges the <xhtml:span class=\"hit\">transitional government</xhtml:span> to continue this exercise until the last refugee returns to his ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Zaireans' determination to remain masters of their land. Source: Voix du <xhtml:span class=\"hit\">Zaire</xhtml:span>,  Kinshasa , in French 1800 gmt 22 Aug 95...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Africa, Latin America, and the Caribbean; AFRICA; EXPULSION OF REFUGEES FROM <xhtml:span class=\"hit\">ZAIRE</xhtml:span>; EE/D2390/A <xhtml:span class=\"hit\">ZAIRE</xhtml:span> - RWANDA ; Zairean UDI meets, declares support for refugee repatriation ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3S51-N7G0-0017-G0NB-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3S51-N7G0-0017-G0NB-00000-00</id><title>ZAIRE-RWANDA;Zairean UDI meets, declares support for refugee repatriation</title><published>1995-08-24T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; EXPULSION OF REFUGEES FROM ZAIRE; EE/D2390/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>ZAIRE-RWANDA;<br/>Zairean UDI meets, declares support for refugee repatriation</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[8] Text of report by Zairean radio on 22nd August</p><p nitf:lede=\"true\">The Steering Committee of the Union of Independent Democrats UDI held one of its regular meetings yesterday at the party headquarters. After expressing satisfaction with the massive mobilization by the Kinshasa UDI branch on the occasion of the installation of the grassroots committee of the word indistinct (?zone), the steering committee reviewed the political situation in the country and wishes to bring the following to the knowledge of the general public:</p><p nitf:lede=\"true\">1. The UDI fully supports the government's decision to repatriate all Rwandan refugees to enable them to take part in the rebuilding of their country. Consequently, it urges the transitional government to continue this exercise until the last refugee returns to his country and to take all the necessary steps to fight to the end any attempt from whatever quarters (?to frustrate) Zaireans' determination to remain masters of their land.</p><section sectionType=\"source\"><bodyText><p>Source: Voix du Zaire, Kinshasa, in French 1800 gmt 22 Aug 95</p></bodyText></section><p>2. The UDI deplores the bloody incidents which marred the Unified Lumumbist Party-organized march. On the other hand, it expresses delight at the order that characterized the march organized on Friday 18th August, by the two wings coexisting within the brotherly and friendly party, the Union for Democracy and Social Progress UDPS . Our party is satisfied to note that after the UPDS federations of Equateur, Nord-Kivu, Sud-Kivu, Shaba and Kasai Occidental, those of Kinshasa have also had the courage to declare their commitment to the fundamental principles of democracy and freedom of thought. This notwithstanding, the UDI wishes to recall that at this conflict-free transition period when all persuasions are represented at the High Council of the Republic - Transitional Parliament, which is accepted by all as the only source of legitimacy, the flexing of muscles in the streets is as pointless as it is dangerous for the security of goods and persons. Consequently, UDI urges the country's authorities to adopt the appropriate measures that would forestall any unpleasant consequences that could result from the abuse of the freedom of expression guaranteed every Zairean.</p><p>This communique, issued by the UDI, is signed by Zozo Golla Sinkela Mpaka, party secretary-general.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1995</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3S51-N7G0-0017-G0NB-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"381\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1995 British Broadcasting Corporation</copyright><publicationDate day=\"24\" month=\"08\" year=\"1995\"><dateText>August 24, 1995, Thursday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Contracts Law</className><classCode>Z3VpZD11cm46dG9waWM6QzY0RTZFMzE0RjkwNDdFQUI5M0U5N0ZFMjYyREMyQzU7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Acceptances &amp; Offers</className><classCode>Z3VpZD11cm46dG9waWM6NTgxMUNENjMzRjg4NDdDMzlCMjQwMjExNDEwQUUzMDU7cGFyZW50Z3VpZD11cm46dG9waWM6MDE5MjIwMkMxRjQxNDAxRkExRURDQTE0QTM3NDYxQUI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DHZS</classCode><className>RESETTLEMENT &amp; REPATRIATION</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"92\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

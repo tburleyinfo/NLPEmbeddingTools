@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3RY4-57F0-00BT-M0PC-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 145,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-09T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT GOMA, Zaire: the telephone.''",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-57F0-00BT-M0PC-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 145words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... International news URGENT GOMA,  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> : the telephone.'' Kabila, wearing a white shirt with a black pinstripe and black pants, met with journalists in a palace that once belonged to Mobutu. He welcomed Wednesday's White House statement urging Mobutu to make way for a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>. ''I think they are right by saying it now,'' he said.  ''Everybody knows that this is the time for Mr. Mobutu to get out of power.'' ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Wednesday's White House statement urging Mobutu to make way for a <xhtml:span class=\"hit\">transitional government</xhtml:span> . ''I think they are right by saying it now,'' he ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... International news URGENT GOMA, <xhtml:span class=\"hit\">Zaire</xhtml:span> : the telephone.'' Kabila, wearing a white shirt with a black ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-57F0-00BT-M0PC-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-57F0-00BT-M0PC-00000-00</id><title>URGENT GOMA, Zaire: the telephone.''</title><published>1997-04-09T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT GOMA, Zaire: the telephone.''</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Kabila, wearing a white shirt with a black pinstripe and black pants, met with journalists in a palace that once belonged to Mobutu.</p><p nitf:lede=\"true\">He welcomed Wednesday's White House statement urging Mobutu to make way for a transitional government.</p><p>''I think they are right by saying it now,'' he said.  ''Everybody knows that this is the time for Mr. Mobutu to get out of power.''</p><p>Asked about Mobutu's ouster Wednesday of his recently named prime minister, Etienne Tshishekedi, Kabila used a sporting metaphor to dismiss the significance of the move.</p><p>''Everyone sees there is chaos in Kinshasa,'' he said. ''He (Mobutu) tried to use Mr. Tsishekedi … to use him against Mr.  Kabila so that people will be watching something like a football match between Kabila and Tsishekedi, in which Mr. Mobutu can (act) as a referee. He has no success at all, because for us, we know who is Mobutu.''</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-57F0-00BT-M0PC-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"145\"/><timeReceived>21:21 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"09\" month=\"04\" year=\"1997\"><dateText>April 09, 1997; Wednesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"73\"><classCode>ST000DHVB</classCode><className>SPORTS OFFICIATING</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"55\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"90\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

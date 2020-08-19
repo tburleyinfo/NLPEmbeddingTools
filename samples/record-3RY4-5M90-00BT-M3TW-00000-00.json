@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5M90-00BT-M3TW-00000-00",
+  "Jurisdiction": "U.S. Federal",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 363,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-19T00:00:00Z",
+  "Keyword": null,
+  "Title": "Britain welcomes Kabila commitment to elections",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5M90-00BT-M3TW-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 363words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> '' and said it looked forward to a good relationship with the new regime. While <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>'s London Embassy expressed satisfaction with the takeover of the country by Kabila's rebels, British Foreign Office minister Tony Lloyd acknowledged the ouster of President Mobutu Sese Seko. ''The end of the Mobutu regime and the advent of a new government in the former <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, now the Democratic Republic of Congo, brings important new opportunities and possibilities for the people of that country,'' he said.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... to hold elections,'' a statement from Lloyd said. Britain hoped the <xhtml:span class=\"hit\">transitional government</xhtml:span> would be as broadly based as possible and bring with it ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... helping to construct a better future for all the people.'' At <xhtml:span class=\"hit\">Zaire</xhtml:span> 's London Embassy, erstwhile diplomatic representatives of Mobutu's government said Monday ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... from the new regime. ''We are happy with what happened in <xhtml:span class=\"hit\">Zaire</xhtml:span>,'' said Charge d'Affaires Nsangolo Iwulu....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... While <xhtml:span class=\"hit\">Zaire</xhtml:span> 's London Embassy expressed satisfaction with the takeover of the country ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... regime and the advent of a new government in the former <xhtml:span class=\"hit\">Zaire</xhtml:span> , now the Democratic Republic of Congo, brings important new opportunities ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... At <xhtml:span class=\"hit\">Zaire</xhtml:span> 's London Embassy, erstwhile diplomatic representatives of Mobutu's government said Monday ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... from the new regime. ''We are happy with what happened in <xhtml:span class=\"hit\">Zaire</xhtml:span> ,'' said Charge d'Affaires Nsangolo Iwulu. ''We are waiting for instructions ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5M90-00BT-M3TW-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5M90-00BT-M3TW-00000-00</id><title>Britain welcomes Kabila commitment to elections</title><published>1997-05-19T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Britain welcomes Kabila commitment to elections</nitf:hl1></nitf:hedline><nitf:dateline>LONDON</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Britain on Monday welcomed Laurent Kabila's commitment to hold elections in ''the former Zaire'' and said it looked forward to a good relationship with the new regime.</p><p nitf:lede=\"true\">While Zaire's London Embassy expressed satisfaction with the takeover of the country by Kabila's rebels, British Foreign Office minister Tony Lloyd acknowledged the ouster of President Mobutu Sese Seko.</p><p nitf:lede=\"true\">''The end of the Mobutu regime and the advent of a new government in the former Zaire, now the Democratic Republic of Congo, brings important new opportunities and possibilities for the people of that country,'' he said.</p><p>The Foreign Office, pressed on whether this meant Britain officially recognized the Kabila regime, said the United Kingdom only recognized states, not governments. The state has changed its name and Britain has acknowledged that, a spokesman said anonymously.</p><p>''We welcome Mr. Kabila's commitment to convene a constituent assembly and to hold elections,'' a statement from Lloyd said.</p><p>Britain hoped the transitional government would be as broadly based as possible and bring with it ''much needed respect for human rights and the rule of law so long denied to the people of the country,'' Lloyd said.</p><p>The support of the international community would be essential if those plans were to be realized, he said.</p><p>''We look forward to establishing a constructive relationship with the incoming administration,'' Lloyd said. ''The British government will play its full part, with its partners in the United Nations and the European Union, in helping to construct a better future for all the people.''</p><p>At Zaire's London Embassy, erstwhile diplomatic representatives of Mobutu's government said Monday morning it was awaiting instructions from the new regime.</p><p>''We are happy with what happened in Zaire,'' said Charge d'Affaires Nsangolo Iwulu.</p><p>''We are waiting for instructions and hope to get them soon,'' Iwulu said. ''We will act according to our new president's instructions.''</p><p>In the morning he said the embassy was already flying the blue and orange Congo flag, left from the days before Mobutu changed the country's name to Zaire in 1971. There was no sign of it flying at mid-afternoon, however.</p><p>(acw)</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5M90-00BT-M3TW-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"363\"/><timeReceived>10:58 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"19\" month=\"05\" year=\"1997\"><dateText>May 19, 1997; Monday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000D73F</classCode><className>EUROPEAN UNION</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N920000CC</classCode><className>GOVERNMENT &amp; PUBLIC ADMINISTRATION</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD11cm46dG9waWM6MUFEMUQ2QTA1OUZCNEE5RjkzNTA2RERFMUNEOTk1RTI</classCode><className>Governments</className></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000873</classCode><className>HUMAN RIGHTS</className><classCode>Z3VpZD11cm46dG9waWM6NTYzQjQyOTBDNzNDNEI2QUIyOTE2MEYyMTdBQTlDMzI7cGFyZW50Z3VpZD11cm46dG9waWM6MTZCMUU5OEUyREYzNDM4MjkzMkFCQzA0MTM3QUY1NjQ</classCode><className>Human Rights</className></classificationItem><classificationItem score=\"73\"><classCode>ST000DFNA</classCode><className>RULE OF LAW</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"66\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX106</classCode><className>LONDON, ENGLAND</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC329</classCode><className>UNITED KINGDOM</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST00099QF</classCode><className>EUROPEAN UNION MEMBER STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT115</classCode><className>EUROPE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

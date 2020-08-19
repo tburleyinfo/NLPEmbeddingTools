@@ -1,0 +1,69 @@
+{
+  "ResultId": "urn:contentItem:3SP2-9FD0-006F-X4PT-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 196,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2884/A",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-04T00:00:00Z",
+  "Keyword": null,
+  "Title": "Mobutu appoints Tshisekedi as prime minister",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-9FD0-006F-X4PT-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "BBC Summary of World Broadcasts, Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2884/A, 196words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>: After taking cognizance of the amended transitional constitutional act, especially Article 4378, Section 1, and Articles 79 and 81, Section 3; after taking cognizance of the 18th March 1997 decisions by the High Council of the Republic - Transitional Parliament, especially the ruling dismissing Prime Minister Kengo wa Dondo; after taking cognizance of the consensus announced within the required deadline by the members of the Sacred Union of the Radical Opposition and Allies ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 2nd April 1997 appointing a prime minister and head of the <xhtml:span class=\"hit\">transitional government</xhtml:span> : After taking cognizance of the amended transitional constitutional act, especially ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... wa Mulumba is hereby appointed prime minister and head of the <xhtml:span class=\"hit\">transitional government</xhtml:span>. Source: Voix du <xhtml:span class=\"hit\">Zaire</xhtml:span>,  Kinshasa , in French 0500 gmt 3 Apr 97...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... 2nd April 1997 appointing a prime minister and head of the <xhtml:span class=\"hit\">transitional government</xhtml:span> : After taking cognizance of the amended transitional constitutional act, especially ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... wa Mulumba is hereby appointed prime minister and head of the <xhtml:span class=\"hit\">transitional government</xhtml:span>....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; <xhtml:span class=\"hit\">ZAIRE</xhtml:span> ; AL/D2884/A Mobutu appoints Tshisekedi as prime minister [1] Text of ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-9FD0-006F-X4PT-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-9FD0-006F-X4PT-00000-00</id><title>Mobutu appoints Tshisekedi as prime minister</title><published>1997-04-04T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Part 5 Africa, Latin America, and the Caribbean; AFRICA; CENTRAL AFRICA; ZAIRE; AL/D2884/A</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Mobutu appoints Tshisekedi as prime minister</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">[1]</p><p nitf:lede=\"true\">Text of presidential decree issued in Kinshasa on 2nd April, as broadcast by Zairean radio on 3rd April</p><p nitf:lede=\"true\">Decree No 97056 of 2nd April 1997 appointing a prime minister and head of the transitional government: After taking cognizance of the amended transitional constitutional act, especially Article 4378, Section 1, and Articles 79 and 81, Section 3; after taking cognizance of the 18th March 1997 decisions by the High Council of the Republic - Transitional Parliament, especially the ruling dismissing Prime Minister Kengo wa Dondo; after taking cognizance of the consensus announced within the required deadline by the members of the Sacred Union of the Radical Opposition and Allies as contained in the 1st April 1997 minutes of their deliberations, the president of the republic decrees:</p><p nitf:lede=\"true\">Article 1. Mr Tshisekedi wa Mulumba is hereby appointed prime minister and head of the transitional government.</p><section sectionType=\"source\"><bodyText><p>Source: Voix du Zaire, Kinshasa, in French 0500 gmt 3 Apr 97</p></bodyText></section><p>Article 2. The present decree, which supersedes all previous contrary provisions, shall take effect from the signing date.</p><p>Issued in Kinshasa on 2nd April 1997</p><p>Signed, Marshall Mobutu Sese Seko Kuku Ngbendu Wa Za Banga</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">BBCSWB1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-9FD0-006F-X4PT-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10962</dc:source><dc:date dateType=\"last-updated\">2020-03-19</dc:date></dc:metadata><wordCount number=\"196\"/><publicationInfo><publicationName>BBC Summary of World Broadcasts</publicationName><copyright>Copyright 1997 British Broadcasting Corporation</copyright><publicationDate day=\"04\" month=\"04\" year=\"1997\"><dateText>April 4, 1997, Friday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>News Transcripts</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000106</classCode><className>APPOINTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DDEO</classCode><className>PRESIDENTIAL POWERS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX000668</classCode><className>EXECUTIVE MOVES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DM83</classCode><className>CONSTITUTIONAL AMENDMENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"79\"><classCode>STX001424</classCode><className>PUBLIC BROADCASTING</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N515000CC</classCode><className>BROADCASTING INDUSTRY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"90\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR114</classCode><className>CARIBBEAN ISLANDS</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>GR118</classCode><className>LATIN AMERICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "BBC Monitoring: International Reports",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

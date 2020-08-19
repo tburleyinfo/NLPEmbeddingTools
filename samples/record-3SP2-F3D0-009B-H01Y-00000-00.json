@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3D0-009B-H01Y-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 144,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "major news items in leading s. african newspapers",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3D0-009B-H01Y-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 144words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  yesterday began detroying most of its stockpile of 261,423 landmines, with the first 4,700 blown up at the alkantpan test range, northern cape province, the military sources said.  the star --south africa will provide  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> 's <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> led by laurent kabila with technical assistance to resuscitate government structures, deputy president thabo mbeki said yesterday. businesss day --western countries are obliged to invest in southern africa now because of their \"brutal exploitation  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the star --south africa will provide <xhtml:span class=\"hit\">zaire</xhtml:span> 's <xhtml:span class=\"hit\">transitional government</xhtml:span> led by laurent kabila with technical assistance to resuscitate government structures, ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3D0-009B-H01Y-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3D0-009B-H01Y-00000-00</id><title>major news items in leading s. african newspapers</title><published>1997-05-22T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>major news items in leading s. african newspapers</nitf:hl1></nitf:hedline><nitf:dateline>johannesburg, may 22; ITEM NO: 0522120</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">the following are major news items in leading south african newspapers today.  the citizen --south africa yesterday began detroying most of its stockpile of 261,423 landmines, with the first 4,700 blown up at the alkantpan test range, northern cape province, the military sources said.</p><p nitf:lede=\"true\"> the star --south africa will provide zaire's transitional government led by laurent kabila with technical assistance to resuscitate government structures, deputy president thabo mbeki said yesterday.</p><p nitf:lede=\"true\">businesss day --western countries are obliged to invest in southern africa now because of their \"brutal exploitation of the region in the colonial era\", south african president nelson mandela said yesterday.</p><p nitf:lede=\"true\">sowetan --mining accidents kill over 600 miners every year in south africa, according to statistics by the department of labor.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3D0-009B-H01Y-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"144\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"22\" year=\"1997\"><dateText>MAY 22, 1997, THURSDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX000195</classCode><className>BOMBS &amp; EXPLOSIVE DEVICES</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST0008XRK</classCode><className>MINING ACCIDENTS &amp; DISASTERS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST00097CK</classCode><className>LABOR DEPARTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>STX000904</classCode><className>INDUSTRIAL ACCIDENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"89\"><classCode>ST0008XRK</classCode><className>MINING ACCIDENTS &amp; DISASTERS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001141</classCode><className>MILITARY WEAPONS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>ST0008X7V</classCode><className>MINES &amp; MINING</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR108</classCode><className>SOUTHERN AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

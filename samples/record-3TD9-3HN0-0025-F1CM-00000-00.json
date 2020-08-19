@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:3TD9-3HN0-0025-F1CM-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 534,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-03-25T00:00:00Z",
+  "Keyword": null,
+  "Title": "URGENT Mobutu's party raises possibility of sharing power with rebels rebels",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-3HN0-0025-F1CM-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 534words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  countries gathered in the Lome Tuesday to draw up recommendations for Wednesday's Organisation of African Unity summit on the Zairean crisis. bbos/pcj/job AFP KINSHASA , March 25 (AFP) -  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's government has decided to \"share power\" with the rebels who have seized control of one quarter of the giant country,  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's vice-premier Banza Mukalay told AFP Tuesday. Mukalay, who is also vice-president of the ruling party, said the government wanted to bring the rebels into the national <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">unity government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> 's vice-premier Banza Mukalay told AFP Tuesday. Mukalay, who is also ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said the government wanted to bring the rebels into the national <xhtml:span class=\"hit\">unity government</xhtml:span> proposed by Zairean President Mobutu Sese Seko. \"For us, the electoral ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... March 25 (AFP) - <xhtml:span class=\"hit\">Zaire</xhtml:span> 's government has decided to \"share power\" with the rebels who ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... who have seized control of one quarter of the giant country, <xhtml:span class=\"hit\">Zaire</xhtml:span> 's vice-premier Banza Mukalay told AFP Tuesday....</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-3HN0-0025-F1CM-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-3HN0-0025-F1CM-00000-00</id><title>URGENT Mobutu's party raises possibility of sharing power with rebels rebels</title><published>1997-03-25T00:00:00Z</published><updated>2020-08-04T18:50:07Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>URGENT Mobutu's party raises possibility of sharing power with rebels rebels</nitf:hl1></nitf:hedline><nitf:dateline>KINSHASA, March 25 25</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">A senior official in President Mobutu Sese Seko's party on Tuesday raised the possibility of sharing power with Zairean rebels who control a quarter of the country.</p><p nitf:lede=\"true\">bbo/dw/job</p><p nitf:lede=\"true\">AFP</p><p nitf:lede=\"true\">A senior official in Zairean President Mobutu Sese Seko's ruling party on Tuesday raised the possibility of sharing power with Zairean rebels who control a quarter of the country.</p><p nitf:lede=\"true\">The vice-premier of the ruling Popular Movement of the Revolution (MPR) told AFP that the MPR could envisage \"sharing power\" with the rebels led by Laurent-Desire Kabila.  kabila.</p><p>The statement came as the United States and France called for the Zairean government to agree to negotiations with the rebels on the eve of a crucial regional summit in the Togolese capital Lome.</p><p>Foreign ministers from more than a dozen African countries gathered in the Lome Tuesday to draw up recommendations for Wednesday's Organisation of African Unity summit on the Zairean crisis.</p><p>bbos/pcj/job</p><p>AFP</p><p>KINSHASA, March 25 (AFP) - Zaire's government has decided to \"share power\" with the rebels who have seized control of one quarter of the giant country, Zaire's vice-premier Banza Mukalay told AFP Tuesday.</p><p>Mukalay, who is also vice-president of the ruling party, said the government wanted to bring the rebels into the national unity government proposed by Zairean President Mobutu Sese Seko.</p><p>\"For us, the electoral process should not be interrupted. The leaders should be elected by the people. No-one has won the elections.</p><p>\"That is why we have decided to share power, including with the rebels, during the transition period,\" he said in an interview here.</p><p>\"A ceasefire, the elections and sharing power should be discussed with the rebellion,\" he added.</p><p>The statement came as the United States and France called for the Zairean government to agree to negotiations with the rebels on the eve of a crucial regional summit in the Togolese capital Lome.</p><p>Foreign ministers from more than a dozen African countries gathered in the Lome Tuesday to draw up recommendations for Wednesday's Organisation of African Unity summit on the Zairean crisis.</p><p>bbos/pcj/job</p><p>AFP afp</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-3HN0-0025-F1CM-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"534\"/><timeReceived>2518 2518</timeReceived><timeReceived>25:18 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"03\" day=\"25\" year=\"1997\"><dateText>March 25, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"56\"><className>ORGANIZATION OF AFRICAN UNITY  </className></classificationItem><classificationItem score=\"56\"><className> AFRICAN UNION </className></classificationItem><classificationItem score=\"56\"><className> ORGANIZATION OF AFRICAN UNITY </className></classificationItem><classificationItem><className>  56%);</className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"56\"><className>ORGANIZATION OF AFRICAN UNITY  </className></classificationItem><classificationItem score=\"56\"><className> AFRICAN UNION </className></classificationItem><classificationItem score=\"56\"><className> ORGANIZATION OF AFRICAN UNITY </className></classificationItem><classificationItem><className>  56%);</className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"75\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"89\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"88\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST0008ZF6</classCode><className>INTERVIEWS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"94\"><classCode>GX324</classCode><className>LOME, TOGO</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC560</classCode><className>TOGO</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

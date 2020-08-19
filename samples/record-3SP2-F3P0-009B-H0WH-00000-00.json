@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3P0-009B-H0WH-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 189,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-20T00:00:00Z",
+  "Keyword": null,
+  "Title": "major news items in leading kenyan newspapers",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3P0-009B-H0WH-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 189words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  kabila is under heavy pressure from west powers to move speedily from military victory to a pluralist democracy embracing all political factions in the country.  --the u.n. food and agriculture organization (fao) has warned of a serious food crisis in the great lakes and east african regions due to a prolonged drought and civil strife. daily nation -- <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> 's new leader laurent kabila was closeted with his aides on monday in lubumbashi on the eve of the announcement of a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... due to a prolonged drought and civil strife. daily nation -- <xhtml:span class=\"hit\">zaire</xhtml:span> 's new leader laurent kabila was closeted with his aides on ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... monday in lubumbashi on the eve of the announcement of a <xhtml:span class=\"hit\">transitional government</xhtml:span> to rule this vast country. --mobutu sese seko was resting in ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3P0-009B-H0WH-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3P0-009B-H0WH-00000-00</id><title>major news items in leading kenyan newspapers</title><published>1997-05-20T00:00:00Z</published><updated>2020-08-04T18:50:43Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>major news items in leading kenyan newspapers</nitf:hl1></nitf:hedline><nitf:dateline>nairobi, may 20; ITEM NO: 0520107</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">the following are major news items in leading kenyan newspapers today.</p><p nitf:lede=\"true\">kenya times --zairean leader kabila is under heavy pressure from west powers to move speedily from military victory to a pluralist democracy embracing all political factions in the country.  --the u.n. food and agriculture organization (fao) has warned of a serious food crisis in the great lakes and east african regions due to a prolonged drought and civil strife.</p><p nitf:lede=\"true\">daily nation --zaire's new leader laurent kabila was closeted with his aides on monday in lubumbashi on the eve of the announcement of a transitional government to rule this vast country.</p><p>--mobutu sese seko was resting in a residence belonging to his old friend, togolese leader gnassingbe eyadema, the togolese government sources said.</p><p>east african standard --a study for tariff harmonization in kenya, tanzania and uganda will kick off later this month, sam turyamuhika, chairman of the uganda revenue authority has announced.  --kabila's soldiers are sealing their hold on the zairean capital of kinshasa with a mix of discipline and brutality.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3P0-009B-H0WH-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"189\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"20\" year=\"1997\"><dateText>MAY 20, 1997, TUESDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"58\"><className>FOOD &amp; AGRICULTURE ORGANIZATION OF THE UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>FOOD &amp; AGRICULTURE ORGANIZATION OF THE UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CA</classCode><className>AGRICULTURE DEPARTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000CEFJ</classCode><className>FOOD CRISES &amp; SHORTAGES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N813940GM</classCode><className>POLITICAL ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"53\"><classCode>STX001673</classCode><className>TARIFFS &amp; DUTIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"78\"><classCode>ST00097CA</classCode><className>AGRICULTURE DEPARTMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000CEFJ</classCode><className>FOOD CRISES &amp; SHORTAGES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"74\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GR104</classCode><className>EASTERN AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC560</classCode><className>TOGO</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC383</classCode><className>TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

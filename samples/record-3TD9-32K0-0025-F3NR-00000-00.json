@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TD9-32K0-0025-F3NR-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 467,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-06-01T00:00:00Z",
+  "Keyword": null,
+  "Title": "Moi, Mkapa urge the world to help Kabila rebuild former Zaire zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-32K0-0025-F3NR-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 467words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... Moi, Mkapa urge the world to help Kabila rebuild former  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span><xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> NAIROBI, June 1 1 Presidents Daniel arap Moi of  Kenya  and Benjamin Mkapa of Tanzania on Sunday appealed to the international community to help the former  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's new President Laurent Kabila rebuild his country. A joint communique issued at the end of Mkapa's four-day official vist to  Kenya  said the two leaders \"reviewed developments in the Great Lakes Region and welcomed the newly formed <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> of the  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... developments in the Great Lakes Region and welcomed the newly formed <xhtml:span class=\"hit\">transitional government</xhtml:span> of the Democratic Republic of Congo. congo. \"They appealed to the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Moi, Mkapa urge the world to help Kabila rebuild former <xhtml:span class=\"hit\">Zaire</xhtml:span><xhtml:span class=\"hit\">zaire</xhtml:span> NAIROBI, June 1 1 Presidents Daniel arap Moi of  Kenya...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-32K0-0025-F3NR-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-32K0-0025-F3NR-00000-00</id><title>Moi, Mkapa urge the world to help Kabila rebuild former Zaire zaire</title><published>1997-06-01T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Moi, Mkapa urge the world to help Kabila rebuild former Zairezaire</nitf:hl1></nitf:hedline><nitf:dateline>NAIROBI, June 1 1</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Presidents Daniel arap Moi of Kenya and Benjamin Mkapa of Tanzania on Sunday appealed to the international community to help the former Zaire's new President Laurent Kabila rebuild his country.</p><p nitf:lede=\"true\">A joint communique issued at the end of Mkapa's four-day official vist to Kenya said the two leaders \"reviewed developments in the Great Lakes Region and welcomed the newly formed transitional government of the Democratic Republic of Congo.  congo.</p><p>\"They appealed to the international community to assist President Laurent-Desire Kabila and his government in rebuilding the devastated country and realising the aspirations of its people,\" it added.</p><p>Kabila's troops marched into Kinshasa on May 17 after former president Mobutu Sese Seko abandoned leadership and fled the country.</p><p>Moi and Mkapa also expressed concern that little progress had been made in trying to resolve the ethnic conflict in strife-torn Burundi.</p><p>Fighting in the three-and-a-half-year-old Burundian civil war has intensified in recent weeks despite peace talks in Rome between representatives of Pierre Buyoya, a Tutsi who seized power in a bloodless putsch in July last year, and the main rebel organisation, the National Council for the Defence of Democracy (CNDD), led by former interior minister Leonard Nyangoma.</p><p>Kenya and Tanzania also agreed to remove all trade barriers between them and to step up cooperation in the fields of immigration, education, culture and transport, the communique added.</p><p>Meanwhile, Moi has honoured Mkapa with Kenya's highest national medal.</p><p>Mkapa was awarded the Commander of the Golden Heart medal when he attended celebrations to mark the anniversary of internal self-government from Britain on June 1, 1963, the first move towards full independence six months later.</p><p>jnm/ss ss</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-32K0-0025-F3NR-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"467\"/><timeReceived>0111 0111</timeReceived><timeReceived>01:11 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"06\" day=\"01\" year=\"1997\"><dateText>June 01, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"89\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000D9R3</classCode><className>ETHNIC CONFLICTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000A7IS</classCode><className>ASSOCIATIONS &amp; ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX000887</classCode><className>IMMIGRATION</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000D15W</classCode><className>THIS DAY IN HISTORY</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX000093</classCode><className>ANNIVERSARIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"57\"><classCode>GR213</classCode><className>MIDWEST USA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC383</classCode><className>TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

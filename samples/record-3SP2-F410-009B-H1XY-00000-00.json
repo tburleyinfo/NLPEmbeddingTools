@@ -1,0 +1,77 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F410-009B-H1XY-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 224,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-17T00:00:00Z",
+  "Keyword": null,
+  "Title": "oau official welcomes end of civil war in zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F410-009B-H1XY-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 224words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> addis ababa , may 17; ITEM NO: 0517221 salim ahmed salim, the secretary general of the  organization of african unity  (oau), today welcomed the end of civil war in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span>.  in a statement on the latest developments in  kinshasa , salim said, ''i am particularly relieved and gratified that the entry of the forces of the alliance of democratic forces for the liberation of congo/<xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> (adlf) in  kinshasa  have reportedly been fairly smooth, and relative stability is beginning to return, '' said ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the alliance of democratic forces for the liberation of congo/ <xhtml:span class=\"hit\">zaire</xhtml:span> (adlf) in kinshasa have reportedly been fairly smooth, and relative stability ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... peace.'' he expressed the hope that kabila will form a broadly-based <xhtml:span class=\"hit\">transitional government</xhtml:span> , incorporating other important elements of the congolese/zairean society. salim said: ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... ultimately at the end of the transition, the people of congo/ <xhtml:span class=\"hit\">zaire</xhtml:span> can decide through the ballot their own destiny.'' ''for the moment, we look forward to a new congo/<xhtml:span class=\"hit\">zaire</xhtml:span> which can play a crucial role, not only in the affairs ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... (oau), today welcomed the end of civil war in <xhtml:span class=\"hit\">zaire</xhtml:span> . in a statement on the latest developments in kinshasa , ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... of the alliance of democratic forces for the liberation of congo/ <xhtml:span class=\"hit\">zaire</xhtml:span> (adlf) in kinshasa have reportedly been fairly smooth, and relative stability ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... peace.'' he expressed the hope that kabila will form a broadly-based <xhtml:span class=\"hit\">transitional government</xhtml:span> , incorporating other important elements of the congolese/zairean society. salim said: ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... ultimately at the end of the transition, the people of congo/ <xhtml:span class=\"hit\">zaire</xhtml:span> can decide through the ballot their own destiny.'' ''for the moment, we look forward to a new congo/<xhtml:span class=\"hit\">zaire</xhtml:span> which can play a crucial role, not only in the affairs ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F410-009B-H1XY-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F410-009B-H1XY-00000-00</id><title>oau official welcomes end of civil war in zaire</title><published>1997-05-17T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>oau official welcomes end of civil war in zaire</nitf:hl1></nitf:hedline><nitf:dateline>addis ababa, may 17; ITEM NO: 0517221</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">salim ahmed salim, the secretary general of the organization of african unity (oau), today welcomed the end of civil war in zaire.  in a statement on the latest developments in kinshasa, salim said, ''i am particularly relieved and gratified that the entry of the forces of the alliance of democratic forces for the liberation of congo/zaire (adlf) in kinshasa have reportedly been fairly smooth, and relative stability is beginning to return, '' said an oau press release.  salim said, \"kabila and the adlf have won the civil war and the challenge before them now is to win and consolidate the peace.'' he expressed the hope that kabila will form a broadly-based transitional government, incorporating other important elements of the congolese/zairean society.  salim said: ''i am confident that kabila and the new administration he is about to form, will, in addition to meeting the immediate challenges, be laying the ground for the process of democratization to unfold in a serious and purposeful manner so that ultimately at the end of the transition, the people of congo/zaire can decide through the ballot their own destiny.'' ''for the moment, we look forward to a new congo/zaire which can play a crucial role, not only in the affairs of the region, but the continent as a whole,'' salim said.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F410-009B-H1XY-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"224\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"17\" year=\"1997\"><dateText>MAY 17, 1997, SATURDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"84\"><className>ORGANIZATION OF AFRICAN UNITY  </className></classificationItem><classificationItem score=\"84\"><className> AFRICAN UNION </className></classificationItem><classificationItem score=\"84\"><className> ORGANIZATION OF AFRICAN UNITY </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"84\"><className>ORGANIZATION OF AFRICAN UNITY  </className></classificationItem><classificationItem score=\"84\"><className> AFRICAN UNION </className></classificationItem><classificationItem score=\"84\"><className> ORGANIZATION OF AFRICAN UNITY </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000A7IS</classCode><className>ASSOCIATIONS &amp; ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"92\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"96\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

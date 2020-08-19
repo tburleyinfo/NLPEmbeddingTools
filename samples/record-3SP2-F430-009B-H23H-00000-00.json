@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F430-009B-H23H-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 180,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-16T00:00:00Z",
+  "Keyword": null,
+  "Title": "major news items in leading kenyan newspapers",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F430-009B-H23H-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 180words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... east african standard --the zairean government said on thursday it was ready to continue the search for a peaceful solution to  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> 's civil war, despite the abrupt cancellation of the latest round of peace talks.  -- u.s.  secretary of state madeleine albright said on thursday that mobutu is looking for a way to yield power to a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>. she expressed disappointment in the latest collapse of peace talks. ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... mobutu is looking for a way to yield power to a <xhtml:span class=\"hit\">transitional government</xhtml:span> . she expressed disappointment in the latest collapse of peace talks. ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F430-009B-H23H-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F430-009B-H23H-00000-00</id><title>major news items in leading kenyan newspapers</title><published>1997-05-16T00:00:00Z</published><updated>2020-08-04T18:50:44Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>major news items in leading kenyan newspapers</nitf:hl1></nitf:hedline><nitf:dateline>nairobi, may 16; ITEM NO: 0516155</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">the following are major news items in leading kenyan newspapers today.</p><p nitf:lede=\"true\">kenya times --u.n. security council on thursday expressed concern about rwanda's deteriorating prison conditions and poor judicial system and called on the government to improve them.  daily nation --zairean president motutu sese seko returned to his frightened capital kinshasa on thursday after efforts to stage last-ditch peace talks with rebel leader laurent kabila collapsed.  --uganda on thursday dismissed the french newspaper claim that it helped train the \"tutsi region\" of 15,000 strong fighters in a bid to help oust ailing mobutu.</p><p nitf:lede=\"true\">east african standard --the zairean government said on thursday it was ready to continue the search for a peaceful solution to zaire's civil war, despite the abrupt cancellation of the latest round of peace talks.  --u.s. secretary of state madeleine albright said on thursday that mobutu is looking for a way to yield power to a transitional government. she expressed disappointment in the latest collapse of peace talks.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F430-009B-H23H-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"180\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"16\" year=\"1997\"><dateText>MAY 16, 1997, FRIDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"84\"><className>UNITED NATIONS SECURITY COUNCIL  </className></classificationItem><classificationItem score=\"84\"><className> UNITED NATIONS SECURITY COUNCIL </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"84\"><className>UNITED NATIONS SECURITY COUNCIL  </className></classificationItem><classificationItem score=\"84\"><className> UNITED NATIONS SECURITY COUNCIL </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Civil Rights Law</className><classCode>Z3VpZD11cm46dG9waWM6NURDOUM5MEJFQUZGNEFBMDgzMkM0RTgwODdDNTMxREM7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Prison Officials</className><classCode>Z3VpZD11cm46dG9waWM6OEI4RDRGRjZCNDIyNDQ3RkEyRTE0ODU4QkQ3REQ2NTI7cGFyZW50Z3VpZD11cm46dG9waWM6NTcwRjREMkY2QzBGNDhEMjg0NEM3RUI1QTA5RTlGRjc</classCode></classificationItem></classificationItem><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"59\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem><classificationItem><className>Military &amp; Veterans Law</className><classCode>Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>General Overview</className><classCode>Z3VpZD11cm46dG9waWM6RkE4OUI5RkU3RTkzNDAxQ0EyMEM3OEZGNDc2MzJDRDU7cGFyZW50Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"93\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"91\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR104</classCode><className>EASTERN AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

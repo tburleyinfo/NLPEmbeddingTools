@@ -1,0 +1,53 @@
+{
+  "ResultId": "urn:contentItem:3RPR-R9Y0-0094-N46X-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 204,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International News",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-09T00:00:00Z",
+  "Keyword": null,
+  "Title": "U.S. pressing Zaire's Mobutu to resign",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RPR-R9Y0-0094-N46X-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Deutsche Presse-Agentur, International News, 204words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... International News U.S.  pressing  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's Mobutu to resign Washington  The  U.S.  government on Wednesday stepped up pressure on longtime ally and Zairean President Mobutu Sese Seko to resign, urging him to form a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> aimed at ending the country's brewing civil war.  White House spokesman Michael McCurry stopped short of calling for Mobutu's resignation, but said Mobutu is \"not the man to lead  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  into its new chapter in history\". He added that Mobutu \"is about to become  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... President Mobutu Sese Seko to resign, urging him to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> aimed at ending the country's brewing civil war. White House spokesman ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RPR-R9Y0-0094-N46X-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RPR-R9Y0-0094-N46X-00000-00</id><title>U.S. pressing Zaire's Mobutu to resign</title><published>1997-04-09T00:00:00Z</published><updated>2020-08-04T18:51:57Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International News</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>U.S. pressing Zaire's Mobutu to resign</nitf:hl1></nitf:hedline><nitf:dateline>Washington</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\"> The U.S. government on Wednesday stepped up pressure on longtime ally and Zairean President Mobutu Sese Seko to resign, urging him to form a transitional government aimed at ending the country's brewing civil war.</p><p nitf:lede=\"true\"> White House spokesman Michael McCurry stopped short of calling for Mobutu's resignation, but said Mobutu is \"not the man to lead Zaire into its new chapter in history\".</p><p>He added that Mobutu \"is about to become a creature of history.\"</p><p> The U.S. position has been communicated to the Zairean leader, who has had U.S. backing for the last quarter century, over the past few weeks by several African leaders, according to a Washington Post report citing a source close to the Mobutu family.</p><p> Earlier this week, U.S. Assistant Secretary of State for African Affairs George Moose labelled the Mobutu regime as \"bankrupt\" and a \"thing of the past\".</p><p> Mobutu, 66, who is reported to be gravely ill with prostate cancer, has so far not taken the U.S. advice.</p><p> Zairean rebels, led by Laurent Kabila, on Wednesday captured the country's second-largest city, Lubumbashi, in their continued push to seize the nation, while Mobutu has struggled to consolidate political control in the capital Kinshasa.  dpa cm</p><note noteType=\"other\"><bodyText><p>Eds: updates with quote, dropping attribution</p></bodyText></note></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">DPA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RPR-R9Y0-0094-N46X-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">144245</dc:source><dc:date dateType=\"last-updated\">2018-06-18</dc:date></dc:metadata><wordCount number=\"204\"/><timeReceived>BC Cycle  16:46 Central European Time</timeReceived><publicationInfo><publicationName>Deutsche Presse-Agentur</publicationName><copyright>Copyright 1997 Deutsche Presse-Agentur</copyright><publicationDate day=\"09\" month=\"04\" year=\"1997\"><dateText>April 9, 1997, Wednesday,</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DLOJ</classCode><className>GOVERNMENT ADVISORS &amp; MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"54\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"52\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"53\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "dpa international (Englischer Dienst)",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

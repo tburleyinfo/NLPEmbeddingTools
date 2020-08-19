@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TD9-34P0-0025-F45N-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 334,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-19T00:00:00Z",
+  "Keyword": null,
+  "Title": "Britain hopes Kabila will ensure discipline and stability stability",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-34P0-0025-F45N-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 334words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>  -- now the Democratic Republic of Congo -- brings important new opportunities and possibilities for the people,\" Tony Lloyd, minister of state for foreign and Commonwealth affairs, said in a statement. \"We look to Mr. Kabila to ensure decent treatment for the refugees in his country and full access to them by humanitarian agencies now that the fighting is over,\" it said. It added that  Britain  would seek \"a constructive relationship\" with the new government, and welcomed Kabila's \"commitment ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... convene a constituent assembly and to hold elections.\" \"We hope the <xhtml:span class=\"hit\">transitional government</xhtml:span> … will bring with it the much needed respect for human ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... regime and the advent of a new government in the former <xhtml:span class=\"hit\">Zaire</xhtml:span> -- now the Democratic Republic of Congo -- brings important new ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-34P0-0025-F45N-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-34P0-0025-F45N-00000-00</id><title>Britain hopes Kabila will ensure discipline and stability stability</title><published>1997-05-19T00:00:00Z</published><updated>2020-08-04T18:50:43Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Britain hopes Kabila will ensure discipline and stability stability</nitf:hl1></nitf:hedline><nitf:dateline>LONDON, May 19 19</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Britain on Monday welcomed the changeover in power in Kinshasa \"without widespread violence,\" and hoped Laurent Kabila would \"ensure discipline and stability and promote reconciliation in the difficult days ahead.\"</p><p nitf:lede=\"true\">Kabila's forces Sunday took control of the Zairean capital as residents celebrated the end of 32 years of dictatorship under Mobutu Sese Seko.  seko.</p><p>\"The end of the Mobutu regime and the advent of a new government in the former Zaire -- now the Democratic Republic of Congo -- brings important new opportunities and possibilities for the people,\" Tony Lloyd, minister of state for foreign and Commonwealth affairs, said in a statement.</p><p>\"We look to Mr. Kabila to ensure decent treatment for the refugees in his country and full access to them by humanitarian agencies now that the fighting is over,\" it said.</p><p>It added that Britain would seek \"a constructive relationship\" with the new government, and welcomed Kabila's \"commitment to convene a constituent assembly and to hold elections.\"</p><p>\"We hope the transitional government … will bring with it the much needed respect for human rights and the rule of law so long denied to the people of the country,\" said Lloyd's statement.</p><p>It added, \"The British government will play its full part, with its partners in the United States and the European Union, in helping to construct a better future for all the people.\"</p><p>aln/bm bm</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-02-28</dc:date></dc:metadata><wordCount number=\"334\"/><timeReceived>1913 1913</timeReceived><timeReceived>19:13 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"19\" year=\"1997\"><dateText>May 19, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"54\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"54\"><className> EUROPEAN UNION </className></classificationItem><classificationItem><className>  54%);</className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"54\"><className>EUROPEAN UNION  </className></classificationItem><classificationItem score=\"54\"><className> EUROPEAN UNION </className></classificationItem><classificationItem><className>  54%);</className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"79\"><classCode>ST000D73F</classCode><className>EUROPEAN UNION</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"75\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DFNA</classCode><className>RULE OF LAW</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>STX000873</classCode><className>HUMAN RIGHTS</className><classCode>Z3VpZD11cm46dG9waWM6NTYzQjQyOTBDNzNDNEI2QUIyOTE2MEYyMTdBQTlDMzI7cGFyZW50Z3VpZD11cm46dG9waWM6MTZCMUU5OEUyREYzNDM4MjkzMkFCQzA0MTM3QUY1NjQ</classCode><className>Human Rights</className></classificationItem><classificationItem score=\"70\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"69\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"73\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"93\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC329</classCode><className>UNITED KINGDOM</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>ST00099QF</classCode><className>EUROPEAN UNION MEMBER STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

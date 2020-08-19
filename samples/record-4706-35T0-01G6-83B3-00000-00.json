@@ -1,0 +1,65 @@
+{
+  "ResultId": "urn:contentItem:4706-35T0-01G6-83B3-00000-00",
+  "Jurisdiction": "U.S. Federal; International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 274,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "FOREIGN GENERAL NEWS",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-06T00:00:00Z",
+  "Keyword": null,
+  "Title": "PM-Zaire, DL Bgt ; Day Lead Budget",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a4706-35T0-01G6-83B3-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "The Canadian Press (CP), FOREIGN GENERAL NEWS, 274words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, said the soldiers were mainly those who fled from Gemena and Businga as rebels approached. He said looting began Monday. The source said even some members of Mobutu's elite presidential guard drawn from his Ngbandi tribe and related ethnic groups from his Equateur region joined in the looting - usually an indicator in that a place is about to fall. \"They have gone on rampage in  Gbadolite . They started looting on Monday and we understand the place is now thoroughly looted,'' said the source. ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in the next day or two. U.S. envoy Bill Richardson urged <xhtml:span class=\"hit\">Zaire</xhtml:span>'s rebel leader not to take  Kinshasa  by force and suggested the creation of a <xhtml:span class=\"hit\">transitional government</xhtml:span>. Richardson, U.S. ambassador to the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... said today. The source, who closely monitors the civil war in <xhtml:span class=\"hit\">Zaire</xhtml:span> , said the soldiers were mainly those who fled from Gemena ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... FOREIGN GENERAL NEWS PM- <xhtml:span class=\"hit\">Zaire</xhtml:span>, DL Bgt ; Day Lead Budget Zairian troops loot town as rebels approach From Reuter- AP LUBUMBASHI ,  <xhtml:span class=\"hit\">Zaire</xhtml:span> (CP) - Zairian government soldiers, retreating from rebel advances, have gone ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... thoroughly looted,'' said the source. The rebels are closing in on <xhtml:span class=\"hit\">Zaire</xhtml:span> 's capital Kinshasa and Gbadolite , an army outpost well-equipped with ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:4706-35T0-01G6-83B3-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:4706-35T0-01G6-83B3-00000-00</id><title>PM-Zaire, DL Bgt ; Day Lead Budget</title><published>1997-05-06T00:00:00Z</published><updated>2020-08-04T18:52:36Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>FOREIGN GENERAL NEWS</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>PM-Zaire, DL Bgt ; Day Lead Budget</nitf:hl1></nitf:hedline></nitf:body.head><nitf:body.content><bodyText><p>Zairian troops loot town as rebels approach</p><p nitf:lede=\"true\">From Reuter-AP</p><p nitf:lede=\"true\">LUBUMBASHI, Zaire (CP) - Zairian government soldiers, retreating from rebel advances, have gone on rampage and looted Gbadolite where President Mobutu Sese Seko's northern jungle palace is located, a regional military source said today.</p><p nitf:lede=\"true\">The source, who closely monitors the civil war in Zaire, said the soldiers were mainly those who fled from Gemena and Businga as rebels approached.</p><p>He said looting began Monday.</p><p>The source said even some members of Mobutu's elite presidential guard drawn from his Ngbandi tribe and related ethnic groups from his Equateur region joined in the looting - usually an indicator in that a place is about to fall.</p><p>\"They have gone on rampage in Gbadolite. They started looting on Monday and we understand the place is now thoroughly looted,'' said the source.</p><p>The rebels are closing in on Zaire's capital Kinshasa and Gbadolite, an army outpost well-equipped with military hardware. The rebels said their forces will be in Kinshasa in the next day or two.</p><p>U.S. envoy Bill Richardson urged Zaire's rebel leader not to take Kinshasa by force and suggested the creation of a transitional government.</p><p>Richardson, U.S. ambassador to the United Nations, made his case Monday during meetings with rebel leader Laurent Kabila and his loyal chiefs who have backed the seven-month offensive against Mobutu.</p><p>Kabila has given Mobutu eight days to resign or be chased from Kinshasa.</p><p>\"He has to choose to relinquish power and he is safeguarded, or he perishes with his power,'' Kabila said in the southeastern stronghold Lubumbashi, a day after unsuccessful peace talks with Mobutu.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:identifier identifierScheme=\"DOC-ID\">CAPRSS-199705060030</dc:identifier><dc:source sourceScheme=\"royaltyReportingKey\">CAPRSS1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:4706-35T0-01G6-83B3-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">253760</dc:source><dc:date dateType=\"last-updated\">2020-06-24</dc:date></dc:metadata><wordCount number=\"274\"/><publicationInfo><publicationName>The Canadian Press (CP)</publicationName><copyright>Copyright 1997 Press News Limited, All Rights Reserved</copyright><publicationDate day=\"06\" month=\"05\" year=\"1997\"><dateText>May 6, 1997 Tuesday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"55\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"55\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"90\"><classCode>ST000DPIZ</classCode><className>LOOTING</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000CNTG</classCode><className>CIVIL WAR</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>STX001480</classCode><className>RESIGNATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"68\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem><classificationItem score=\"55\"><classCode>ST0009P2U</classCode><className>ETHNIC GROUPS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"90\"><classCode>N928110MM</classCode><className>ARMED FORCES</className><classCode>Z3VpZD11cm46dG9waWM6M0M2RDE1RTlBNDk4NDkxRDlBMTkwQ0JCNERDNTA5NUY7cGFyZW50Z3VpZD11cm46dG9waWM6NzM1OUEyRDNERTdENEU2MTk3RTlCNEJCRUY0NjRGRjQ</classCode><className>Armed Forces</className></classificationItem><classificationItem score=\"78\"><classCode>ST00097CN</classCode><className>ARMIES</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"73\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"91\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"97\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Canadian Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ResultId": "urn:contentItem:3T8G-8970-000Y-K3W6-00000-00",
+  "Jurisdiction": "U.S. Federal; New York",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "By BARRY SCHWEID, AP Diplomatic Writer",
+  "WordLength": 513,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "Washington Dateline",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-08T00:00:00Z",
+  "Keyword": null,
+  "Title": "U.S. unsure whether rebels will take Kinshasa by force",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3T8G-8970-000Y-K3W6-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Washington Dateline, 513words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> - one that presumably would include Mobutu ministers. The hope is that that will lead to elections and a free-market economy in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. But what about Kabila? American officials this week tried to take comfort in statements they said they had seen in which he affirmed an interest in democracy and capitalism. Burns said Thursday these were the U.S. objectives in <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, a large country with rich resources: \"First of all, end the fighting, achieve a cease-fire; second, to ensure ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the United States is still pushing for negotiations to form a <xhtml:span class=\"hit\">transitional government</xhtml:span> - one that presumably would include Mobutu ministers. The hope is ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... that that will lead to elections and a free-market economy in <xhtml:span class=\"hit\">Zaire</xhtml:span>....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... and capitalism. Burns said Thursday these were the U.S. objectives in <xhtml:span class=\"hit\">Zaire</xhtml:span> , a large country with rich resources: \"First of all, end ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... respect for human rights, the human rights of the citizens of <xhtml:span class=\"hit\">Zaire</xhtml:span> ; and third, to try to promote, along with South Africa ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... victory seems likely in the coming days. But the future of <xhtml:span class=\"hit\">Zaire</xhtml:span> is at risk.\" The United States has faulted Kabila for the ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... avoid bloodshed when his forces make their expected triumphal entry into <xhtml:span class=\"hit\">Zaire</xhtml:span> 's capital. But no one here is sure of that. Kabila ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in Libreville , Gabon , and he may be gone from <xhtml:span class=\"hit\">Zaire</xhtml:span> for good. \"We don't know if the president will be returning ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "SimilarDocuments@odata.navigationLink": "News?$search=pid=%22urn:contentItem:3RY4-5H20-00BT-M0C8-00000-00%22%20OR%20pid=%22urn:contentItem:3T8G-8970-000Y-K3W6-00000-00%22",
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3T8G-8970-000Y-K3W6-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3T8G-8970-000Y-K3W6-00000-00</id><title>U.S. unsure whether rebels will take Kinshasa by force</title><published>1997-05-08T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>Washington Dateline</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>U.S. unsure whether rebels will take Kinshasa by force</nitf:hl1></nitf:hedline><nitf:byline>By BARRY SCHWEID, AP Diplomatic Writer</nitf:byline><nitf:dateline>WASHINGTON</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The United States hopes rebel leader Laurent Kabila will avoid bloodshed when his forces make their expected triumphal entry into Zaire's capital. But no one here is sure of that.</p><p nitf:lede=\"true\">Kabila is avoiding a direct reply to American entreaties, including those from U.N. Ambassador Bill Richardson.</p><p>So, for insurance purposes, the United States is hoping for another round of South African-sponsored negotiations between President Mobutu Sese Seko and Kabila, the likely next leader of the central African country.</p><p>Their first meeting was inconclusive. Mobutu, ailing with prostate cancer, subsequently went to a regional summit meeting in Libreville, Gabon, and he may be gone from Zaire for good.</p><p>\"We don't know if the president will be returning to Kinshasa,\" Nicholas Burns, the State Department spokesman, said Thursday. \"This is a decision he, alone, can make.\"</p><p>The rebel forces, meanwhile, advanced on the capital, but did not enter.</p><p>\"The president has no intention of resigning or going into exile,\" Kambala Mututulo, the mining minister, was quoted as saying. \"This is his country. He will not be forced out.\"</p><p>Unquestionably, the United States wants him out. There is no fuss being made, at the moment, over the enormous assets Mobutu, for a long time with U.S. backing, was able to accumulate over 32 years in power.</p><p>Richardson, meanwhile, reported on his talks to officials in France, which has influence in central Africa, and headed home.</p><p>That left the next U.S. step a question mark.</p><p>But lacking a commitment from Kabila not to inflict bloodshed on civilians, the United States is still pushing for negotiations to form a transitional government - one that presumably would include Mobutu ministers.</p><p>The hope is that that will lead to elections and a free-market economy in Zaire.</p><p>But what about Kabila?</p><p>American officials this week tried to take comfort in statements they said they had seen in which he affirmed an interest in democracy and capitalism.</p><p>Burns said Thursday these were the U.S. objectives in Zaire, a large country with rich resources: \"First of all, end the fighting, achieve a cease-fire; second, to ensure respect for human rights, the human rights of the citizens of Zaire; and third, to try to promote, along with South Africa and the United Nations and others, a peaceful transition.\"</p><p>The U.S. spokesman went on:</p><p>\"There's no question that that transition is under way, with the continued march towards Kinshasa of the rebel alliance. That alliance military victory seems likely in the coming days. But the future of Zaire is at risk.\"</p><p>The United States has faulted Kabila for the way refugees in and around Kisangani were treated. In return, the rebel leader offered assurances they would be well-treated.</p><p>The test, Burns said, \"is to make sure that the actions as well as the words of the rebel alliance meet a basic international standard and, we would submit, a standard that the Zairean people would also want to have for their own government … .</p><p>\"Will the rebel alliance proceed in a democratic fashion? We hope it will, and that's where our attentions are directed.\"</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3T8G-8970-000Y-K3W6-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">304478</dc:source><dc:date dateType=\"last-updated\">2020-03-24</dc:date></dc:metadata><wordCount number=\"513\"/><publicationInfo><copyright>Copyright 1997 Associated Press  All Rights Reserved  Associated Press</copyright><publicationDate day=\"08\" month=\"05\" year=\"1997\"><dateText>May 8, 1997, Thursday, AM cycle</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"58\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"58\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"58\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"58\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DM6W</classCode><className>CEASEFIRES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000298</classCode><className>CITIZENSHIP</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX000873</classCode><className>HUMAN RIGHTS</className><classCode>Z3VpZD11cm46dG9waWM6NTYzQjQyOTBDNzNDNEI2QUIyOTE2MEYyMTdBQTlDMzI7cGFyZW50Z3VpZD11cm46dG9waWM6MTZCMUU5OEUyREYzNDM4MjkzMkFCQzA0MTM3QUY1NjQ</classCode><className>Human Rights</className></classificationItem><classificationItem score=\"77\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX000752</classCode><className>FOREIGN POLICY</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"56\"><classCode>STX001417</classCode><className>PROSTATE DISEASE</className><classCode/><className/></classificationItem><classificationItem score=\"55\"><classCode>STX002115</classCode><className>PROSTATE CANCER</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"57\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX118</classCode><className>LIBREVILLE, GABON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"99\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC390</classCode><className>GABON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC317</classCode><className>FRANCE</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "The Associated Press",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

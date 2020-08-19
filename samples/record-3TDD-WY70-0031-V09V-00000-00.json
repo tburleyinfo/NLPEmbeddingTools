@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3TDD-WY70-0031-V09V-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 427,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1995-07-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "Rwanda prepares to mark anniversary of Kigali takeover",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-WY70-0031-V09V-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English, International news, 427words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> -- launched a counter-attack against the Hutu-dominated armed forces and \"Interahamwe\" militia who had gone on a frenzied killing spree. RPF forces left their stronghold in the north of the country to come to the aid of their colleagues in the capital and the rebel advance continued progressively until  Kigali  was finally taken on July 4. The Tutsi-led takeover of power in a country dominated for years by the majority Hutu community provoked a massive exodus of frightened ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... by extremist Hutus, as well as the installation of a national <xhtml:span class=\"hit\">unity government</xhtml:span> last July 19. The war in Rwanda was unleashed after its ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... in the Tanzanian town of Arusha which provided for a power-sharing <xhtml:span class=\"hit\">transitional government</xhtml:span> -- launched a counter-attack against the Hutu-dominated armed forces and \"Interahamwe\" ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Over one million refugees are still languishing in camps in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> . Only southwest Rwanda remained out of the RPF's grasp after ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-WY70-0031-V09V-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-WY70-0031-V09V-00000-00</id><title>Rwanda prepares to mark anniversary of Kigali takeover</title><published>1995-07-03T00:00:00Z</published><updated>2020-08-04T18:49:29Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Rwanda prepares to mark anniversary of Kigali takeover</nitf:hl1></nitf:hedline><nitf:dateline>KIGALI, July 3</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Rwanda Monday prepared for two days of festivities marking the anniversary of the takeover of Kigali by the Tutsi-led Rwandan Patriotic Front (RPF) after three months of genocidal war in the country.</p><p nitf:lede=\"true\">Monday and Tuesday have been declared holidays and big celebrations are planned in the city's Amahoro stadium to mark the July 4 anniversary Tuesday.</p><p nitf:lede=\"true\">The authorities are also planning to commemorate the end of the slaughter in which at least 500,000 Tutsis and moderate Hutus were butchered by extremist Hutus, as well as the installation of a national unity government last July 19. The war in Rwanda was unleashed after its Hutu president Juvenal Habyarimana was killed when his plane crashed as it was about to land at Kigali on April 6, 1994.</p><p>The next day, a contingent of the-then rebel RPF -- in Kigali under 1993 peace accords signed in the Tanzanian town of Arusha which provided for a power-sharing transitional government -- launched a counter-attack against the Hutu-dominated armed forces and \"Interahamwe\" militia who had gone on a frenzied killing spree.</p><p>RPF forces left their stronghold in the north of the country to come to the aid of their colleagues in the capital and the rebel advance continued progressively until Kigali was finally taken on July 4.</p><p>The Tutsi-led takeover of power in a country dominated for years by the majority Hutu community provoked a massive exodus of frightened Hutus. Over one million refugees are still languishing in camps in eastern Zaire.</p><p>Only southwest Rwanda remained out of the RPF's grasp after France set up a \"safe haven\" for refugees as part of its Operation Turquoise, although it was widely believed Hutu extremists were regrouping in the area.</p><p>The safe haven finally melted away after the French, whose presence was always contentious for the RPF, left the country and Rwandan Patriotic Army troops went into the camps to search for extremists. In May, one such incursion resulted in the deaths of hundreds of refugees at the Kibeho refugee camp.</p><p>mgu-at/ca/js</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1995</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-WY70-0031-V09V-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"427\"/><timeReceived>10:03 Eastern Time</timeReceived><publicationInfo><publicationName>Agence France Presse -- English</publicationName><copyright>Copyright 1995 Agence France Presse</copyright><publicationDate month=\"07\" day=\"03\" year=\"1995\"><dateText>July 03, 1995</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"93\"><className>RWANDAN PATRIOTIC FRONT </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"93\"><className>RWANDAN PATRIOTIC FRONT </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Immigration Law</className><classCode>Z3VpZD11cm46dG9waWM6QUI4OEMwN0ExMjQ4NDFBQjkyQTU0NzQzNkM0QUZGRTk7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"85\"><className>Eligibility for Refugee Status</className><classCode>Z3VpZD11cm46dG9waWM6RjFFMzM2M0FCN0QyNDM0QTgzQzQyRTkzRkVBOTg5MzY7cGFyZW50Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX000093</classCode><className>ANNIVERSARIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>ST000D15W</classCode><className>THIS DAY IN HISTORY</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001814</classCode><className>WAR &amp; CONFLICT</className><classCode/><className/></classificationItem><classificationItem score=\"89\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"88\"><classCode>STX001289</classCode><className>PARAMILITARY &amp; MILITIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>ST000D9R3</classCode><className>ETHNIC CONFLICTS</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000D1YA</classCode><className>REFUGEE &amp; RELIEF CAMPS</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>ST000DL49</classCode><className>MASS SHOOTINGS</className><classCode/><className/></classificationItem><classificationItem score=\"69\"><classCode>STX000061</classCode><className>AIRCRAFT ACCIDENTS</className><classCode/><className/></classificationItem><classificationItem score=\"53\"><classCode>STX001758</classCode><className>TREATIES &amp; AGREEMENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"69\"><classCode>STX000061</classCode><className>AIRCRAFT ACCIDENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"93\"><classCode>GX275</classCode><className>KIGALI, RWANDA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"94\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC383</classCode><className>TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

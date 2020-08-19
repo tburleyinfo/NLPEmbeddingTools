@@ -1,0 +1,61 @@
+{
+  "ResultId": "urn:contentItem:3SP2-F3F0-009B-H03S-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 205,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": null,
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-22T00:00:00Z",
+  "Keyword": null,
+  "Title": "s. africa to help zaire's transitional government, mbeki",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3SP2-F3F0-009B-H03S-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Copyright 1997 Xinhua News AgencyXinhua News Agency, 205words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> 's <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span>, mbeki johannesburg, may 22; ITEM NO: 0522172 south african deputy president thabo mbeki has said that his country will provide the <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> of <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">zaire</xhtml:span> led by laurent kabila with technical assistance to resuscitate government structures in the country.  local daily the star quoted mbeki as saying today that the south african government had engaged countries which supported ousted zairean president mobutu sese seko to prevent them from launching any attack.  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">...  <xhtml:span class=\"hit\">transitional government</xhtml:span> , mbeki johannesburg, may 22; ITEM NO: 0522172 south african deputy ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... president thabo mbeki has said that his country will provide the <xhtml:span class=\"hit\">transitional government</xhtml:span> of <xhtml:span class=\"hit\">zaire</xhtml:span> led by laurent kabila with technical assistance to resuscitate government structures ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... leader of alliance of democratic forces for the liberation of congo- <xhtml:span class=\"hit\">zaire</xhtml:span>, proclaimed himself presdient on may 17, renaming <xhtml:span class=\"hit\">zaire</xhtml:span> the democratic republic of congo. south africa has recognized kabila as ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3SP2-F3F0-009B-H03S-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3SP2-F3F0-009B-H03S-00000-00</id><title>s. africa to help zaire's transitional government, mbeki</title><published>1997-05-22T00:00:00Z</published><updated>2020-08-04T18:48:16Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo/></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>s. africa to help zaire's transitional government, mbeki</nitf:hl1></nitf:hedline><nitf:dateline>johannesburg, may 22; ITEM NO: 0522172</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">south african deputy president thabo mbeki has said that his country will provide the transitional government of zaire led by laurent kabila with technical assistance to resuscitate government structures in the country.  local daily the star quoted mbeki as saying today that the south african government had engaged countries which supported ousted zairean president mobutu sese seko to prevent them from launching any attack.  mbeki said south africa was consulting with countries such as morocco, nigeria, togo to try to discourage any move that would further worsen the conflict.  he said the south african delegation had held direct negotiations with the congolese armed forces and urged them to support the process of transition.  according to the deputy president, there was commitment that there would be a broad-based transitional authority in \"the democratic republic of congo\" where kabila's alliance would not be the sole member.  kabila, leader of alliance of democratic forces for the liberation of congo-zaire, proclaimed himself presdient on may 17, renaming zaire the democratic republic of congo.  south africa has recognized kabila as president of the new-born country.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">XINHUA1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3SP2-F3F0-009B-H03S-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">8078</dc:source><dc:date dateType=\"last-updated\">2019-07-11</dc:date></dc:metadata><wordCount number=\"205\"/><publicationInfo><publicationName>Copyright 1997 Xinhua News Agency</publicationName><publicationName>Xinhua News Agency</publicationName><publicationDate month=\"05\" day=\"22\" year=\"1997\"><dateText>MAY 22, 1997, THURSDAY</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"company\"><classificationItem score=\"71\"><className>SICOME SA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"industry\"><classificationItem score=\"71\"><className>SIC2329 MEN'S &amp; BOYS' CLOTHING, NEC </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"71\"><className>SICOME SA </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"50\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"74\"><classCode>GX299</classCode><className>JOHANNESBURG, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC360</classCode><className>MOROCCO</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC334</classCode><className>NIGERIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC560</classCode><className>TOGO</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Xinhua General News Service",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

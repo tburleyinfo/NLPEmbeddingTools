@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TDD-VB90-0031-V41K-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 342,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1996-08-03T00:00:00Z",
+  "Keyword": null,
+  "Title": "Burundi PM vows to win international backing after coup",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TDD-VB90-0031-V41K-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse, International news, 342words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  new prime minister said Saturday he hoped to halt international condemnation of the bloodless coup which brought Tutsi strongman Pierre Buyoya to power and caused neighbouring states to slap economic sanctions on the central African nation. Pascal-Firmin Ndimira, a Hutu, Friday unveiled his <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> which includes ministers from across  Burundi 's ethnic divide. Ndimira is a member of the Tutsi-dominated Union for National Progress (UPRONA), the main opposition to Hutu president Sylvestre  ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the central African nation. Pascal-Firmin Ndimira, a Hutu, Friday unveiled his <xhtml:span class=\"hit\">transitional government</xhtml:span> which includes ministers from across Burundi 's ethnic divide. Ndimira is ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... \"the imposition of economic sanctions,\" over the coup. But Tanzania , <xhtml:span class=\"hit\">Zaire</xhtml:span> ,  Rwanda ,  Kenya ,  Ethiopia ,  Uganda  and ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TDD-VB90-0031-V41K-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TDD-VB90-0031-V41K-00000-00</id><title>Burundi PM vows to win international backing after coup</title><published>1996-08-03T00:00:00Z</published><updated>2020-08-04T18:50:44Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Burundi PM vows to win international backing after coup</nitf:hl1></nitf:hedline><nitf:dateline>BUJUMBURA, Aug 3</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">Burundi's new prime minister said Saturday he hoped to halt international condemnation of the bloodless coup which brought Tutsi strongman Pierre Buyoya to power and caused neighbouring states to slap economic sanctions on the central African nation.</p><p nitf:lede=\"true\">Pascal-Firmin Ndimira, a Hutu, Friday unveiled his transitional government which includes ministers from across Burundi's ethnic divide.</p><p nitf:lede=\"true\">Ndimira is a member of the Tutsi-dominated Union for National Progress (UPRONA), the main opposition to Hutu president Sylvestre Ntibantunganya, who remains holed up in the American embassy after the July 25 coup.</p><p>Ndimira said his new government would make good Buyoya's promise of restoring national unity and saving Burundi from the ethnic violence which has killed tens of thousands of people in the past three years.</p><p>The line-up includes at least eight ministers from Ntibantunganya's Front for Democracy in Burundi (FRODEBU).</p><p>\"No-one has been forced to join the government,\" Ndimira told Radio Burundi, adding \"dialogue and information is the best formula\" to change the views of countries opposed to the new regime.</p><p>Seven African nations met on Wednesday in the northern Tanzanian town of Arusha and decided to exert \"maximum pressure\" on Bujumbura, including \"the imposition of economic sanctions,\" over the coup.</p><p>But Tanzania, Zaire, Rwanda, Kenya, Ethiopia, Uganda and Cameroon are free to decide which sanctions to apply, sources said at the summit.</p><p>Political observers are divided over whether the new government will be able to prevent genocide like that which killed 500,000 people in neighbouring Rwanda in 1994. Rwanda has a similar ethnic mix to Burundi.</p><p>Former Tutsi president Jean-Baptiste Bagaza said Saturdy the coup \"will get the country no-where.\"</p><p>And FRODEBU leader Jean Minani, speaking in Nairobi, said the government was \"worthless, both politically and technically.</p><p>\"It is a government in which only Pierre Buyoya will make decisions, with two or three other people,\" he said.</p><p>sa-at/jl/js</p><p>AFP</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1996</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TDD-VB90-0031-V41K-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"342\"/><timeReceived>03:14 GMT</timeReceived><publicationInfo><publicationName>Agence France Presse</publicationName><copyright>Copyright 1996 Agence France Presse</copyright><publicationDate month=\"08\" day=\"03\" year=\"1996\"><dateText>August 03, 1996</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"legal\"><classificationItem><className>Governments</className><classCode>Z3VpZD11cm46dG9waWM6MjdEQjE4OUJDMzQxNDNEMEI0RTI1QUFCMzJENjEwRTA7cGFyZW50Z3VpZD0</classCode><classificationItem score=\"90\"><className>Relations With Governments</className><classCode>Z3VpZD11cm46dG9waWM6NDYwNzQwQkYzMTI5NEFCMTkyMDM3QzFCNzE2MUE4MUM7cGFyZW50Z3VpZD11cm46dG9waWM6QURCRDNBRjBGRTE0NEFBRUEzNUU1MzFGQjg3MTM4MDI</classCode></classificationItem></classificationItem></classification><classification classificationScheme=\"subject\"><classificationItem score=\"90\"><classCode>STX000420</classCode><className>COUPS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST0009EOQ</classCode><className>PRIME MINISTERS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000D9R3</classCode><className>ETHNIC CONFLICTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921110CC</classCode><className>HEADS OF STATE &amp; GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>STX000587</classCode><className>EMBARGOES &amp; SANCTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"76\"><classCode>ST000DA0C</classCode><className>RACISM &amp; XENOPHOBIA</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"71\"><classCode>ST0009S69</classCode><className>GENOCIDE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"79\"><classCode>GX048</classCode><className>BUJUMBURA, BURUNDI</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>GX183</classCode><className>NAIROBI, KENYA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC523</classCode><className>BURUNDI</className><classCode/><className/></classificationItem><classificationItem score=\"93\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC383</classCode><className>TANZANIA, UNITED REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC359</classCode><className>KENYA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC386</classCode><className>CAMEROON</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC505</classCode><className>ETHIOPIA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC563</classCode><className>UGANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GR102</classCode><className>CENTRAL AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

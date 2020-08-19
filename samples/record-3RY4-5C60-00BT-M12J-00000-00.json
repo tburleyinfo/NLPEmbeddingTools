@@ -1,0 +1,78 @@
+{
+  "ResultId": "urn:contentItem:3RY4-5C60-00BT-M12J-00000-00",
+  "Jurisdiction": "U.S. Federal; New Mexico",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": "GEORGE GEDDA ",
+  "WordLength": 354,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-04-26T00:00:00Z",
+  "Keyword": null,
+  "Title": "Richardson to go to Zaire",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3RY4-5C60-00BT-M12J-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Associated Press International, International news, 354words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>... <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> GEORGE GEDDA  WASHINGTON The Clinton administration has once again called upon the negotiating prowess of U.N. Ambassador Bill Richardson, this time to help promote peace in war-wracked <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>. Richardson will be sent to <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> to meet with rival factions and to help get relief supplies to desperate Rwandan refugees in eastern <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span>, the White House announced Saturday. An official, speaking on condition of anonymity, said Richardson would leave for <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> on Monday. Richardson's latest assignment ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the fighting and to launch serious negotiations to form an inclusive <xhtml:span class=\"hit\">transitional government</xhtml:span> leading to free and full democratic elections,'' White House press secretary ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Ambassador Bill Richardson, this time to help promote peace in war-wracked <xhtml:span class=\"hit\">Zaire</xhtml:span>. Richardson will be sent to <xhtml:span class=\"hit\">Zaire</xhtml:span> to meet with rival factions and to help get relief supplies to desperate Rwandan refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span>, the White House announced Saturday. An official, speaking on condition of anonymity, said Richardson would leave for <xhtml:span class=\"hit\">Zaire</xhtml:span> on Monday....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h3\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... States regarding the humanitarian situation, refugee repatriation and human right in <xhtml:span class=\"hit\">Zaire</xhtml:span> ,'' McCurry said. Since October, Kabila's forces have seized much of ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h4\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... but some officials believe differences between the factions in Angola over <xhtml:span class=\"hit\">Zaire</xhtml:span> are hampering reconciliation. As a congressman from New Mexico , Richardson ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h5\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\r\n  <xhtml:span class=\"hit\">Zaire</xhtml:span> GEORGE GEDDA WASHINGTON The Clinton administration has once again called upon ...</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h6\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Ambassador Bill Richardson, this time to help promote peace in war-wracked <xhtml:span class=\"hit\">Zaire</xhtml:span>....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h7\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... Richardson will be sent to <xhtml:span class=\"hit\">Zaire</xhtml:span> to meet with rival factions and to help get relief supplies to desperate Rwandan refugees in eastern <xhtml:span class=\"hit\">Zaire</xhtml:span> , the ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "SimilarDocuments@odata.navigationLink": "News?$search=pid=%22urn:contentItem:3T7D-PS60-000Y-K3PG-00000-00%22%20OR%20pid=%22urn:contentItem:3RY4-5C60-00BT-M12J-00000-00%22",
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3RY4-5C60-00BT-M12J-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3RY4-5C60-00BT-M12J-00000-00</id><title>Richardson to go to Zaire</title><published>1997-04-26T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>Richardson to go to Zaire</nitf:hl1></nitf:hedline><nitf:byline><author><person><nameText>GEORGE GEDDA </nameText></person></author></nitf:byline><nitf:dateline>WASHINGTON</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">The Clinton administration has once again called upon the negotiating prowess of U.N. Ambassador Bill Richardson, this time to help promote peace in war-wracked Zaire.</p><p nitf:lede=\"true\">Richardson will be sent to Zaire to meet with rival factions and to help get relief supplies to desperate Rwandan refugees in eastern Zaire, the White House announced Saturday.</p><p nitf:lede=\"true\">An official, speaking on condition of anonymity, said Richardson would leave for Zaire on Monday.</p><p>Richardson's latest assignment will have him meeting with President Mobutu Sese Seko in Kinshasa and with rebel leader Laurent Kabila, probably in the eastern city of Kisangani.</p><p>''He will press both sides to agree to halt the fighting and to launch serious negotiations to form an inclusive transitional government leading to free and full democratic elections,'' White House press secretary Mike McCurry said.</p><p>''During the mission, Ambassador Richardson will also underscore the deep concern of the United States regarding the humanitarian situation, refugee repatriation and human right in Zaire,'' McCurry said.</p><p>Since October, Kabila's forces have seized much of the eastern half of the country. Efforts in recent weeks to arrange a meeting between Kabila and Mobutu have failed.</p><p>The administration also is concerned about the fate of up to 100,000 Rwandan refugees in eastern Zaire. In recent weeks, they have been forced from camps in the region and are now scattered over a wide area with no access to food or other necessities.</p><p>Richardson was also to travel to Angola in hopes of persuading officials there to stay out of the Zairian conflict, the U.S.  official said.</p><p>The Angolan government is strongly opposed to Mobutu for his years of backing Angola's UNITA rebels for years. A peace agreement has been reached in Angola but some officials believe differences between the factions in Angola over Zaire are hampering reconciliation.</p><p>As a congressman from New Mexico, Richardson gained renown as a diplomatic trouble-shooter. Last year, he won freedom for three Cuban political prisoners, an American prisoner in North Korea and three international Red Cross workers detained in Sudan.</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">APINTL1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3RY4-5C60-00BT-M12J-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">138211</dc:source><dc:date dateType=\"last-updated\">2020-03-09</dc:date></dc:metadata><wordCount number=\"354\"/><timeReceived>13:15 Eastern Time</timeReceived><publicationInfo><publicationName>Associated Press International</publicationName><copyright>Copyright 1997 Associated Press  All Rights Reserved</copyright><publicationDate day=\"26\" month=\"04\" year=\"1997\"><dateText>April 26, 1997; Saturday</dateText></publicationDate><classification classificationScheme=\"publicationtype\"><classificationItem><className>Newswires &amp; Press Releases</className></classificationItem></classification></publicationInfo><classification classificationScheme=\"language\"><classificationItem classificationScheme=\"lang.english\"><className>ENGLISH</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"organization\"><classificationItem score=\"84\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"84\"><className> UNITED NATIONS </className></classificationItem></classification><classification classificationScheme=\"company\"><classificationItem score=\"84\"><className>UNITED NATIONS  </className></classificationItem><classificationItem score=\"84\"><className> UNITED NATIONS </className></classificationItem></classification></classificationGroup><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"92\"><classCode>ST000DKU4</classCode><className>UNITED NATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N928120JM</classCode><className>EMBASSIES &amp; CONSULATES</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX000950</classCode><className>INTERNATIONAL RELATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>STX001461</classCode><className>REFUGEES</className><classCode>Z3VpZD11cm46dG9waWM6QUM5ODIzNEVDM0VCNDU1OTkyMDZCRUU1Q0ZCMzM4NDM7cGFyZW50Z3VpZD11cm46dG9waWM6M0VDRDc0NDNBMjkwNDJBMEFCOUNGMTU1QzFBRTIyMTk</classCode><className>Refugee Status</className></classificationItem><classificationItem score=\"90\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>ST00097CV</classCode><className>UNITED NATIONS INSTITUTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"90\"><classCode>N921110MM</classCode><className>US PRESIDENTS</className><classCode>Z3VpZD11cm46dG9waWM6QUUxREE5N0M3MEQ4NEY5QkI0MURGRDY3RDM1MUQxRDU7cGFyZW50Z3VpZD11cm46dG9waWM6QkI5QzFFRjAxMEFFNDMxOThENUE1RjVCQUYzQkQ2RjQ</classCode><className>The Presidency</className></classificationItem><classificationItem score=\"89\"><classCode>STX001463</classCode><className>RELIEF ORGANIZATIONS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N928120KM</classCode><className>INTERNATIONAL ASSISTANCE</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>N921120CC</classCode><className>LEGISLATIVE BODIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>STX001456</classCode><className>REBELLIONS &amp; INSURGENCIES</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DH0Q</classCode><className>AGREEMENTS</className><classCode/><className/></classificationItem><classificationItem score=\"78\"><classCode>ST000DL5Q</classCode><className>TYPES OF GOVERNMENT</className><classCode/><className/></classificationItem><classificationItem score=\"77\"><classCode>ST000DL8S</classCode><className>POLITICAL DETAINEES</className><classCode/><className/></classificationItem><classificationItem score=\"74\"><classCode>STX000246</classCode><className>CAMPAIGNS &amp; ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>ST000DL87</classCode><className>DEMOCRACIES</className><classCode/><className/></classificationItem><classificationItem score=\"72\"><classCode>ST000DHZS</classCode><className>RESETTLEMENT &amp; REPATRIATION</className><classCode/><className/></classificationItem><classificationItem score=\"70\"><classCode>ST00097CZ</classCode><className>ELECTIONS</className><classCode/><className/></classificationItem><classificationItem score=\"50\"><classCode>STX001758</classCode><className>TREATIES &amp; AGREEMENTS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE0009TJS</classCode><className>BILL RICHARDSON</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"77\"><classCode>GX357</classCode><className>KINSHASA, CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"state\"><classificationItem score=\"79\"><classCode>GS147</classCode><className>NEW MEXICO, USA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC500</classCode><className>ANGOLA</className><classCode/><className/></classificationItem><classificationItem score=\"94\"><classCode>GC343</classCode><className>UNITED STATES</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC554</classCode><className>RWANDA</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC371</classCode><className>KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF</className><classCode/><className/></classificationItem><classificationItem score=\"79\"><classCode>GC382</classCode><className>SUDAN</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Associated Press International",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}

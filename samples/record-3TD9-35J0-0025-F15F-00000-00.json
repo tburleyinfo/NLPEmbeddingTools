@@ -1,0 +1,57 @@
+{
+  "ResultId": "urn:contentItem:3TD9-35J0-0025-F15F-00000-00",
+  "Jurisdiction": "International",
+  "Location": null,
+  "ContentType": "News",
+  "Byline": null,
+  "WordLength": 267,
+  "WebNewsUrl": null,
+  "Geography": null,
+  "NegativeNews": null,
+  "Language": null,
+  "Industry": null,
+  "People": null,
+  "Subject": null,
+  "Section": "International news news",
+  "Company": null,
+  "PublicationType": null,
+  "Publisher": null,
+  "GroupDuplicates": null,
+  "InternationalLocation": null,
+  "SearchType": "Boolean",
+  "Date": "1997-05-15T00:00:00Z",
+  "Keyword": null,
+  "Title": "S.Africans planned Mobutu to step down for all-party transition transition",
+  "DocumentContent@odata.mediaReadLink": "Documents(DocumentId='%2fshared%2fdocument%2fnews%2furn%3acontentItem%3a3TD9-35J0-0025-F15F-00000-00',DocumentIdType='DocFullPath')/$value",
+  "DocumentContent@odata.mediaContentType": "application/atom+xml",
+  "Overview": "Agence France Presse -- English english, International news news, 267words",
+  "Extracts": [
+    {
+      "Type": "Extract",
+      "SummaryText": "<div>...  Mobutu step down in favour of a <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">transitional government</xhtml:span> grouping all of  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> 's opposition parties, the station said.  said. South African officials planned to present Mobutu and Kabila with the proposal during scheduled Mobutu-Kabila talks which failed to materialise Wednesday aboard the South African navy ship. Mobutu, who waited until Thursday morning for Kabila, left  Pointe Noire  Thursday for  Kinshasa . A key  South African  mediator, Deputy President Thabo Mbeki, was expected to meet  <xhtml:span class=\"hit\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">Zaire</xhtml:span> ...</div>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h1\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... the Congo, proposed that Mobutu step down in favour of a <xhtml:span class=\"hit\">transitional government</xhtml:span> grouping all of  <xhtml:span class=\"hit\">Zaire</xhtml:span> 's opposition parties, the station said.  said....</xhtml:span>"
+    },
+    {
+      "Type": "Term",
+      "SummaryText": "<xhtml:span id=\"h2\" class=\"hits-fragment\" xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">... South African mediator, Deputy President Thabo Mbeki, was expected to meet <xhtml:span class=\"hit\">Zaire</xhtml:span> 's Foreign Minister Gerard Kamanda wa Kamanda at the Pointe-Noire airport ...</xhtml:span>"
+    }
+  ],
+  "IsCitationMatch": false,
+  "Document": {
+    "DocumentId": "/shared/document/news/urn:contentItem:3TD9-35J0-0025-F15F-00000-00",
+    "DocumentIdType": "DocFullPath",
+    "Content": "<entry xmlns=\"http://www.w3.org/2005/Atom\"><id>urn:contentItem:3TD9-35J0-0025-F15F-00000-00</id><title>S.Africans planned Mobutu to step down for all-party transition transition</title><published>1997-05-15T00:00:00Z</published><updated>2020-08-04T18:48:53Z</updated><author><name>LexisNexis</name></author><content type=\"application/xml\"><!--Transformation version 1.23--><articleDoc xmlns=\"\" xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xsi:noNamespaceSchemaLocation=\"http://www.lexisnexis.com/xmlschemas/content/public/articledoc/1/\" schemaVersion=\"1.8\" xml:lang=\"en\"><articleDocHead><itemInfo><sourceSectionInfo><positionSection>International news news</positionSection></sourceSectionInfo></itemInfo></articleDocHead><nitf:body xmlns:nitf=\"http://iptc.org/std/NITF/2006-10-18/\"><nitf:body.head><nitf:hedline><nitf:hl1>S.Africans planned Mobutu to step down for all-party transition transition</nitf:hl1></nitf:hedline><nitf:dateline>JOHANNESBURG, May 15 15</nitf:dateline></nitf:body.head><nitf:body.content><bodyText><p nitf:lede=\"true\">South African mediators have prepared a draft Zairean peace plan calling on ailing Zairean President Mobutu Sese Seko to hand over power to an all-party transitional authority, private Radio 702 reported here.</p><p nitf:lede=\"true\">A draft South African document, obtained by the radio station's reporter aboard the navy ship Outeniqua in the Congo, proposed that Mobutu step down in favour of a transitional government grouping all of Zaire's opposition parties, the station said.  said.</p><p>South African officials planned to present Mobutu and Kabila with the proposal during scheduled Mobutu-Kabila talks which failed to materialise Wednesday aboard the South African navy ship.</p><p>Mobutu, who waited until Thursday morning for Kabila, left Pointe Noire Thursday for Kinshasa.</p><p>A key South African mediator, Deputy President Thabo Mbeki, was expected to meet Zaire's Foreign Minister Gerard Kamanda wa Kamanda at the Pointe-Noire airport, before jetting off to Cape Town.</p><p>President Nelson Mandela, who Radio 702 said remained \"optimistic\" about the chances for a negotiated settlement, was to meet with Kabila in Cape Town on Thursday afternoon.</p><p>gam/ns ns</p></bodyText></nitf:body.content></nitf:body><metadata><dc:metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\"><dc:source sourceScheme=\"royaltyReportingKey\">AFP1997 AFP1997</dc:source><dc:identifier identifierScheme=\"PGUID\">urn:contentItem:3TD9-35J0-0025-F15F-00000-00</dc:identifier><dc:source sourceScheme=\"productContentSetIdentifier\">10903</dc:source><dc:date dateType=\"last-updated\">2016-01-25</dc:date></dc:metadata><wordCount number=\"267\"/><timeReceived>1512 1512</timeReceived><timeReceived>15:12 GMT gmt</timeReceived><publicationInfo><publicationName>Agence France Presse -- English english</publicationName><copyright>Copyright 1997 Agence France Presse presse</copyright><publicationDate month=\"05\" day=\"15\" year=\"1997\"><dateText>May 15, 1997 1997</dateText></publicationDate></publicationInfo><classification classificationScheme=\"language\"><classificationItem><className>ENGLISH english</className></classificationItem></classification><classificationGroup classificationScheme=\"indexing-terms\"><classification classificationScheme=\"subject\"><classificationItem score=\"78\"><classCode>STX001669</classCode><className>TALKS &amp; MEETINGS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>N928120MM</classCode><className>STATE DEPARTMENTS &amp; FOREIGN SERVICES</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001346</classCode><className>POLITICS</className><classCode/><className/></classificationItem><classificationItem score=\"73\"><classCode>STX001304</classCode><className>PEACE PROCESS</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"industry\"><classificationItem score=\"77\"><classCode>N515110CC</classCode><className>RADIO BROADCAST INDUSTRY</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"person\"><classificationItem score=\"79\"><classCode>PE000DD82</classCode><className>NELSON MANDELA</className><classCode/><className/></classificationItem><classificationItem score=\"58\"><classCode>PE000A3A2</classCode><className>THABO MBEKI</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"city\"><classificationItem score=\"73\"><classCode>GX297</classCode><className>CAPE TOWN, SOUTH AFRICA</className><classCode/><className/></classificationItem></classification><classification classificationScheme=\"country\"><classificationItem score=\"95\"><classCode>GC336</classCode><className>SOUTH AFRICA</className><classCode/><className/></classificationItem><classificationItem score=\"92\"><classCode>GC394</classCode><className>CONGO, THE DEMOCRATIC REPUBLIC OF THE</className><classCode/><className/></classificationItem><classificationItem score=\"59\"><classCode>GT111</classCode><className>AFRICA</className><classCode/><className/></classificationItem></classification></classificationGroup></metadata></articleDoc></content></entry>",
+    "Citation": ""
+  },
+  "Source": {
+    "Id": "",
+    "Name": "Agence France Presse - English",
+    "ContentType": "",
+    "Jurisdiction": null,
+    "Publisher": null,
+    "AlphaCategory": null
+  }
+}
