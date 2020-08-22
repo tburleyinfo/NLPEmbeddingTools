@@ -1,29 +1,78 @@
 # Step one: Data Loading
 
-#TF-IDF decreases accuracy of Neural Embeddings
-# Heres a comparitive analysis: http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/
-
-
 import json
 from bs4 import BeautifulSoup
-from nltk.tokenize.treebank import TreebankWordDetokenizer
+from nltk.tokenize.treebank import TreebankWordTokenizer, TreebankWordDetokenizer
 import os
 import pandas as pd
+import csv
+import logging
 
-#ELMo is a TensorFlow Algorithm. 
-import tensorflow_hub as hub
-#import tensorflow as tf
-import tensorflow.compat.v1 as tf
-from tensorflow.compat.v1 import ConfigProto
-from tensorflow.compat.v1 import InteractiveSession
+#Suppress Tensorflow Warnings
+#os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # FATAL
+#logging.getLogger('tensorflow').setLevel(logging.FATAL)
 
-config = ConfigProto()
-config.gpu_options.allow_growth = True
-session = InteractiveSession(config=config)
-#To make tf 2.0 compatible with tf1.0 code, we disable the tf2.0 functionalities
-#tf.disable_eager_execution()
+class Clean:
+    #Suppress Tensorflow Warnings
+    os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # FATAL
+    logging.getLogger('tensorflow').setLevel(logging.FATAL)
+    
+    
+    def docx2csv(directory, label='yes', name="DOCX.csv"):
+        from docx import Document
+        home = os.getcwd()
+        os.chdir(directory)
+        data = []
+        for filename in os.listdir(os.getcwd()):
+            try:
+                name, file_extension = os.path.splitext(filename)
+                if '.docx' in file_extension or '.DOCX' in file_extension:
+                    data.append(filename)
+            except ValueError:
+                continue
+                
+        #READ each document
+        book = []
+        for file in data:
+            document = Document(file)
+            lines = [] 
 
-class PreProcess:
+            #convert DOCX to text
+            for p in document.paragraphs:
+                text = p.text
+                #text = text.encode('utf-8')
+                lines.append(text)
+            entries = []
+
+            #detokenize
+            d = TreebankWordDetokenizer()
+            bodytext = d.detokenize(lines)
+            bodytext = str(bodytext)
+
+            #sever the unwanted head and tail
+            bodytext, sep, tail = bodytext.partition("Classification   Language:")  
+            head, sep, bodytext = bodytext.partition("Body ")  
+
+            #add label 
+            entries.append(label)
+
+            #clean encodings
+            #bodytext = bodytext.decode("utf8")
+            bodytext = bodytext.replace("\\xc2\\xa0", "")
+            bodytext = bodytext.replace("\\xc2", "")  
+            entries.append(bodytext.encode("utf-8"))
+            #print(entries)
+
+            #append to the book 
+            book.append(entries) 
+
+        os.chdir(home)
+        #write to CSV file 
+        with open("preprocess/"+name, "w") as data:  
+            writer = csv.writer(data)
+            writer.writerows(book)
+        
+
     def textract(directory):
 
         def jsonReader(filename):
@@ -35,10 +84,13 @@ class PreProcess:
         os.chdir(directory)
         data = []
         for filename in os.listdir(os.getcwd()):
-            name, file_extension = os.path.splitext(filename)
-            if '.json' in file_extension:
-                my_data = jsonReader(filename)
-                data.append(my_data)
+            try:
+                name, file_extension = os.path.splitext(filename)
+                if '.json' in file_extension:
+                    my_data = jsonReader(filename)
+                    data.append(my_data)
+            except ValueError:
+                continue
 
         from cleantext import clean
         
@@ -76,7 +128,7 @@ class PreProcess:
         os.chdir(home)
         return textlist
 
-    def metaDataFrame(directory, to_csv=True):
+    def metaDataFrame(directory, to_csv=True, name="output.csv"):
 
         def jsonReader(filename):
             with open(filename) as f_in:
@@ -88,12 +140,15 @@ class PreProcess:
         now = os.getcwd()
         data = []
         os.listdir(os.getcwd())
+         
         for filename in os.listdir(os.getcwd()):
-            name, file_extension = os.path.splitext(filename)
-            if '.json' in file_extension:
-                my_data = jsonReader(filename)
-                data.append(my_data)
-               
+            try:
+                name, file_extension = os.path.splitext(filename)
+                if '.json' in file_extension:
+                    my_data = jsonReader(filename)
+                    data.append(my_data)
+            except ValueError:
+                continue
 
         from cleantext import clean
         
@@ -143,8 +198,10 @@ class PreProcess:
             doc_ids.append(str(soup.getText()).replace("urn:contentItem:", ""))
 
         name = str(directory).split("-")[0]
+        name = name.rsplit('/', 1)[1]
         #.replace("_", " ")
         country = [name] * len(dates)
+        
 
         #Write DATAFRAME
         table = [country, textlist, dates, doc_ids]
@@ -154,9 +211,8 @@ class PreProcess:
         os.chdir(home)
 
         if to_csv==True:
-            import csv
             rows = zip(country, textlist, dates, doc_ids)
-            with open("output.csv", "w") as f:
+            with open("preprocess/"+name, "w") as f:
                 writer = csv.writer(f)
                 for row in rows:
                     writer.writerow(row)
@@ -206,15 +262,12 @@ class Visualize:
     def Dendrite(model): 
         """
         from scipy.cluster.hierarchy import dendrogram, linkage
-
         l = linkage(model.wv.syn0, method='complete', metric='seuclidean')
-
         # calculate full dendrogram
         plt.figure(figsize=(200, 200)) 
         plt.title('Hierarchical Clustering Dendrogram')
         plt.ylabel('word')
         plt.xlabel('distance')
-
         dendrogram(
             l,
             leaf_rotation=90.,  # rotates the x axis labels
@@ -228,6 +281,21 @@ class Visualize:
 
 
 class Vectorize:
+    #ELMo is a TensorFlow Algorithm. 
+    import tensorflow_hub as hub
+    #import tensorflow as tf
+    import tensorflow.compat.v1 as tf
+    from tensorflow.compat.v1 import ConfigProto
+    from tensorflow.compat.v1 import InteractiveSession
+
+    config = ConfigProto()
+    config.gpu_options.allow_growth = True
+    session = InteractiveSession(config=config)
+    tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
+
+    #To make tf 2.0 compatible with tf1.0 code, we disable the tf2.0 functionalities
+    #tf.disable_eager_execution()
+
     def elmo(data): #Input should be a list of sentences. 
         #Use this to define a function for creating tf sessions so it's less resource heavy
         def embed_elmo2(module):
@@ -263,6 +331,7 @@ class Vectorize:
         import nltk
         from gensim.models import Word2Vec
         words = []
+        nltk.download('punkt')
         for i in range(len(data)):
             #nltk.download('averaged_perceptron_tagger')
             text = word_tokenize(data[i])
@@ -379,4 +448,3 @@ class Coincedence:
         # Normalisation and output
         return (np.float32(prec12)/(l1-n11), np.float32(trig12)/(l2-n22),
                 np.float32(prec21)/(l2-n21), np.float32(trig21)/(l1-n12))
-                
